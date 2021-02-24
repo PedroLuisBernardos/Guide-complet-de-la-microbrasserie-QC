@@ -1,6 +1,6 @@
 # Le Petit Guide de la Micro Québecoise
 
-```
+
 Je ne cherche pas à faire de pub en faisant ce guide.
 Je ne suis pas payé pour faire ce petit guide, je le fais pour le plaisir!
 Mon but est de partager mon expérience avec la bière pour initier des futurs amateurs de bière!
@@ -18,7 +18,7 @@ Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stout
 Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
 
 Cheers!
-```
+
 
 ---
 
@@ -121,10 +121,10 @@ Légère
 
 
 #### Rye, bière de seigle
-```
+
 (J'ai goûté uniquement celle de @Brewskey mais elle est difficilement accessible. En général j'imagine que ça goûte pas mal pareil les Rye Amber/Rye IPA)
 Il y a aussi Fashion Victim @Les Grands Bois qui a l'air pas pire.
-```
+
 Seigle grillé
 Caramel
 Fumée
@@ -138,15 +138,15 @@ Texture crispy et smooth
 
 
 #### Pale Ale
-```
+
 Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume ce serait une bonne idée de vous initier aux IPA en goûtant des bonnes Pale Ale! Je sais que @Brewskey et @Boréale en font des très bonnes mais je n'ai jamais eu la chance de les goûter.
-```
 
 
-```
+
+
 Par expérience, les IPA des brasseries les plus "populaires" sont difficiles à trouver (Sir John serait la plus accessible) donc je vais vous proposer d'autres IPA d'autres brasseries qui sont aussi très bonnes :D Let's go! Je commence avec des IPA très fruitées, pas résineuses et peu amères:
 
-```
+
 
 ### Ukulele (HBC 644 & HBC 342) @Lagabière
 #### NEIPA
@@ -177,9 +177,9 @@ Texture juicy et hazy (*la Double Descente est un peu plus liquide*)
 
 
 
-```
+
 Dans une autre corde de goûts. Personnellement je l'aime moins mais il faut lui donner une chance!
-```
+
 
 ### Moralité @Dieu du Ciel
 Agrumes
@@ -207,9 +207,9 @@ Amertume tranchante
 
 
 
-```
+
 Un excellent mix des deux palettes:
-```
+
 
 ### Métamorphe @Le Castor
 ### Lutine de @Le Castor
@@ -224,13 +224,13 @@ Amère
 
 
 
-```
+
 IPA Américaine/DIPA/TIPA/Quadruple IPA/NEIPA (les bières Américaines sont souvent plus fortes en alcool, ont plus de goûts prononcés, plus d'amertume... Plus de tout ahahaha. Les Double IPA, Triple IPA... EN GROS, plus on ajoute un gros chiffre plus c'est fort en alcool. Les NEIPA sont des IPA moins amères et beaucoup plus houblonnées et aux goûts d'agrumes prononcés, excellentes pour s'initier!)
 
 Les IPA de la Côte Ouest et les IPA Américaine sont des IPA axées sur les goûts résineux et piney. Souvent amères et pas beaucoup fruitées.
 
 Il y a des IPA sûres, IPA au Gingembre, IPA noires, IPA blanches, Milkshake IPA, IPA de toutes les sortes! Je peux pas toutes les aborder :P Mais en voici quand même quelques unes:
-```
+
 
 
 
@@ -361,9 +361,9 @@ Texture crémeuse
 *Si vous n'aimez pas le gros goût de sucre/dessert ça pourrait être un bon pont vers les Pastry Stout*
 
 
-```
+
 Il y a énormément de différences entre les Imperial Stout: ajout de fruits, noix de coco, vanille, café, piments, alcool fort, bois... Je ne peux pas toutes les aborder!
-```
+
 
 
 
@@ -389,9 +389,9 @@ Lactose
 Texture crémeuse
 
 
-```
+
 N'importe laquelle de @Brewskey. Si vous avez la chance de vous en procurer une! C'est très sucrée et jamais barriqué en général.
-```
+
 
 
 
@@ -444,32 +444,32 @@ Robe dorée
 
 
 #### Smoothie Beer
-```
+
 Fruitée, sucrée, lactose, goûte Vraiment le fruit que c'est sensé goûter, 0 amère, un peu sûre, pas acide, incroyable texture de smoothie, mottons présents (en petite quantité).
 N'importe quelle BrewJuice, BrewCake ou Cobbler de @Brewskey, Petit Jus de Mort de @Messorem Bracitorium, Smoothie aux QQCH des @Insulaires et Gros Jus de @La Centrale.
-```
+
 
 
 #### Fruit Beer
-```
+
 Texture entre légère et smoothie, pas de mottons, gros goût de fruits, un peu sûre/acidulée, 0 amère.
 Megafruits Raptor de @La Barberie, Mango Jelly @OverHop, etc.
-```
+
 
 
 #### Berliner Weisse
-```
+
 Texture légère, pas de motons, goût de fruits assez subtile, rafraîchissante, 0 amère, sûre et acidulée.
 N'importe quelle Rocket de @L'Octant, n'importe quelle Solstice d'Été de @Dieu du Ciel, Limoilou Beach de @La Souche (plus acide)...
 Une autre intéressante est Silo F de @Silo, elle goûte la goyave! Rares sont les bières à la goyave!
-```
 
-```
+
+
 Je trouve que les Fruit Beer et Berliner Weisse sont souvent mélangées. Je pense qu'une Berliner Weisse est plus acide, sûre et légère, tandis qu'une Fruit Beer a des goûts fruités pas mal plus prononcés et une texture un petit peu plus crispy.
 Pour la Smoothie Beer c'est sa texture qui la caractérise en plus de son acidité négligeable.)
 
 Il y a énormément de différences entre les bières sûres : leur texture, leur goût, les ingrédients utilisés, leur acidité, l'utilisation du bois ou non... Je peux pas toutes les aborder! Voici d'autres styles aussi sûrs:
-```
+
 
 
 
