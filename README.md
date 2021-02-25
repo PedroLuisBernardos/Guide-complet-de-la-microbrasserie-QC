@@ -81,9 +81,9 @@ légère
 
 ### Světlý Výčepní, pilsner tchèque
 ---
-**Světlý Výčepní 10⁰ @Isle de Garde **
+**Světlý Výčepní 10⁰ @Isle de Garde**
 
-`(La meilleure pilsner à mon avis: 0 amère, beaucoup de céréales, gros goût présent qui reste en bouche longtemps! Se procure uniquement chez IdG (coin Christophe-Colomb/Beaubien à Montréal) pendant l'été. Les Světlý Výčepní des autres brasseries sont moins bonnes selon moi)`
+La meilleure pilsner tout compris à mon avis: 0 amère, beaucoup de céréales, gros goût présent qui reste en bouche longtemps! Se procure uniquement chez Îsle de Garde pendant l'été
 
 **Coup de Foudre - Výčepní @Les Grands Bois**
 
@@ -199,7 +199,7 @@ texture juicy et hazy (*la Double Descente est un peu plus liquide*),
 
 **Double Catnip de @Noctem**
 
-**Tête de Pioche **@Prosprecteur
+**Tête de Pioche @Prosprecteur**
 
 **Réverbère #2 @Brasserie Générale**
 
@@ -606,7 +606,7 @@ un peu la banane,
 
 **Blanche de Chambly @Unibroue**
 
-**La 475 Blanche de Pattro @Pit Caribou **
+**La 475 Blanche de Pattro @Pit Caribou**
 
 Fruitée,
 pelure d'orange,
