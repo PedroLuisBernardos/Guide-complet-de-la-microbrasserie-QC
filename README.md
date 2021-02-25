@@ -35,6 +35,7 @@ Cheers!
 ### Pilsner Czech
 
 **Louvain @Silo**
+
 Céréales
 
 Malt
@@ -45,8 +46,8 @@ Légère
 
 
 
-### Pilsner Czech @L'Hermite
-#### Pilsner Czech
+**Pilsner Czech @L'Hermite**
+
 Céréales
 
 Citron
@@ -58,9 +59,10 @@ Herbacée
 Amertume modérée
 
 
+### Pale
 
-### Pivo Červený @L'amère à boire
-#### Pale
+**Pivo Červený @L'Amère à Boire**
+
 Céréales
 
 Herbacée
@@ -72,11 +74,14 @@ Caramel
 Amère (leur **Černá** est moins amère)
 
 
+### Kölsch, blonde allemande (ma sorte de lager blonde préféré)
 
-### Saint-Laurent @Silo
-### Sentinelle @Dieu du Ciel
-### Monsieur Madame @Ras L'Bock
-#### Kölsch, blonde allemande (ma sorte de lager blonde préféré)
+**Saint-Laurent @Silo**
+
+**Sentinelle @Dieu du Ciel**
+
+**Monsieur Madame @Ras L'Bock**
+
 Céréales
 
 Malt
@@ -88,11 +93,15 @@ Un peu de miel
 Effervescente, rafraîchissante et légère
 
 
+### Světlý Výčepní, pilsner tchèque
 
-### Světlý Výčepní 10⁰ @Isle de Garde 
+**Světlý Výčepní 10⁰ @Isle de Garde **
+
 `(La meilleure pilsner à mon avis: 0 amère, beaucoup de céréales, gros goût présent qui reste en bouche longtemps! Se procure uniquement chez IdG (coin Christophe-Colomb/Beaubien à Montréal) pendant l'été. Les Světlý Výčepní des autres brasseries sont moins bonnes selon moi)`
-### Coup de Foudre - Výčepní @Les Grands Bois (est une très bonne interprétation aussi)
-#### Světlý Výčepní, pilsner tchèque
+**Coup de Foudre - Výčepní @Les Grands Bois**
+
+`(est une très bonne interprétation aussi)`
+
 Céréales
 
 Texture cripsy
@@ -102,9 +111,10 @@ Rafraichissante
 Légère
 
 
+### Helles, lager allemande (la différence entre les autres Lager Allemandes est plus sur l'histoire que sur le goût)
 
-### Coup de Foudre - Helles @Les Grands Bois
-#### Helles, lager allemande (la différence est plus sur l'histoire que sur le goût)
+**Coup de Foudre - Helles @Les Grands Bois**
+
 Céréales
 
 Florale
@@ -116,9 +126,10 @@ Légère
 
 ## Rousses
 
+### American Red Ale, rousse américaine
 
-### La Bonne Aventure @Pit Caribou
-#### American Red Ale, rousse américaine
+**La Bonne Aventure @Pit Caribou**
+
 Caramel
 
 Cassonade
@@ -130,9 +141,10 @@ Légère amertume
 Légère
 
 
+### Irish Red Ale, rousse irlandaise
 
-### Gros Pin @La Souche
-#### Irish Red Ale, rousse irlandaise
+**Gros Pin @La Souche**
+
 Caramel
 
 Mal rôtis
@@ -148,9 +160,10 @@ Sèche
 Très légère, le goût est pas mal subtile
 
 
+### Altbier, rousse allemande
 
-### Fleury @Silo (ma rousse préférée!)
-#### Altbier, rousse allemande
+**Fleury @Silo (ma rousse préférée!)**
+
 Caramel
 
 Malt
@@ -163,7 +176,7 @@ Légère
 
 
 
-#### Rye, bière de seigle
+### Rye, bière de seigle
 
 `(J'ai goûté uniquement celle de @Brewskey mais elle est difficilement accessible. En général j'imagine que ça goûte pas mal pareil les Rye Amber/Rye IPA)
 Il y a aussi Fashion Victim @Les Grands Bois qui a l'air pas pire.`
@@ -184,7 +197,7 @@ Texture crispy et smooth
 ## IPA
 
 
-#### Pale Ale
+### Pale Ale
 
 `Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume ce serait une bonne idée de vous initier aux IPA en goûtant des bonnes Pale Ale! Je sais que @Brewskey et @Boréale en font des très bonnes mais je n'ai jamais eu la chance de les goûter.`
 
@@ -195,8 +208,8 @@ Texture crispy et smooth
 
 
 
-### Ukulele (HBC 644 & HBC 342) @Lagabière
-#### NEIPA
+**Ukulele (HBC 644 & HBC 342) @Lagabière**
+
 Houblonnée
 
 Fruits tropicaux
@@ -207,8 +220,10 @@ Texture juicy ey hazy
 
 
 
-### Double Descente @Boréale
-### IPA du Nord-Est @Boréale
+**Double Descente @Boréale**
+
+**IPA du Nord-Est @Boréale**
+
 Très houblonnée
 
 Fruits tropicaux
@@ -223,12 +238,17 @@ Texture juicy et hazy (*la Double Descente est un peu plus liquide*)
 
 
 
-### Catnip @Noctem
-### Double Catnip de @Noctem
-### Tête de Pioche ### @Prosprecteur (j'ai goûté la 272 et c'était 0 amer, 100% fruité et houblonné! J'ai initié un de mes amis avec ça et j'ai réussi hehehe)
-### Réverbère #2 @Brasserie Générale
-### Double Fruit Punch @Vox Populi
-### Etc.
+**Catnip @Noctem**
+
+**Double Catnip de @Noctem**
+
+**Tête de Pioche **@Prosprecteur (j'ai goûté la 272 et c'était 0 amer, 100% fruité et houblonné! J'ai initié un de mes amis avec ça et j'ai réussi hehehe)**
+
+**Réverbère #2 @Brasserie Générale**
+
+**Double Fruit Punch @Vox Populi**
+
+**Etc.**
 
 
 
@@ -236,7 +256,8 @@ Texture juicy et hazy (*la Double Descente est un peu plus liquide*)
 `Dans une autre corde de goûts. Personnellement je l'aime moins mais il faut lui donner une chance!`
 
 
-### Moralité @Dieu du Ciel
+**Moralité @Dieu du Ciel**
+
 Agrumes
 
 Résineux
@@ -249,7 +270,8 @@ Sèche
 
 
 
-### Ta Meilleure @Lagabière
+**Ta Meilleure @Lagabière**
+
 Fruitée
 
 Floral / Herbeux
@@ -260,8 +282,10 @@ Amère
 
 
 
-### West Coast IPA @Mille Îles
-### IPA de la Côte Ouest @Knowlton Co.
+**West Coast IPA @Mille Îles**
+
+**IPA de la Côte Ouest @Knowlton Co.**
+
 Houblonnée
 
 Agrumes
@@ -276,9 +300,10 @@ Amertume tranchante
 `Un excellent mix des deux palettes:`
 
 
-### Métamorphe @Le Castor
-### Lutine de @Le Castor
-#### Double NEIPA
+**Métamorphe @Le Castor**
+
+**Lutine de @Le Castor**
+
 Très houblonnée
 
 Fruits tropicaux
@@ -304,10 +329,10 @@ Amère
 
 
 
+### IPA White
 
-### Juteuse @Ras L'Bock
+**Juteuse @Ras L'Bock**
 
-#### IPA White
 Houblonnée
 
 Agrumes
@@ -323,12 +348,17 @@ Levures belges
 Amère
 
 
+### Milkshake IPA, IPAs au goûts de lactose et de vanille prononcés
 
-### Los Tabarnacos @Brasserie du Bas Canada 
+**Los Tabarnacos @Brasserie du Bas Canada**
+
 `(assez difficile à trouver et pas toujours en magasin, mais je trouve que ce sont les meilleures du style!)`
-### Milkshake @Le BockAle
-### Watatawow @Ras L'Bock
-#### Milkshake IPA, IPAs au goûts de lactose et de vanille prononcés
+
+
+**Milkshake @Le BockAle**
+
+**Watatawow @Ras L'Bock**
+
 Lactose
 
 Vanille
@@ -340,11 +370,15 @@ Très peu/Pas amère
 Souvent assez liquides/légères
 
 
+### IPA Sour
 
-### N'importe quelle Fructis Mortis de @Messorem Bracitorium 
+**N'importe quelle Fructis Mortis de @Messorem Bracitorium**
+
 `(*c'est très difficile à se procurer si on ne va pas sur place, et ils ne vendent que des 4-pack. Mais c'est définitivement la meilleure du style*)`
-### Banjo @Jukebox
-#### IPA Sour
+
+
+**Banjo @Jukebox
+
 Houblonnée
 
 Ananas et tangérine (ou d'autres pour les Fructis Mortis que vous trouverez)
@@ -358,9 +392,10 @@ Rafraîchissante
 Texture légère
 
 
+### IPA Brut
 
-### IPA Sucée Extra Brut @MonsRegius
-#### IPA Brut
+**IPA Sucée Extra Brut @MonsRegius**
+
 Fruitée
 
 Un petit peu piney
@@ -378,10 +413,12 @@ Douce amertume
 
 ## Brunes
 
+### American/Brittish Brown Ale
 
-### Castelnau @Dieu du Ciel
-### Hazel @Vox Populi
-#### American/Brittish Brown Ale
+**Castelnau @Dieu du Ciel**
+
+**Hazel @Vox Populi**
+
 Noix
 
 Céreales rôties
@@ -399,10 +436,12 @@ Amères
 Texture crispy
 
 
+### Barleywine/Vin d'orge
 
-### Solstice d'hiver @Dieu du Ciel
-### Monarque - Vin d'orge obscur @8e Péché
-#### Barleywine/Vin d'orge
+**Solstice d'hiver @Dieu du Ciel**
+
+**Monarque - Vin d'orge obscur @8e Péché**
+
 Céréales rôties
 
 Dark
@@ -420,9 +459,10 @@ Amère
 
 ## Noires
 
+### Imperial Stout
 
-### Péché Mortel @Dieu du Ciel
-#### Impérial Stout
+**Péché Mortel @Dieu du Ciel**
+
 Café
 
 Céréales rôties
@@ -437,9 +477,11 @@ Texture crémeuse
 
 
 
-### Impériale Scotch @Beauregard 
+**Impériale Scotch @Beauregard**
+
 `(leur autres bières affinées en fût de quelque-chose sont très bonnes aussi!)`
-#### Impériale Stout
+
+
 Chocolat
 
 Noisette
@@ -456,8 +498,8 @@ Texture crémeuse
 
 
 
-### Nocturna Affogato @MonsRegius
-#### Impérial Stout
+**Nocturna Affogato @MonsRegius**
+
 Chocolat
 
 Vanille
@@ -474,8 +516,8 @@ Texture liquide (*pourraît être une initiation aux Pastry Stout si vous n'aime
 
 
 
-### Russe Impériale Stout @Vrooden
-#### Impérial Stout Russe
+**Russe Impériale Stout @Vrooden**
+
 Chocolat
 
 Bourbon
@@ -493,10 +535,10 @@ Texture crémeuse
 `Il y a énormément de différences entre les Imperial Stout: ajout de fruits, noix de coco, vanille, café, piments, alcool fort, bois... Je ne peux pas toutes les aborder!`
 
 
+### Pastry Stout
 
+**Déliquescence @8e Péché**
 
-### Déliquescence @8e Péché
-#### Pastry Stout
 Chocolat
 
 Noix
@@ -511,8 +553,8 @@ Texture très crémeuse (du *Nutella* en cannette)
 
 
 
-### Impériale Choco-Café avec amandes @Beauregard
-#### Pastry Stout
+**Impériale Choco-Café avec amandes @Beauregard**
+
 Chocolat
 
 Amandes grillées
@@ -529,14 +571,13 @@ Texture crémeuse
 
 
 
-`N'importe laquelle de @Brewskey. Si vous avez la chance de vous en procurer une! C'est très sucrée et jamais barriqué en général.`
+**N'importe laquelle de @Brewskey. Si vous avez la chance de vous en procurer une! C'est très sucrée et jamais barriqué en général.**
 
 
+### Porter Baltique
 
+**Porter Baltique @Beauregard**
 
-### Porter Baltique @Beauregard
-
-#### Porter Baltique
 Chocolat
 
 Vanille
@@ -551,8 +592,8 @@ Texture crémuse
 
 
 
-### La Gayo @Les Insulaires
-#### Porter Baltique au café
+**La Gayo @Les Insulaires**
+
 Café en masse!
 
 Cendres
@@ -565,8 +606,8 @@ Un peu de piment fort
 
 
 
-### Porter Baltique @LTM
-#### Porter Baltique
+**Porter Baltique @LTM**
+
 Café
 
 Cigare
@@ -578,9 +619,10 @@ Fumée
 *Pourraît être une initiation aux Stout bien dark et pas chocolatées comme la Péché Mortel regulière*
 
 
+### White Stout
 
-### Stout Blanc @Oshlag
-#### White Stout
+**Stout Blanc @Oshlag**
+
 Café
 
 Vanille
@@ -591,9 +633,7 @@ Chocolat au lait
 
 Robe dorée
 
-*Une Stout n'est pas nescessairement une bière noire. Techniquement le mot Stout fait [historiquement] référence aux bières fortes en alcool.*
-
-**On dirait un café glacé!**
+*Une Stout n'est pas nescessairement une bière noire. Techniquement le mot Stout fait [historiquement] référence aux bières fortes en alcool. On dirait un café glacé!*
 
 
 ---
@@ -601,17 +641,17 @@ Robe dorée
 ## Sûres/Acides/Fruitées
 
 
-#### Smoothie Beer
+### Smoothie Beer
 `Fruitée, sucrée, lactose, goûte Vraiment le fruit que c'est sensé goûter, 0 amère, un peu sûre, pas acide, incroyable texture de smoothie, mottons présents (en petite quantité). N'importe quelle BrewJuice, BrewCake ou Cobbler de @Brewskey, Petit Jus de Mort de @Messorem Bracitorium, Smoothie aux QQCH des @Insulaires et Gros Jus de @La Centrale.`
 
 
 
-#### Fruit Beer
+### Fruit Beer
 `Texture entre légère et smoothie, pas de mottons, gros goût de fruits, un peu sûre/acidulée, 0 amère. Megafruits Raptor de @La Barberie, Mango Jelly @OverHop, etc.`
 
 
 
-#### Berliner Weisse
+### Berliner Weisse
 `Texture légère, pas de motons, goût de fruits assez subtile, rafraîchissante, 0 amère, sûre et acidulée. N'importe quelle Rocket de @L'Octant, n'importe quelle Solstice d'Été de @Dieu du Ciel, Limoilou Beach de @La Souche (plus acide)... Une autre intéressante est Silo F de @Silo, elle goûte la goyave! Rares sont les bières à la goyave!`
 
 
@@ -622,10 +662,10 @@ Robe dorée
 
 
 
+### Gueuze
 
-### Ceci n'est pas une Gueuze @LTM
+**Ceci n'est pas une Gueuze @LTM**
 
-#### Gueuze
 Pomme verte surette
 
 Citron
@@ -635,9 +675,10 @@ Acidulée
 *D'habitude les Gueuze coûtent très cher à la SAQ (vous pouvez trouver des 375mL à 20$... peut-être même 30$) - la France et la Belgique font les meilleures, celle-ci est une très bonne interprétation abordable!*
 
 
+### Flander's Red Ale
 
-### Cuvée des Jacobins Rouge @Omer Vander Ghinste (SAQ)
-#### Flander's Red Ale
+**Cuvée des Jacobins Rouge @Omer Vander Ghinste (SAQ)**
+
 Fruitée
 
 Pommes
@@ -652,8 +693,8 @@ Acidulée
 
 
 
-### Rouge de Mékinac @À la Fût
-#### Flander's Red Ale
+**Rouge de Mékinac @À la Fût**
+
 Fruitée de griottes
 
 Vineuse
@@ -665,10 +706,12 @@ Acidulée
 *Bonne initiation aux bières boisées.*
 
 
+### Gose
 
-### La Marine @Insulaires
-### La Calaca @Noctem
-#### Gose
+**La Marine @Insulaires**
+
+**La Calaca @Noctem
+
 Salée
 
 Coriandre
@@ -678,9 +721,10 @@ Citron
 Rafraîchissante
 
 
+### Lambic Framboise
 
-### Framboise @Lindemans (SAQ): 
-#### Lambic Framboise
+**Framboise @Lindemans (SAQ)**
+
 Très sucrée
 
 Gros goût de framboises
@@ -692,13 +736,18 @@ Sûre
 
 ## Autres
 
+### Tripel/Triple Belge
 
-### Triple Karmeliet @Bosteels (SAQ) (*la Tripel classique d'Europe!*)
-### Dominus Vobiscum Triple @Charlevoix
-### La Fin du Monde @Unibroue 
-### Triple Belge aux Poires @Mille Îles ( un gros goût de poire vient s'ajouter)
-### Anna @Vox Populi (belle transition de IPA vers les bières Belges. Celle-ci est pas mal houblonnée)
-#### Tripel/Triple Belge
+**Triple Karmeliet @Bosteels (SAQ) (*la Tripel classique d'Europe!*)**
+
+**Dominus Vobiscum Triple @Charlevoix**
+
+**La Fin du Monde @Unibroue**
+
+**Triple Belge aux Poires @Mille Îles ( un gros goût de poire vient s'ajouter)**
+
+**Anna @Vox Populi (belle transition de IPA vers les bières Belges. Celle-ci est pas mal houblonnée)**
+
 Levures belges
 
 Banane
@@ -708,11 +757,14 @@ Douce
 Sucrée
 
 
+### Belgian Golden Ale/Blonde Belge
 
-### Flacatoune @Charlevoix
-#### Belgian Golden Strong Ale
-### Delerium Tremens @Huyghe (IGA)
-#### Belgian Golden Ale/Blonde Belge
+**Flacatoune @Charlevoix**
+
+### Belgian Golden Strong Ale**
+
+**Delerium Tremens @Huyghe (IGA)**
+
 Levures belges
 
 Un peu la poire
@@ -722,11 +774,14 @@ Un peu la banane
 *Peu goûter l'alcool et un peu pétillante (si Strong) mais reste doux en bouche*
 
 
+### Witbier/Blanche
 
-### Hoegaarden @Hoegarden
-### Blanche de Chambly @Unibroue
-### La 475 Blanche de Pattro @Pit Caribou 
-#### Witbier/Blanche
+**Hoegaarden @Hoegarden**
+
+**Blanche de Chambly @Unibroue**
+
+**La 475 Blanche de Pattro @Pit Caribou **
+
 Fruitée
 
 Pelure d'orange
@@ -742,9 +797,10 @@ Légère
 Douce
 
 
+### Witbier/Blanche, je lui aurais pas donné ce style par contre... peut-être plus Saison
 
-### Tourbière Sûre @La Souche
-#### Witbier/Blanche
+**Tourbière Sûre @La Souche**
+
 Pommettes sûres
 
 Rhubarbe
@@ -762,8 +818,10 @@ Légère
 *C'est une blanche un peu particulière qui ne goûte pas la blanche régulière.*
 
 
-### Sang de Lutin @Brouhaha (la seule du style que j'ai goûtée)
-#### Spiced Beer
+### Spiced Beer
+
+**Sang de Lutin @Brouhaha (la seule du style que j'ai goûtée)**
+
 Florale
 
 Fruitée
@@ -771,9 +829,10 @@ Fruitée
 Épicée: cannelle, poivre, romarin
 
 
+### Gruit/Ancient Herbed Beer
 
-### Bière de Gazebo @L'Espace Public
-#### Gruit/Ancient Herbed Beer
+**Bière de Gazebo @L'Espace Public**
+
 Citron
 
 Gingembre
@@ -789,9 +848,10 @@ Un peu l'anis
 Un peu le romarin
 
 
+### Yam Beer/Pumpkin
 
-### Ale-Ô-Ween @Treffle Noir (la seule du style que j'ai goûtée)
-#### Yam Beer/Pumpkin
+**Ale-Ô-Ween @Treffle Noir (la seule du style que j'ai goûtée)**
+
 Citrouille
 
 Épices: clou de girofle, cannelle
@@ -801,9 +861,10 @@ Douce
 Légère
 
 
+### Steinbier
 
-### Voivoid Lost Machine @Hopfenstark (la seule du style que j'ai trouvée, il doit y en avoir d'autres?)
-#### Steinbier
+**Voivoid Lost Machine @Hopfenstark (la seule du style que j'ai trouvée, il doit y en avoir d'autres?)**
+
 Caramel (*à cause des roches ajoutées pendant le mash (la cuisson des grains)*)
 
 Malt
