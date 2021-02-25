@@ -16,28 +16,13 @@ Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certa
 
 Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur ce guide-ci, je le trouve excellent:
 https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass
+
 Mais si vous ne voulez pas dépenser, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
 Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stouts, 1x Pilsner pour n'importe quelle Lager (vous pouvez ajouter un Mug pour les Lagers allemandes), 1x Nonic Pint pour vos rousses et vos brunes et 1x Tulip pour vos sûres.
 
-Voici un Teku:
+Voici les verres à avoir:
 
-![teku glass](teku.png)
-
-Voici deux différents verres pour les Pilsner:
-
-![pilsner glass](pilsner.png)
-
-Voici trois différents Mugs:
-
-![mug glass](mug.png)
-
-Voici une Pinte Nonic:
-
-![nonic pint glass](nonic.png)
-
-Voici une Tulip:
-
-![tulip glass](tulip.png)
+![Verres](glasses.png)
 
 **24-pack pour débuter**
 
