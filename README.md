@@ -23,6 +23,22 @@ Voici un Teku:
 
 ![teku glass](teku.png)
 
+Voici un verre pour les Pilsner:
+
+![pilsner glass](pilsner.png)
+
+Voici un Mug:
+
+![mug glass](mug.png)
+
+Voici une Pinte Nonic:
+
+![nonic pint glass](nonic.png)
+
+Voici une Tulip:
+
+![tulip glass](tulip.png)
+
 **24-pack pour débuter**
 
 À la fin je vous laisse une section avec une caisse de 24x idéale pour s'initier et découvrir son palais et une caisse de 24x pour aller plus loin et découvrir des styles et goûts plus funky.
