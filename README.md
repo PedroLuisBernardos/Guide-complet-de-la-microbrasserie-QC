@@ -170,8 +170,10 @@ Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume 
 
 ---
 
-Par expérience, les IPA des brasseries les plus "populaires" sont difficiles à trouver (Sir John serait la plus accessible) donc je vais vous proposer d'autres IPA d'autres brasseries qui sont aussi très bonnes :D Let's go! Je commence avec des IPA très fruitées, pas résineuses et peu amères:
-
+Par expérience, les IPA des brasseries les plus "populaires" sont difficiles à trouver (Sir John serait la plus accessible) donc je vais vous proposer d'autres IPA d'autres brasseries qui sont aussi très bonnes :D Let's go! 
+---
+Je commence avec des IPA très fruitées, peu résineuses, peu piney et peu amères:
+---
 
 **Ukulele (HBC 644 & HBC 342) @Lagabière**
 
