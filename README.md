@@ -87,7 +87,7 @@ La meilleure pilsner tout compris à mon avis: 0 amère, beaucoup de céréales,
 
 **Coup de Foudre - Výčepní @Les Grands Bois**
 
-`(est une très bonne interprétation aussi)`
+(est une très bonne interprétation aussi)
 
 Céréales,
 texture cripsy,
@@ -97,7 +97,7 @@ légère
 
 ### Helles, lager allemande
 
-`(la différence entre les autres Lager Allemandes est plus sur l'histoire que sur le goût)`
+(la différence entre les autres Lager Allemandes est plus sur l'histoire que sur le goût)
 
 ---
 **Coup de Foudre - Helles @Les Grands Bois**
@@ -286,7 +286,7 @@ amère
 ---
 **Los Tabarnacos @Brasserie du Bas Canada**
 
-`(assez difficile à trouver et pas toujours en magasin, mais je trouve que ce sont les meilleures du style!)`
+(assez difficile à trouver et pas toujours en magasin, mais je trouve que ce sont les meilleures du style!)
 
 **Milkshake @Le BockAle**
 
@@ -303,7 +303,7 @@ souvent assez liquides/légères
 ---
 **N'importe quelle Fructis Mortis de @Messorem Bracitorium**
 
-`(*c'est très difficile à se procurer si on ne va pas sur place, et ils ne vendent que des 4-pack. Mais c'est définitivement la meilleure du style*)`
+(*c'est très difficile à se procurer si on ne va pas sur place, et ils ne vendent que des 4-pack. Mais c'est définitivement la meilleure du style*)
 
 
 **Banjo @Jukebox**
@@ -381,7 +381,7 @@ texture crémeuse
 
 **Impériale Scotch @Beauregard**
 
-`(leur autres bières affinées en fût de quelque-chose sont très bonnes aussi!)`
+(leur autres bières affinées en fût de quelque-chose sont très bonnes aussi!)
 
 
 Chocolat,
@@ -498,12 +498,15 @@ robe dorée.
 ## Sûres/Acides/Fruitées
 
 ### Smoothie Beer
+---
 Fruitée, sucrée, lactose, goûte Vraiment le fruit que c'est sensé goûter, 0 amère, un peu sûre, pas acide, incroyable texture de smoothie, mottons présents (en petite quantité). N'importe quelle BrewJuice, BrewCake ou Cobbler de @Brewskey, Petit Jus de Mort de @Messorem Bracitorium, Smoothie aux QQCH des @Insulaires et Gros Jus de @La Centrale.
----
+
 ### Fruit Beer
-Texture entre légère et smoothie, pas de mottons, gros goût de fruits, un peu sûre/acidulée, 0 amère. Megafruits Raptor de @La Barberie, Mango Jelly @OverHop, etc.
 ---
+Texture entre légère et smoothie, pas de mottons, gros goût de fruits, un peu sûre/acidulée, 0 amère. Megafruits Raptor de @La Barberie, Mango Jelly @OverHop, etc.
+
 ### Berliner Weisse
+---
 Texture légère, pas de motons, goût de fruits assez subtile, rafraîchissante, 0 amère, sûre et acidulée. N'importe quelle Rocket de @L'Octant, n'importe quelle Solstice d'Été de @Dieu du Ciel, Limoilou Beach de @La Souche (plus acide)... Une autre intéressante est Silo F de @Silo, elle goûte la goyave! Rares sont les bières à la goyave!
 
 
