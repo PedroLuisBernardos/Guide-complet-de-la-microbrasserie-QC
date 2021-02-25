@@ -4,20 +4,20 @@
 
 Je ne cherche pas à faire de pub en faisant ce guide.
 Je ne suis pas payé pour faire ce petit guide, je le fais pour le plaisir!
-Mon but est de partager mon expérience avec la bière pour initier des futurs amateurs de bière!
+Mon but est de partager mon expérience avec la bière pour initier de futurs amateurs de bière!
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel!
 Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
 
 **Produits rares:**
 
-Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et desfois à Montréal, etc. je vais vous mettre plusieurs bières au cas où vous ne trouviez pas tout dans votre région!
+Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal, etc. je vais vous mettre plusieurs bières au cas où vous ne trouviez pas tout dans votre région!
 
 **Quel verre choisir?**
 
 Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur ce guide-ci, je le trouve excellent:
 https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass
-Mais si vous ne voulez pas dépenser je vous conseille d'y aller simplement: achetez vous un Teku et mettez tout ce que vous buvez dedans!
-Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stout, 1x Pilsner pour n'importe quelle Lager (vous pouvez ajouter un Mug pour les Lager Allemandes), 1x Nonic Pint pour vos rousses et vos brunes et 1x Tulip pour vos sûres.
+Mais si vous ne voulez pas dépenser, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
+Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stouts, 1x Pilsner pour n'importe quelle Lager (vous pouvez ajouter un Mug pour les Lagers allemandes), 1x Nonic Pint pour vos rousses et vos brunes et 1x Tulip pour vos sûres.
 
 **24-pack pour débuter**
 
@@ -29,7 +29,7 @@ Cheers!
 
 
 ---
-## Lager Blondes
+## Lagers Blondes
 
 ### Pilsner Czech
 ---
@@ -83,7 +83,7 @@ légère
 ---
 **Světlý Výčepní 10⁰ @Isle de Garde**
 
-La meilleure pilsner tout compris à mon avis: 0 amère, beaucoup de céréales, gros goût présent qui reste en bouche longtemps! Se procure uniquement chez Îsle de Garde pendant l'été
+La meilleure pilsner toute comprise à mon avis: 0 amère, beaucoup de céréales, gros goût présent qui reste en bouche longtemps! Se procure uniquement chez Îsle de Garde pendant l'été.
 
 **Coup de Foudre - Výčepní @Les Grands Bois**
 
@@ -97,7 +97,7 @@ légère
 
 ### Helles, lager allemande
 
-(la différence entre les autres Lager Allemandes est plus sur l'histoire que sur le goût)
+(la différence entre les autres Lagers allemandes est plus sur l'histoire que sur le goût)
 
 ---
 **Coup de Foudre - Helles @Les Grands Bois**
@@ -117,7 +117,7 @@ légère
 
 Caramel,
 cassonade,
-malt rôtis,
+malt rôti,
 légère amertume,
 légère
 
@@ -127,7 +127,7 @@ légère
 **Gros Pin @La Souche**
 
 Caramel,
-mal rôtis,
+malt rôti,
 un peu de noisettes,
 un peu terreux,
 peu amère,
@@ -149,11 +149,11 @@ légère
 
 ### Rye, bière de seigle
 ---
-(J'ai goûté uniquement celle de @Brewskey mais elle est difficilement accessible. En général j'imagine que ça goûte pas mal pareil les Rye Amber/Rye IPA)
+(J'ai goûté uniquement celle de @Brewskey, mais elle est difficilement accessible. En général j'imagine que ça goûte pas mal pareil les Rye Amber/Rye IPA)
 Il y a aussi Fashion Victim @Les Grands Bois qui a l'air pas pire.
 
 Seigle grillé,
-cramel,
+carmel,
 fumée,
 *houblonnée si IPA*,
 texture crispy,
@@ -166,7 +166,7 @@ smooth
 
 ### Pale Ale
 ---
-Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume ce serait une bonne idée de vous initier aux IPA en goûtant des bonnes Pale Ale! Je sais que @Brewskey et @Boréale en font des très bonnes mais je n'ai jamais eu la chance de les goûter.
+Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume, ce serait une bonne idée de vous initier aux IPA en goûtant des bonnes Pale Ale! Je sais que @Brewskey et @Boréale en font des très bonnes, mais je n'ai jamais eu la chance de les goûter.
 
 ---
 
@@ -213,7 +213,7 @@ texture juicy et hazy (*la Double Descente est un peu plus liquide*),
 
 
 ---
-Dans une autre corde de goûts. Personnellement je l'aime moins mais il faut lui donner une chance!
+Dans une autre corde de goûts. Personnellement je l'aime moins, mais il faut lui donner une chance!
 ---
 
 **Moralité @Dieu du Ciel**
@@ -267,9 +267,9 @@ amère.
 
 IPA Américaine/DIPA/TIPA/Quadruple IPA/NEIPA (les bières Américaines sont souvent plus fortes en alcool, ont plus de goûts prononcés, plus d'amertume... Plus de tout ahahaha. Les Double IPA, Triple IPA... EN GROS, plus on ajoute un gros chiffre plus c'est fort en alcool. Les NEIPA sont des IPA moins amères et beaucoup plus houblonnées et aux goûts d'agrumes prononcés, excellentes pour s'initier!)
 
-Les IPA de la Côte Ouest et les IPA Américaine sont des IPA axées sur les goûts résineux et piney. Souvent amères et pas beaucoup fruitées.
+Les IPA de la Côte Ouest et les IPA Américaine sont des IPA axées sur les goûts résineux et piney. Souvent amères et pas très fruitées.
 
-Il y a des IPA sûres, IPA au Gingembre, IPA noires, IPA blanches, Milkshake IPA, IPA de toutes les sortes! Je peux pas toutes les aborder :P Mais en voici quand même quelques unes:
+Il y a des IPA sûres, IPA au Gingembre, IPA noires, IPA blanches, Milkshake IPA, IPA de toutes les sortes! Je ne peux pas toutes les aborder :P, mais en voici quand même quelques-unes:
 
 
 ### IPA White
@@ -285,9 +285,9 @@ levures belges,
 amère
 
 
-### Milkshake IPA, IPAs au goûts de lactose et de vanille prononcés
+### Milkshake IPA, IPAs aux goûts de lactose et de vanille prononcés
 ---
-**Los Tabarnacos @Brasserie du Bas Canada**
+**Los Tabarnacos @Brasserie du Bas-Canada**
 
 (assez difficile à trouver et pas toujours en magasin, mais je trouve que ce sont les meilleures du style!)
 
@@ -312,7 +312,7 @@ souvent assez liquides/légères
 **Banjo @Jukebox**
 
 Houblonnée,
-ananas et tangérine (ou d'autres pour les Fructis Mortis que vous trouverez),
+ananas et tangerine (ou d'autres pour les Fructis Mortis que vous trouverez),
 sûre,
 un peu acide,
 rafraîchissante,
@@ -342,7 +342,7 @@ douce amertume
 **Hazel @Vox Populi**
 
 Noix,
-céreales rôties,
+céréales rôties,
 cendres,
 café,
 malt,
@@ -384,7 +384,7 @@ texture crémeuse
 
 **Impériale Scotch @Beauregard**
 
-(leur autres bières affinées en fût de quelque-chose sont très bonnes aussi!)
+(leurs autres bières affinées en fût de quelque chose sont très bonnes aussi!)
 
 
 Chocolat,
@@ -392,7 +392,7 @@ noisette,
 dark,
 scotch (*bonne initiation au goût de Whisky/Scotch/Bourbon*),
 un peu le café,
-amère mais le chocolat l'adoucit un peu,
+amère, mais le chocolat l'adoucit un peu,
 texture crémeuse
 
 
@@ -405,7 +405,7 @@ cacao,
 café,
 lait 1%,
 amère,
-texture liquide (*pourraît être une initiation aux Pastry Stout si vous n'aimez pas la texture crémeuse*)
+texture liquide (*pourrait être une initiation aux Pastry Stout si vous n'aimez pas la texture crémeuse*)
 
 
 
@@ -416,7 +416,7 @@ bourbon,
 café,
 vanille,
 texture crémeuse.
-*Si vous n'aimez pas le gros goût de sucre/dessert ça pourrait être un bon pont vers les Pastry Stout*
+*Si vous n'aimez pas le gros goût de sucre/dessert, ça pourrait être un bon pont vers les Pastry Stout*
 
 
 
@@ -449,7 +449,7 @@ texture crémeuse
 
 
 
-**N'importe laquelle de @Brewskey. Si vous avez la chance de vous en procurer une! C'est très sucrée et jamais barriqué en général.**
+**N'importe laquelle de @Brewskey. Si vous avez la chance de vous en procurer une! C'est très sucré et jamais barrique en général.**
 
 
 ### Porter Baltique
@@ -460,7 +460,7 @@ Chocolat,
 vanille,
 amandes grillées,
 lactose,
-texture crémuse.
+texture crémeuse.
 *En gros, une Pastry Stout moins intense dans les goûts. On pourrait comparer ça avec des Pale Ale et des IPA... mettons*
 
 
@@ -481,7 +481,7 @@ Café,
 cigare,
 vanille,
 fumée.
-*Pourraît être une initiation aux Stout bien dark et pas chocolatées comme la Péché Mortel regulière*
+*Pourrait être une initiation aux Stout bien dark et pas chocolatées comme la Péché Mortel régulier*
 
 
 ### White Stout
@@ -493,7 +493,7 @@ vanille,
 lait,
 chocolat au lait,
 robe dorée.
-*Une Stout n'est pas nescessairement une bière noire. Techniquement le mot Stout fait [historiquement] référence aux bières fortes en alcool. On dirait un café glacé!*
+*Une Stout n'est pas nécessairement une bière noire. Techniquement le mot Stout fait [historiquement] référence aux bières fortes en alcool. On dirait un café glacé!*
 
 
 ---
@@ -510,12 +510,12 @@ Texture entre légère et smoothie, pas de mottons, gros goût de fruits, un peu
 
 ### Berliner Weisse
 ---
-Texture légère, pas de motons, goût de fruits assez subtile, rafraîchissante, 0 amère, sûre et acidulée. N'importe quelle Rocket de @L'Octant, n'importe quelle Solstice d'Été de @Dieu du Ciel, Limoilou Beach de @La Souche (plus acide)... Une autre intéressante est Silo F de @Silo, elle goûte la goyave! Rares sont les bières à la goyave!
+Texture légère, pas de mottons, goût de fruits assez subtil, rafraîchissante, 0 amère, sûre et acidulée. N'importe quelle Rocket de @L'Octant, n'importe quelle Solstice d'Été de @Dieu du Ciel, Limoilou Beach de @La Souche (plus acide)... Une autre intéressante est Silo F de @Silo, elle goûte la goyave! Rares sont les bières à la goyave!
 
 
-Je trouve que les Fruit Beer et Berliner Weisse sont souvent mélangées. Je pense qu'une Berliner Weisse est plus acide, sûre et légère, tandis qu'une Fruit Beer a des goûts fruités pas mal plus prononcés et une texture un petit peu plus crispy. Pour la Smoothie Beer c'est sa texture qui la caractérise en plus de son acidité négligeable.)
+Je trouve que les Fruit Beer et Berliner Weisse sont souvent mélangés. Je pense qu'une Berliner Weisse est plus acide, sûre et légère, tandis qu'un Fruit Beer a des goûts fruités pas mal plus prononcés et une texture un petit peu plus crispy. Pour la Smoothie Beer c'est sa texture qui la caractérise en plus de son acidité négligeable.)
 
-Il y a énormément de différences entre les bières sûres : leur texture, leur goût, les ingrédients utilisés, leur acidité, l'utilisation du bois ou non... Je peux pas toutes les aborder! Voici d'autres styles aussi sûrs:
+Il y a énormément de différences entre les bières sûres : leur texture, leur goût, les ingrédients utilisés, leur acidité, l'utilisation du bois ou non... Je ne peux pas toutes les aborder! Voici d'autres styles aussi sûrs:
 
 
 ### Gueuze
@@ -525,7 +525,7 @@ Il y a énormément de différences entre les bières sûres : leur texture, leu
 Pomme verte surette,
 citron,
 acidulée.
-*D'habitude les Gueuze coûtent très cher à la SAQ (vous pouvez trouver des 375mL à 20$... peut-être même 30$) - la France et la Belgique font les meilleures, celle-ci est une très bonne interprétation abordable!*
+*D'habitude les Gueuzes coûtent très cher à la SAQ (vous pouvez trouver des 375mL à 20$... peut-être même 30$) - la France et la Belgique font les meilleures, celle-ci est une très bonne interprétation abordable!*
 
 
 ### Flander's Red Ale
@@ -534,7 +534,7 @@ acidulée.
 
 Fruitée,
 pommes,
-cerices,
+cerises,
 très sûre,
 acidulée.
 *Bonne initiation à la bière pour les amateurs de vin rouge.*
@@ -584,7 +584,7 @@ sûre
 
 **Triple Belge aux Poires @Mille Îles ( un gros goût de poire vient s'ajouter)**
 
-**Anna @Vox Populi (belle transition de IPA vers les bières Belges. Celle-ci est pas mal houblonnée)**
+**Anna @Vox Populi (belle transition de IPA vers les bières belges. Celle-ci est pas mal houblonnée)**
 
 Levures belges,
 banane,
@@ -592,7 +592,7 @@ douce,
 sucrée
 
 
-### Belgian Golden Ale/Blonde Belge
+### Belgian Golden Ale/Blonde belge
 ---
 **Flacatoune @Charlevoix**
 
@@ -603,7 +603,7 @@ sucrée
 Levures belges,
 un peu la poire,
 un peu la banane,
-*peu goûter l'alcool et un peu pétillante (si Strong) mais reste doux en bouche*
+*peu goûter l'alcool et un peu pétillante (si Strong), mais reste doux en bouche*
 
 
 ### Witbier/Blanche
@@ -618,12 +618,12 @@ Fruitée,
 pelure d'orange,
 graines de coriandre,
 *épices, selon les recettes*,
-desfois ça goûte un peu la banane,
+des fois ça goûte un peu la banane,
 légère,
 douce
 
 
-### Witbier/Blanche, je lui aurais pas donné ce style par contre... peut-être plus Saison
+### Witbier/Blanche, je ne lui aurais pas donné ce style par contre... peut-être plus Saison
 ---
 **Tourbière Sûre @La Souche**
 
@@ -679,7 +679,7 @@ houblonnée
 
 ---
 
-## À venir (il y a d'autres styles mais je ne les aborderai pas):
+## À venir (il y a d'autres styles, mais je ne les aborderai pas):
 
 Adambier
 
@@ -729,7 +729,7 @@ Winter Warmer ou Winter Ale
 
 ---
 
-# 24 pack essentiel - pour la 24e ajoutez quelque chose que vous avez aimé que vous voulez découvrir avec une autre brasserie!
+# 24-pack essentiel - pour la 24e ajoutez quelque chose que vous avez aimé que vous voulez découvrir avec une autre brasserie!
 
 Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les faire!
 
