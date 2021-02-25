@@ -306,7 +306,7 @@ souvent assez liquides/légères
 `(*c'est très difficile à se procurer si on ne va pas sur place, et ils ne vendent que des 4-pack. Mais c'est définitivement la meilleure du style*)`
 
 
-**Banjo @Jukebox
+**Banjo @Jukebox**
 
 Houblonnée,
 ananas et tangérine (ou d'autres pour les Fructis Mortis que vous trouverez),
@@ -547,7 +547,7 @@ acidulée
 ---
 **La Marine @Insulaires**
 
-**La Calaca @Noctem
+**La Calaca @Noctem**
 
 Salée,
 coriandre,
@@ -590,7 +590,7 @@ sucrée
 ---
 **Flacatoune @Charlevoix**
 
-### Belgian Golden Strong Ale**
+### Belgian Golden Strong Ale
 
 **Delerium Tremens @Huyghe (IGA)**
 
