@@ -23,11 +23,11 @@ Voici un Teku:
 
 ![teku glass](teku.png)
 
-Voici un verre pour les Pilsner:
+Voici deux différents verres pour les Pilsner:
 
 ![pilsner glass](pilsner.png)
 
-Voici un Mug:
+Voici trois différents Mugs:
 
 ![mug glass](mug.png)
 
