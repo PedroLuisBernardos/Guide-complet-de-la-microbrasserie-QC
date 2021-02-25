@@ -29,9 +29,8 @@ Cheers!
 
 
 ---
-
 ## Lager Blondes
----
+
 ### Pilsner Czech
 ---
 **Louvain @Silo**
@@ -63,7 +62,7 @@ caramel,
 amère (leur **Černá** est moins amère)
 
 
-### Kölsch, blonde allemande (ma sorte de lager blonde préféré)
+### Kölsch, blonde allemande
 ---
 **Saint-Laurent @Silo**
 
@@ -96,7 +95,10 @@ rafraichissante,
 légère
 
 
-### Helles, lager allemande (la différence entre les autres Lager Allemandes est plus sur l'histoire que sur le goût)
+### Helles, lager allemande
+
+`(la différence entre les autres Lager Allemandes est plus sur l'histoire que sur le goût)`
+
 ---
 **Coup de Foudre - Helles @Les Grands Bois**
 
@@ -108,7 +110,7 @@ légère
 ---
 
 ## Rousses
----
+
 ### American Red Ale, rousse américaine
 ---
 **La Bonne Aventure @Pit Caribou**
@@ -161,7 +163,7 @@ smooth
 ---
 
 ## IPA
----
+
 ### Pale Ale
 ---
 Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume ce serait une bonne idée de vous initier aux IPA en goûtant des bonnes Pale Ale! Je sais que @Brewskey et @Boréale en font des très bonnes mais je n'ai jamais eu la chance de les goûter.
@@ -197,7 +199,7 @@ texture juicy et hazy (*la Double Descente est un peu plus liquide*),
 
 **Double Catnip de @Noctem**
 
-**Tête de Pioche **@Prosprecteur (j'ai goûté la 272 et c'était 0 amer, 100% fruité et houblonné! J'ai initié un de mes amis avec ça et j'ai réussi hehehe)**
+**Tête de Pioche **@Prosprecteur
 
 **Réverbère #2 @Brasserie Générale**
 
@@ -329,7 +331,7 @@ douce amertume
 ---
 
 ## Brunes
----
+
 ### American/Brittish Brown Ale
 ---
 **Castelnau @Dieu du Ciel**
@@ -494,7 +496,7 @@ robe dorée.
 ---
 
 ## Sûres/Acides/Fruitées
----
+
 ### Smoothie Beer
 Fruitée, sucrée, lactose, goûte Vraiment le fruit que c'est sensé goûter, 0 amère, un peu sûre, pas acide, incroyable texture de smoothie, mottons présents (en petite quantité). N'importe quelle BrewJuice, BrewCake ou Cobbler de @Brewskey, Petit Jus de Mort de @Messorem Bracitorium, Smoothie aux QQCH des @Insulaires et Gros Jus de @La Centrale.
 ---
@@ -565,7 +567,7 @@ sûre
 ---
 
 ## Autres
----
+
 ### Tripel/Triple Belge
 ---
 **Triple Karmeliet @Bosteels (SAQ) (*la Tripel classique d'Europe!*)**
