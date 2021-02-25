@@ -10,7 +10,7 @@ Ceci est une première version! Je vais l'update selon mes nouvelles découverte
 
 **Produits rares:**
 
-Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal, etc. je vais vous mettre plusieurs bières au cas où vous ne trouviez pas tout dans votre région!
+Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal, etc. je vais vous mettre plusieurs bières au cas où vous ne trouviez pas tout dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
 
 **Quel verre choisir?**
 
@@ -18,6 +18,9 @@ Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vou
 https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass
 Mais si vous ne voulez pas dépenser, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
 Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stouts, 1x Pilsner pour n'importe quelle Lager (vous pouvez ajouter un Mug pour les Lagers allemandes), 1x Nonic Pint pour vos rousses et vos brunes et 1x Tulip pour vos sûres.
+
+Voici un Teku:
+![teku glass](teku.png)
 
 **24-pack pour débuter**
 
