@@ -1,21 +1,29 @@
 # Le Petit Guide de la Micro Québecoise
 
+**Quelques infos:**
 
 Je ne cherche pas à faire de pub en faisant ce guide.
 Je ne suis pas payé pour faire ce petit guide, je le fais pour le plaisir!
 Mon but est de partager mon expérience avec la bière pour initier des futurs amateurs de bière!
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel!
+Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
+
+**Produits rares:**
 
 Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et desfois à Montréal, etc. je vais vous mettre plusieurs bières au cas où vous ne trouviez pas tout dans votre région!
+
+**Quel verre choisir?**
 
 Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur ce guide-ci, je le trouve excellent:
 https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass
 Mais si vous ne voulez pas dépenser je vous conseille d'y aller simplement: achetez vous un Teku et mettez tout ce que vous buvez dedans!
 Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stout, 1x Pilsner pour n'importe quelle Lager (vous pouvez ajouter un Mug pour les Lager Allemandes), 1x Nonic Pint pour vos rousses et vos brunes et 1x Tulip pour vos sûres.
 
+**24-pack pour débuter**
+
 À la fin je vous laisse une section avec une caisse de 24x idéale pour s'initier et découvrir son palais et une caisse de 24x pour aller plus loin et découvrir des styles et goûts plus funky.
 
-Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
+
 
 Cheers!
 
@@ -24,9 +32,9 @@ Cheers!
 
 ## Lager Blondes
 
+### Pilsner Czech
 
-### Louvain @Silo
-#### Pilsner Czech
+**Louvain @Silo**
 Céréales
 
 Malt
