@@ -20,6 +20,7 @@ Mais si vous ne voulez pas dépenser, je vous conseille d'y aller simplement: ac
 Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stouts, 1x Pilsner pour n'importe quelle Lager (vous pouvez ajouter un Mug pour les Lagers allemandes), 1x Nonic Pint pour vos rousses et vos brunes et 1x Tulip pour vos sûres.
 
 Voici un Teku:
+
 ![teku glass](teku.png)
 
 **24-pack pour débuter**
