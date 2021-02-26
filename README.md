@@ -261,8 +261,7 @@ résineuse,
 amère.
 *Pourrait être une initiation au goût résineux si vous n'aimez pas ça*
 
-
-
+---
 
 IPA Américaine/DIPA/TIPA/Quadruple IPA/NEIPA (les bières Américaines sont souvent plus fortes en alcool, ont plus de goûts prononcés, plus d'amertume... Plus de tout ahahaha. Les Double IPA, Triple IPA... EN GROS, plus on ajoute un gros chiffre plus c'est fort en alcool. Les NEIPA sont des IPA moins amères et beaucoup plus houblonnées et aux goûts d'agrumes prononcés, excellentes pour s'initier!)
 
@@ -418,9 +417,9 @@ texture crémeuse.
 *Si vous n'aimez pas le gros goût de sucre/dessert, ça pourrait être un bon pont vers les Pastry Stout*
 
 
-
+---
 Il y a énormément de différences entre les Imperial Stout: ajout de fruits, noix de coco, vanille, café, piments, alcool fort, bois... Je ne peux pas toutes les aborder!
-
+---
 
 
 ### Pastry Stout
@@ -712,51 +711,49 @@ peu houblonnée
 
 ## À venir (il y a d'autres styles, mais je ne les aborderai pas):
 
-Adambier
+Adambier *celle de @Vox Populi*
 
-American Wild Ale
+American Wild Ale *Colorado de @Castor*
 
-Belgian Dubbel
-
-Best Bitter
+Belgian Dubbel *je pensais goûter la Dubbel*
 
 Black IPA
 
-Bock - Doppelbock (il y en a d'autres, j'ai décidé d'essayer le Doppelbock)
+Bock - Doppelbock (il y en a d'autres, j'ai décidé d'essayer le Doppelbock) *celle de @LTM*
 
-Cream Ale
+Cream Ale *celle de @Knowlton Co.*
 
-Dark Lager
+Dark Lager *celle de @LTM*
 
-Farmhouse brettée
+Farmhouse brettée *Saison Brett de @LTM*
 
-Flanders Oud Bruin 
+Flanders Oud Bruin *Lapsus de @Benelux*
 
-Grisette
+Grisette *n'importe laquelle de @Dunham*
 
-Hefeweizen
+Hefeweizen *n'importe laquelle à la SAQ*
 
 India Pale Lager
 
-IPA Brut 
+IPA Brut
 
-Kellerbier/ Zwickelbier
+Kellerbier/ Zwickelbier *celle de @Vrooden*
 
 Lambic Kriek
 
-Märzen
+Märzen *celle de @Vrooden
 
-Old Ale
+Old Ale *Ol' Keeper de @Castor*
 
-Rauchbier
+Rauchbier *celle de @Vrooden*
 
-Saison
+Saison *Saison des Plages de @Boréale*
 
-Scotch Ale/Wee Heavy
+Scotch Ale/Wee Heavy *Corne de Glace de @À l'abri de la Tempête*
 
-Wheat Ale
+Wheat Ale *Ale de blé américaine de @Knowlton Co.*
 
-Winter Warmer ou Winter Ale
+Winter Warmer ou Winter Ale *Réserve de Noël de @LTM*
 
 ---
 
@@ -813,7 +810,7 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 | Lager Blonde (amère ou non, l'autre dans l'autre 24-pack) | Rye Amber | IPA Brut | Best Bitter | Impériale Choco-Piment Chipotle @Beauregard | Une Berliner Weisse ou une Smoothie avec un autre fruit |  Une bière au gingembre |
 |||| Barleywine | Stout à l'arachide @Beauregard | Silo F @Silo | Une bière à la citrouille |
 |||| Belgian Dubbel ou Quadruple Belge || Lambic Framboise ou Kriek | Tourbière Sûre @La Souche |
-|||| Smoked Beer || Cidre | Ale de Blé Américaine de @Knowlton Co. |
+|||| Smoked Beer || Cidre | Wheat Beer |
 |||||| Flander's Red Ale | Kellerbier/Zwickelbier |
 ||||||| Tripel aux Poires @Mille Îles |
 ||||||| Märzen |
