@@ -804,19 +804,19 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 ||||||| American Wild Ale |
 ||||||| Winter Warmer |
 
-# 23-pack pour aller plus loin - pour la 24e ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
+# 22-pack pour aller plus loin - pour les 2 autres ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
 
 | Lager Blondes | Rousses | IPAs | Brunes | Noires | Sûres | Autres |
 | :-- | :--: | :--: |  :--: |  :--: | :--: |  --: |
 | Lager Blonde (amère ou non, l'autre dans l'autre 24-pack) | Rye Amber | IPA Brut | Best Bitter | Impériale Choco-Piment Chipotle @Beauregard | Une Berliner Weisse ou une Smoothie avec un autre fruit |  Une bière au gingembre |
 |||| Barleywine | Stout à l'arachide @Beauregard | Silo F @Silo | Une bière à la citrouille |
-|||| Belgian Dubbel ou Quadruple Belge || Lambic Framboise ou Kriek | Une bière au miel |
+|||| Belgian Dubbel ou Quadruple Belge || Lambic Framboise ou Kriek | Tourbière Sûre @La Souche |
 |||| Smoked Beer || Cidre | Ale de Blé Américaine de @Knowlton Co. |
 |||||| Flander's Red Ale | Kellerbier/Zwickelbier |
 ||||||| Tripel aux Poires @Mille Îles |
 ||||||| Märzen |
 ||||||| Farmhouse Saison |
-||||||| Tourbière Sûre @La Souche |
+||||||||
 ||||||||
 
 ---
