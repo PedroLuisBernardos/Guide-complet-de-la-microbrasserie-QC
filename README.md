@@ -824,6 +824,22 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 
 # Produits rares et échanges
 
+**Suivez les pages Facebook et/ou Instagram des brasseries, de vos détaillants (les magasins de bière) proches et de la SAQ**
+
+
+**SAQ**
+
+
+**Quels styles sont rares?**
+
+
+**Quelles brasseries sont rares/échangeables?**
+
+
+**Où échanger?**
+
 [Spotted Auval](https://www.facebook.com/groups/2126136684156698/)
+
 [Bazaar Bière](https://www.facebook.com/groups/1529571330607267/)
+
 [Messorem Bracitorium Enthusiasts](https://www.facebook.com/groups/583611702281464/)
