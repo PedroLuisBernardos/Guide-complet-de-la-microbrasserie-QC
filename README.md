@@ -18,7 +18,7 @@ Vers la fin je vous laisse une section avec une caisse de 24x idéale pour s'ini
 
 **Produits rares**
 
-Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal (je sais pas si ailleurs), etc. je vais vous mettre dans ce guide plusieurs bières au cas où vous ne trouviez pas tous les produits dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
+Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal (je ne sais pas si ailleurs), etc. je vais vous mettre dans ce guide plusieurs bières au cas où vous ne trouviez pas tous les produits dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
 
 À la fin du guide je laisse une section qui vous introduit aux échanges et aux bières rares! Ceci vous permettra de vous procurer à des produits plus rares :)
 
@@ -129,7 +129,7 @@ un peu de noisettes,
 un peu terreux,
 peu amère,
 sèche,
-très légère: le goût est pas mal subtile
+très légère: le goût est pas mal subtil
 
 
 ### Altbier, rousse allemande
@@ -504,12 +504,12 @@ crémeuse.
 *Ça chauffe!*
 
 
-### Stout aux arrachides
+### Stout aux arachides
 ---
 **Stout aux Arrachides @Beauregard**
 
-Arrachides en masse (au nez, pas vraiment au goût),
-notes de torrefction,
+Arachides en masse (au nez, pas vraiment au goût),
+notes de torréfaction,
 un peu de chocolat,
 un peu dark,
 texture assez liquide
@@ -771,26 +771,26 @@ Normalement les verres se vendent à 8$---20$ dans les détaillants de bière ou
 Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
 
 
-**Si vous voulez y aller un petit peu plus loin voici les 4 verres à avoir à mon avis:**
+**Si vous voulez y aller un petit peu plus loin, voici les 4 verres à avoir à mon avis:**
 
 1x Pilsner pour n'importe quelle Lager Blonde et les Gose
 
-1x Nonic Pint pour vos Rousses, Brunes et Stout regulières
+1x Nonic Pint pour vos Rousses, Brunes et Stout régulières
 
 1x Tulip pour vos sûres
 
-1x Teku pour les IPA, les Stouts de dégustation et tous les autres styles dont vous avez pas le bon verre
+1x Teku pour les IPA, les Stouts de dégustation et tous les autres styles dont vous n’avez pas le bon verre
 
-**Si vous voulez avoir pas mal tous les verres :P, voici les verres à avoir (basez vous sur le site web plus haut pour savoir lequel utiliser):**
+**Si vous voulez avoir pas mal tous les verres :P, voici les verres à avoir (basez-vous sur le site web plus haut pour savoir lequel utiliser):**
 
 ![Verres](glasses.png)
 
 
-*note: normalement les Kölsh se boivent dans des Stage de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
+*note: normalement les Kölsh se boivent dans des Stange de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
 
 ---
 
-# 24-pack essentiel - pour la 24e ajoutez quelque chose que vous avez aimé que vous voulez découvrir avec une autre brasserie!
+# 24-pack essentiel - pour la 24e ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
 
 Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les faire!
 
@@ -804,7 +804,7 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 |||||||Colorado de @Castor|
 |||||||Réserve de Noël de @LTM|
 
-# 23-pack pour aller plus loin - pour la 24e ajoutez quelque chose que vous avez aimé que vous voulez découvrir avec une autre brasserie!
+# 23-pack pour aller plus loin - pour la 24e ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
 
 
 | Lager Blondes | Rousses | IPAs | Brunes | Noires | Sûres | Autres |
@@ -824,11 +824,11 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 
 # Produits rares et échanges
 
-Je vous conseille de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés! Le groupe [Actualités du milieu brassicole Qc](www.facebook.com/groups/258612807916349) ont beaucoup d'info!
+Je vous conseille de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés! Le groupe [Actualités du milieu brassicole Qc](www.facebook.com/groups/258612807916349) a beaucoup d'info!
 
 **Bières importées**
 
-La SAQ a beaucoup de bières importées. Suivez les nouveaux arrivages de près, desfois vous pouvez trouver des Gueuzes et Lambic de France ou Belgique de grandes brasseries (comme Cantillon).
+La SAQ a beaucoup de bières importées. Suivez les nouveaux arrivages de près, des fois vous pouvez trouver des Gueuzes et Lambic de France ou Belgique de grandes brasseries (comme Cantillon).
 
 Il y a d'autres places où trouver des bières importées (sachez que ça coûte assez cher!), entre autres: [Importation Pivo](https://www.facebook.com/importationpivot), [Îsle de Garde](https://www.isledegarde.com/bieres-importees), etc.
 
@@ -864,13 +864,13 @@ Beauregard
 
 Dieu du Ciel
 
-Avant Garde
+Avant-Garde
 
 LTM
 
 etc.
 
-**Il y a d'autres brasseries moins connues qui ont des très bons produits mais qui sont vendus uniquement sur place, peut-être eux aussi seraient échangeables? J'en connais juste deux:**
+**Il y a d'autres brasseries moins connues qui ont de très bons produits, mais qui sont vendus uniquement sur place, peut-être eux aussi seraient échangeables? J'en connais juste deux:**
 
 Îsle de Garde
 
@@ -884,9 +884,9 @@ Si vous ne pouvez pas aller chez Messorem (ou vous ne voulez pas acheter leur 4-
 
 Si jamais vous cherchez du Auval vous avez: [Spotted Auval](https://www.facebook.com/groups/2126136684156698/).
 
-Il doit y en avoir d'autres mais je les connais pas!
+Il doit y en avoir d'autres, mais je ne les connais pas!
 
-Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous saviez pas si le ratio est le bon): [VSBQ](https://www.facebook.com/groups/301037520961589).
+Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous ne saviez pas si le ratio est le bon): [VSBQ](https://www.facebook.com/groups/301037520961589).
 
 # Brassage amateur À VENIR
 
