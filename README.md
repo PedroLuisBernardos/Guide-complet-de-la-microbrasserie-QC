@@ -28,7 +28,7 @@ Vous avez différents choix: du moins au plus amer, de la plus pâle au plus fon
 Cheers!
 
 ---
-## <span style="color:yellow">Lagers Blondes</span>
+## Lagers Blondes
 
 ### Pilsner Czech
 ---
