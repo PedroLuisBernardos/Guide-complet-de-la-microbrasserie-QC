@@ -665,6 +665,17 @@ douce,
 légère
 
 
+### Best Bitter
+---
+**5 - Best Bitter @Harricana
+
+Caramel,
+malt,
+légère,
+amertume faible/modérée.
+*Ressemble à une lager rousse avec un goût un peu plus prononcé*
+
+
 ### Steinbier
 ---
 **Voivoid Lost Machine @Hopfenstark (la seule du style que j'ai trouvée, il doit y en avoir d'autres?)**
@@ -672,7 +683,7 @@ légère
 Caramel (*à cause des roches ajoutées pendant le mash (la cuisson des grains)*),
 malt,
 sucrée,
-houblonnée
+peu houblonnée
 
 ---
 
