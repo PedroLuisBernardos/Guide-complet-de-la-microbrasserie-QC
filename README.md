@@ -8,19 +8,21 @@ Mon but est de partager mon expérience avec la bière pour initier de futurs am
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel!
 Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
 
-**Quel verre choisir?**
+Je vous conseille de regarder les profils de goûts sur [Untappd](https://untappd.com). C'est un très bon site, très complet et fiable!
 
-Il y aura une section vers la fin de ce guide :)
+**Dans quel ordre boire?**
 
-**24-pack pour débuter**
+Vous avez différents choix: du moins au plus amer, de la plus pâle au plus foncée, de la moins forte en alcool à la plus forte... Moi personnellement j'y vais par taux d'alcool à une exception: si j'ai une Pastry Stout je vais toujours la boire en dernier.
 
-Vers la fin je vous laisse une section avec une caisse de 24x idéale pour s'initier et découvrir son palais et une caisse de 24x pour aller plus loin et découvrir des styles et goûts plus funky.
+**Table de matières:**
 
-**Produits rares**
-
-Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal (je ne sais pas si ailleurs), etc. je vais vous mettre dans ce guide plusieurs bières au cas où vous ne trouviez pas tous les produits dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
-
-À la fin du guide je laisse une section qui vous introduit aux échanges et aux bières rares! Ceci vous permettra de vous procurer à des produits plus rares :)
+* Guide des styles par couleur + exemples + profil de goût
+* Quel verre choisir?
+* 24-pack pour débuter
+* 24-pack pour aller plus loin
+* Produits rares et échanges
+* Brassage amateur À VENIR
+* Contact
 
 
 Cheers!
@@ -823,6 +825,8 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 
 # Produits rares et échanges
 
+Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal (je ne sais pas si ailleurs), etc. je vais vous mettre dans ce guide plusieurs bières au cas où vous ne trouviez pas tous les produits dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
+
 Je vous conseille de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés! Le groupe [Actualités du milieu brassicole Qc](www.facebook.com/groups/258612807916349) a beaucoup d'info!
 
 **Bières importées**
@@ -892,3 +896,8 @@ Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas
 [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/)
 
 [Bazar du brasseur](https://www.facebook.com/groups/808588615953404/)
+
+# Contact
+
+[![Facebook](facebook.png)](https://www.facebook.com/pedro2163/)
+[![Untappd](untappd.png)](https://untappd.com/user/Pedro2163)
