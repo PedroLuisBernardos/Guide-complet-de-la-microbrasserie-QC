@@ -824,23 +824,57 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 
 # Produits rares et échanges
 
-**Suivez les pages Facebook et/ou Instagram des brasseries, de vos détaillants (les magasins de bière) proches et de la SAQ**
+Je vous conseille de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés! Le groupe [Actualités du milieu brassicole Qc](www.facebook.com/groups/258612807916349) ont beaucoup d'info!
 
+**Bières importées**
 
-**SAQ**
+La SAQ a beaucoup de bières importées. Suivez les nouveaux arrivages de près, desfois vous pouvez trouver des Gueuzes et Lambic de France ou Belgique de grandes brasseries (comme Cantillon).
 
+Il y a d'autres places où trouver des bières importées (sachez que ça coûte assez cher!), entre autres: [Importation Pivo](https://www.facebook.com/importationpivot), [Îsle de Garde](https://www.isledegarde.com/bieres-importees), etc.
+
+Ça s'échange pas mal bien aussi ces bières-là!
 
 **Quels styles sont rares? Quelles brasseries sont rares/échangeables?**
 
 En général un produit est échangeable s'il est limité et si la brasserie est populaire/reputée. Il y a des brasseries qui ne livrent pas leurs produits aux détaillants (donc vente sur place), ces produits sont aussi rares!
 
-Voici une liste de brasseries qui s'échangent très bien:
+**Voici une liste de brasseries qui s'échangent très bien:**
 
 Brewskey
 
 Messorem Bracitorium
 
+Sir John (principalement celles qui ne sont pas/plus chez les détaillants)
 
+Bas-Canada
+
+Wood Brothers
+
+Bellwoods
+
+Robin
+
+**Auval**
+
+etc.
+
+**Voici une liste de brasseries qui s'échangent bien s'ils ont des produits spéciaux:**
+
+Beauregard
+
+Dieu du Ciel
+
+Avant Garde
+
+LTM
+
+etc.
+
+**Il y a d'autres brasseries moins connues qui ont des très bons produits mais qui sont vendus uniquement sur place, peut-être eux aussi seraient échangeables? J'en connais juste deux:**
+
+Îsle de Garde
+
+La Centrale
 
 **Où échanger?**
 
@@ -851,3 +885,11 @@ Si vous ne pouvez pas aller chez Messorem (ou vous ne voulez pas acheter leur 4-
 Si jamais vous cherchez du Auval vous avez: [Spotted Auval](https://www.facebook.com/groups/2126136684156698/).
 
 Il doit y en avoir d'autres mais je les connais pas!
+
+Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous saviez pas si le ratio est le bon): [VSBQ](https://www.facebook.com/groups/301037520961589).
+
+# Brassage amateur À VENIR
+
+[Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/)
+
+[Bazar du brasseur](https://www.facebook.com/groups/808588615953404/)
