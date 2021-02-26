@@ -8,30 +8,22 @@ Mon but est de partager mon expérience avec la bière pour initier de futurs am
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel!
 Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
 
+**Quel verre choisir?**
+
+Il y aura une section vers la fin de ce guide :)
+
+**24-pack pour débuter**
+
+Vers la fin je vous laisse une section avec une caisse de 24x idéale pour s'initier et découvrir son palais et une caisse de 24x pour aller plus loin et découvrir des styles et goûts plus funky.
+
 **Produits rares:**
 
 Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal, etc. je vais vous mettre plusieurs bières au cas où vous ne trouviez pas tout dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
 
-**Quel verre choisir?**
-
-Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur ce guide-ci, je le trouve excellent:
-https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass
-
-Mais si vous ne voulez pas dépenser, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
-Si vous voulez y aller un petit peu plus loin: 1x Teku pour les IPA et les Stouts, 1x Pilsner pour n'importe quelle Lager (vous pouvez ajouter un Mug pour les Lagers allemandes), 1x Nonic Pint pour vos rousses et vos brunes et 1x Tulip pour vos sûres.
-
-Voici les verres à avoir:
-
-![Verres](glasses.png)
-
-**24-pack pour débuter**
-
-À la fin je vous laisse une section avec une caisse de 24x idéale pour s'initier et découvrir son palais et une caisse de 24x pour aller plus loin et découvrir des styles et goûts plus funky.
-
+À la fin du guide je laisse une section qui vous introduit aux échanges et aux bières rares!
 
 
 Cheers!
-
 
 ---
 ## Lagers Blondes
@@ -734,6 +726,35 @@ Winter Warmer ou Winter Ale
 
 ---
 
+# Verres
+
+Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur ce guide-ci, je le trouve excellent:
+
+https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass
+
+**Où les acheter?**
+
+Normalement les verres se vendent à 8$---20$ dans les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple [celui-ci](https://vinumdesign.com). Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux! Il y a aussi des groupes de trade sur Facebook: [un](https://www.facebook.com/groups/1696716747102786), [deux](https://www.facebook.com/groups/1598609583741693).
+
+Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
+
+
+**Si vous voulez y aller un petit peu plus loin voici les 4 verres à avoir à mon avis:**
+
+1x Pilsner pour n'importe quelle Lager Blonde et les Gose
+
+1x Nonic Pint pour vos Rousses, Brunes et Stout regulières
+
+1x Tulip pour vos sûres
+
+1x Teku pour les IPA, les Stouts de dégustation et tous les autres styles dont vous avez pas le bon verre
+
+**Si vous voulez avoir pas mal tous les verres :P, voici les verres à avoir (basez vous sur le site web plus haut pour savoir lequel utiliser):**
+
+![Verres](glasses.png)
+
+---
+
 # 24-pack essentiel - pour la 24e ajoutez quelque chose que vous avez aimé que vous voulez découvrir avec une autre brasserie!
 
 Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les faire!
@@ -763,3 +784,7 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 |||||||Saison des Plages de @Boréale|
 |||||||Tourbière Sûre @La Souche|
 ||||||||
+
+---
+
+# Produits rares et échanges
