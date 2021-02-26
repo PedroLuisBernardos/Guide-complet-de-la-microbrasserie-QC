@@ -16,11 +16,11 @@ Il y aura une section vers la fin de ce guide :)
 
 Vers la fin je vous laisse une section avec une caisse de 24x idéale pour s'initier et découvrir son palais et une caisse de 24x pour aller plus loin et découvrir des styles et goûts plus funky.
 
-**Produits rares:**
+**Produits rares**
 
-Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal, etc. je vais vous mettre plusieurs bières au cas où vous ne trouviez pas tout dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
+Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal (je sais pas si ailleurs), etc. je vais vous mettre dans ce guide plusieurs bières au cas où vous ne trouviez pas tous les produits dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
 
-À la fin du guide je laisse une section qui vous introduit aux échanges et aux bières rares!
+À la fin du guide je laisse une section qui vous introduit aux échanges et aux bières rares! Ceci vous permettra de vous procurer à des produits plus rares :)
 
 
 Cheers!
@@ -766,7 +766,7 @@ https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-serv
 
 **Où les acheter?**
 
-Normalement les verres se vendent à 8$---20$ dans les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple [celui-ci](https://vinumdesign.com). Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux! Il y a aussi des groupes de trade sur Facebook: [un](https://www.facebook.com/groups/1696716747102786), [deux](https://www.facebook.com/groups/1598609583741693).
+Normalement les verres se vendent à 8$---20$ dans les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple [Vinum](https://vinumdesign.com). Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux! Il y a aussi des groupes de trade sur Facebook: [Collectionneurs De Verres De Bière Du Québec](https://www.facebook.com/groups/1696716747102786), [Echange Verre de Bière du Québec](https://www.facebook.com/groups/1598609583741693).
 
 Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
 
@@ -784,6 +784,9 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 **Si vous voulez avoir pas mal tous les verres :P, voici les verres à avoir (basez vous sur le site web plus haut pour savoir lequel utiliser):**
 
 ![Verres](glasses.png)
+
+
+*note: normalement les Kölsh se boivent dans des Stage de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
 
 ---
 
@@ -820,3 +823,7 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 ---
 
 # Produits rares et échanges
+
+[Spotted Auval](https://www.facebook.com/groups/2126136684156698/)
+[Bazaar Bière](https://www.facebook.com/groups/1529571330607267/)
+[Messorem Bracitorium Enthusiasts](https://www.facebook.com/groups/583611702281464/)
