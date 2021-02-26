@@ -418,7 +418,9 @@ texture crémeuse.
 
 
 ---
-Il y a énormément de différences entre les Imperial Stout: ajout de fruits, noix de coco, vanille, café, piments, alcool fort, bois... Je ne peux pas toutes les aborder!
+
+Il y a énormément de différences entre les Imperial Stout: ajout de fruits, noix de coco, vanille, café, piments, alcool fort, bois... Je ne peux pas toutes les aborder! 
+
 ---
 
 
