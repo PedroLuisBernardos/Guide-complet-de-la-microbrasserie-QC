@@ -711,49 +711,49 @@ peu houblonnée
 
 ## À venir (il y a d'autres styles, mais je ne les aborderai pas):
 
-Adambier *celle de @Vox Populi*
+Adambier: *celle de @Vox Populi*
 
-American Wild Ale *Colorado de @Castor*
+American Wild Ale: *Colorado de @Castor*
 
-Belgian Dubbel *je pensais goûter la Dubbel*
+Belgian Dubbel: *je pensais goûter la Dubbel*
 
 Black IPA
 
-Bock - Doppelbock (il y en a d'autres, j'ai décidé d'essayer le Doppelbock) *celle de @LTM*
+Bock - Doppelbock (il y en a d'autres, j'ai décidé d'essayer le Doppelbock): *celle de @LTM*
 
-Cream Ale *celle de @Knowlton Co.*
+Cream Ale: *celle de @Knowlton Co.*
 
-Dark Lager *celle de @LTM*
+Dark Lager: *celle de @LTM*
 
-Farmhouse brettée *Saison Brett de @LTM*
+Farmhouse brettée: *Saison Brett de @LTM*
 
-Flanders Oud Bruin *Lapsus de @Benelux*
+Flanders Oud Bruin: *Lapsus de @Benelux*
 
-Grisette *n'importe laquelle de @Dunham*
+Grisette: *n'importe laquelle de @Dunham*
 
-Hefeweizen *n'importe laquelle à la SAQ*
+Hefeweizen: *n'importe laquelle à la SAQ*
 
 India Pale Lager
 
 IPA Brut
 
-Kellerbier/ Zwickelbier *celle de @Vrooden*
+Kellerbier/ Zwickelbier: *celle de @Vrooden*
 
 Lambic Kriek
 
-Märzen *celle de @Vrooden
+Märzen: *celle de @Vrooden
 
-Old Ale *Ol' Keeper de @Castor*
+Old Ale: *Ol' Keeper de @Castor*
 
-Rauchbier *celle de @Vrooden*
+Rauchbier: *celle de @Vrooden*
 
-Saison *Saison des Plages de @Boréale*
+Saison: *Saison des Plages de @Boréale*
 
-Scotch Ale/Wee Heavy *Corne de Glace de @À l'abri de la Tempête*
+Scotch Ale/Wee Heavy: *Corne de Glace de @À l'abri de la Tempête*
 
-Wheat Ale *Ale de blé américaine de @Knowlton Co.*
+Wheat Ale: *Ale de blé américaine de @Knowlton Co.*
 
-Winter Warmer ou Winter Ale *Réserve de Noël de @LTM*
+Winter Warmer ou Winter Ale: *Réserve de Noël de @LTM*
 
 ---
 
