@@ -688,7 +688,7 @@ légère
 
 ### Best Bitter
 ---
-**5 - Best Bitter @Harricana
+**5 - Best Bitter @Harricana**
 
 Caramel,
 malt,
@@ -830,16 +830,24 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 **SAQ**
 
 
-**Quels styles sont rares?**
+**Quels styles sont rares? Quelles brasseries sont rares/échangeables?**
 
+En général un produit est échangeable s'il est limité et si la brasserie est populaire/reputée. Il y a des brasseries qui ne livrent pas leurs produits aux détaillants (donc vente sur place), ces produits sont aussi rares!
 
-**Quelles brasseries sont rares/échangeables?**
+Voici une liste de brasseries qui s'échangent très bien:
+
+Brewskey
+
+Messorem Bracitorium
+
 
 
 **Où échanger?**
 
-[Spotted Auval](https://www.facebook.com/groups/2126136684156698/)
+Il y a plusieurs groupes où vous pouvez échanger vos bières. Mon préféré est [Bazaar Bière](https://www.facebook.com/groups/1529571330607267/). *Note: FT veut dire For Trade, ISO veut dire In Search Of*.
 
-[Bazaar Bière](https://www.facebook.com/groups/1529571330607267/)
+Si vous ne pouvez pas aller chez Messorem (ou vous ne voulez pas acheter leur 4-pack, vous avez ce groupe-ci: [Messorem Bracitorium Enthusiasts](https://www.facebook.com/groups/583611702281464/).
 
-[Messorem Bracitorium Enthusiasts](https://www.facebook.com/groups/583611702281464/)
+Si jamais vous cherchez du Auval vous avez: [Spotted Auval](https://www.facebook.com/groups/2126136684156698/).
+
+Il doit y en avoir d'autres mais je les connais pas!
