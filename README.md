@@ -493,6 +493,27 @@ robe dorée.
 *Une Stout n'est pas nécessairement une bière noire. Techniquement le mot Stout fait [historiquement] référence aux bières fortes en alcool. On dirait un café glacé!*
 
 
+### Stout avec piments forts
+---
+**Impériale Choco-Piment Chipotle (ou Chili) @Beauregard
+
+Chocolat,
+sucrée,
+pimentée,
+crémeuse.
+*Ça chauffe!*
+
+
+### Stout aux arrachides
+---
+**Stout aux Arrachides @Beauregard**
+
+Arrachides en masse (au nez, pas vraiment au goût),
+notes de torrefction,
+un peu de chocolat,
+un peu dark,
+texture assez liquide
+
 ---
 
 ## Sûres/Acides/Fruitées
@@ -785,7 +806,7 @@ Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les
 
 | Lager Blondes | Rousses | IPAs | Brunes | Noires | Sûres | Autres |
 | :-- | :--: | :--: |  :--: |  :--: | :--: |  --: |
-| Pivo @L'amère à boire | Rye Amber | IPA Brut | Best Bitter | Stout au piment fort @Beauregard | Une Berliner Weisse ou une Smoothie avec un autre fruit |  Gingembre |
+| Pivo @L'amère à boire | Rye Amber | IPA Brut | Best Bitter | Impériale Choco-Piment Chipotle @Beauregard | Une Berliner Weisse ou une Smoothie avec un autre fruit |  Gingembre |
 |  |           |          | Solstice d'Hiver @Dieu du Ciel | Stout à l'arachide @Beauregard |                            Silo F                            |                             Citrouille |
 |               |           |          | Belgian Dubbel ou Quadruple Belge |                      |                          Lambic Framboise ou Kriek                          | Miel |
 |               |           |          | Smoked Beer |                      |                 Cidre             | Ale de Blé Américaine de @Knowlton Co. |
