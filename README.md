@@ -8,7 +8,7 @@ Mon but est de partager mon expérience avec la bière pour initier de futurs am
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel!
 Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
 
-Je vous conseille de regarder les profils de goûts sur [Untappd](https://untappd.com). C'est un très bon site, très complet et fiable!
+Je vous conseille de regarder les profils de goûts sur [Untappd](https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en&gl=US). C'est un très bon site, très complet et fiable!
 
 **Dans quel ordre boire?**
 
@@ -28,7 +28,7 @@ Vous avez différents choix: du moins au plus amer, de la plus pâle au plus fon
 Cheers!
 
 ---
-## Lagers Blondes
+## <span style="color:yellow">Lagers Blondes</span>
 
 ### Pilsner Czech
 ---
