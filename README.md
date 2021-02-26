@@ -726,7 +726,7 @@ Cream Ale
 
 Dark Lager
 
-Farmhouse
+Farmhouse brettée
 
 Flanders Oud Bruin 
 
@@ -792,31 +792,30 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 
 # 24-pack essentiel - pour la 24e ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
 
-Des fois je vous laisse du choix, basez-vous sur le petit guide du haut pour les faire!
+Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous laisse le magasiner selon le guide ci-haut! J'ai pas encore tout écrit dans le guide donc ça se peut que vous n'ayez pas de répères pour certains styles :O fiez-vous aux styles que je dois encore essayer dans ce cas-là!
 
 | Lager Blondes | Rousses | IPAs | Brunes | Noires | Sûres | Autres |
 | :-- | :--: | :--: |  :--: |  :--: | :--: |  --: |
-| Lager Blonde  | Rousse | IPA fruitée, 0 amère et 0 résineuse | Brown Ale | Péché Mortel ou Porter Baltique de @LTM |Smoothie Beer|Belgian Strong Golden Ale|
-|||            IPA résineuse            | Doppelbock @LTM |          Pastry Stout crémeuse          |Mégafruits Raptor @La Barberie|Witbier/Blanche|
-|||            Milkshake IPA            |Corne de Glace @À l'abri de la Tempête|               Stout Blanc @Oshlag               |      Berliner Weisse      |Bière de Gazebo @L'Espace Public|
-|||  ||                                         |Gose|Hefeweizen (n'importe laquelle de la SAQ)|
-||||||Ceci n'est pas une Gueuze @LTM| Saison Brett de @LTM |
-|||||||Colorado de @Castor|
-|||||||Réserve de Noël de @LTM|
+| Lager Blonde pas amère  | Rousse | IPA fruitée, 0 amère et 0 résineuse | Brown Ale | Stout Dark | Smoothie Beer | Belgian Strong Golden Ale |
+||| IPA résineuse | Doppelbock | Pastry Stout crémeuse | Fruit beer | Witbier/Blanche |
+||| Milkshake IPA | Scotch Ale/Wee Heavy | Stout Blanche | Berliner Weisse | Gruit |
+|||||| Gose | Hefeweizen |
+|||||| Gueuze | Farmhouse brett |
+||||||| American Wild Ale |
+||||||| Winter Warmer |
 
 # 23-pack pour aller plus loin - pour la 24e ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
 
-
 | Lager Blondes | Rousses | IPAs | Brunes | Noires | Sûres | Autres |
 | :-- | :--: | :--: |  :--: |  :--: | :--: |  --: |
-| Pivo @L'amère à boire | Rye Amber | IPA Brut | Best Bitter | Impériale Choco-Piment Chipotle @Beauregard | Une Berliner Weisse ou une Smoothie avec un autre fruit |  Gingembre |
-|  |           |          | Solstice d'Hiver @Dieu du Ciel | Stout à l'arachide @Beauregard |                            Silo F                            |                             Citrouille |
-|               |           |          | Belgian Dubbel ou Quadruple Belge |                      |                          Lambic Framboise ou Kriek                          | Miel |
-|               |           |          | Smoked Beer |                      |                 Cidre             | Ale de Blé Américaine de @Knowlton Co. |
-|               |           |          |                                   |                      | Flander's Red Ale | Kellerbier/Zwickelbier |
-||||||                                                              |Tripel aux Poires|
+| Lager blonde amère | Rye Amber | IPA Brut | Best Bitter | Impériale Choco-Piment Chipotle @Beauregard | Une Berliner Weisse ou une Smoothie avec un autre fruit |  Une bière au gingembre |
+|||| Barleywine | Stout à l'arachide @Beauregard | Silo F @Silo | Une bière à la citrouille |
+|||| Belgian Dubbel ou Quadruple Belge || Lambic Framboise ou Kriek | Une bière au miel |
+|||| Smoked Beer || Cidre | Ale de Blé Américaine de @Knowlton Co. |
+|||||| Flander's Red Ale | Kellerbier/Zwickelbier |
+|||||||Tripel aux Poires @Mille Îles|
 |||||||Märzen|
-|||||||Saison des Plages de @Boréale|
+||||||| Farmhouse Saison |
 |||||||Tourbière Sûre @La Souche|
 ||||||||
 
