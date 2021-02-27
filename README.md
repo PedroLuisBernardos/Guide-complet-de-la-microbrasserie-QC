@@ -796,6 +796,13 @@ Normalement les verres se vendent à 8$---20$ dans les détaillants de bière ou
 
 Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans!
 
+*Note1: regardez bien la capacité de vos verres! N'oubliez pas que des canettes régulières sont de 473mL.*
+
+*Note2: assurez-vous d'avoir le petit bec dans vos verres. Je trouve que c'est pas mal plus agréable quand il est là!*
+
+![Bec](bec.png)
+
+*Note3: SVP, ne buvez pas en canette! En bouteille ça peut aller, mais surtout pas en canette! Vous allez ajouter un goût métallique (et peut-être de rouille) à votre dégustation.*
 
 **Si vous voulez y aller un petit peu plus loin, voici les 4 verres à avoir à mon avis:**
 
