@@ -28,7 +28,7 @@ Vous avez différents choix: du moins au plus amer, de la plus pâle au plus fon
 Cheers!
 
 ---
-![Lagers Blondes](lagers.png)
+![Lagers Blondes](lager.png)
 
 ### Pilsner Czech
 ---
@@ -331,7 +331,7 @@ douce amertume
 
 ---
 
-## Brunes
+![Brunes](brunes.png)
 
 ### American/Brittish Brown Ale
 ---
@@ -365,7 +365,8 @@ amère.
 
 ---
 
-## Noires
+![Noires](noires.png)
+
 ---
 ### Imperial Stout
 ---
@@ -519,7 +520,7 @@ texture assez liquide
 
 ---
 
-## Sûres/Acides/Fruitées
+![Sûres](sures.png)
 
 ### Smoothie Beer
 ---
@@ -593,7 +594,7 @@ sûre
 
 ---
 
-## Autres
+![Autres](autres.png)
 
 ### Tripel/Triple Belge
 ---
