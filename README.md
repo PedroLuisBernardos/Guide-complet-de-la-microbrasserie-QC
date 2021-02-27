@@ -764,6 +764,8 @@ Hefeweizen: *n'importe laquelle à la SAQ*
 
 India Pale Lager
 
+IPA Kveik: *nordicite @Champ Libre*
+
 IPA Brut: *je dois la regoûter*
 
 Kellerbier/ Zwickelbier: *celle de @Vrooden*
@@ -844,7 +846,7 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 |Stout Dark|Pastry Stout crémeuse|Stout Blanche|Smoothie Beer|
 |Fruit Beer|Berliner Weisse|Gose|Gueuze|
 |Belgian Strong Golden Ale|Witbier/Blanche|Gruit ou Spiced Beer|Hefeweizen|
-|Farmhouse brett|American Wild Ale|Winter Warmer|Au choix|
+|Farmhouse brett|American Wild Ale|Winter Warmer|IPA Kveik|
 
 **Pour aller plus loin**
 
