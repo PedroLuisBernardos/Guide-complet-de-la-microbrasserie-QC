@@ -2,11 +2,11 @@
 
 **Présentation**
 
-Je suis un jeune amateur de bière. J'ai eu ma picure au début de 2020 et depuis je me suis amusé à essayer pas mal de styles/goûts, je me suis renseigné sur les verres, l'histoire, etc. Je tenais à partager mes expériences, qui sont pas énormes, mais qui pourraient être une bonne source d'information pour certains :D
+Je suis un jeune amateur de bière. J'ai eu ma piqure au début de 2020 et depuis je me suis amusé à essayer pas mal de styles/goûts, je me suis renseigné sur les verres, l'histoire, etc. Je tenais à partager mes expériences, qui ne sont pas énormes, mais qui pourraient être une bonne source d'information pour certains :D
 
-J'ai pas goûté à Toutes les brasseries du Québec. Dans ce guide j'essaie de vous présenter assez de bonnes bières que j'ai goûtées (selon moi) pour que vous puissiez les trouver peu importe dans quelle région du Québec vous êtes! 
+Je n’ai pas goûté à Toutes les brasseries du Québec. Dans ce guide j'essaie de vous présenter assez de bonnes bières que j'ai goûtées (selon moi) pour que vous puissiez les trouver, peu importe dans quelle région du Québec vous êtes! 
 
-Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en&gl=US). Elle est très à jour, complète et fiable. Vous trouverez les profils de goûts et les rating de toutes les bières au monde! Je la recommende!
+Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en&gl=US). Elle est très à jour, complète et fiable. Vous trouverez les profils de goûts et les ratings de toutes les bières au monde! Je la recommande!
 
 
 **Table de matières:**
@@ -37,7 +37,7 @@ Je ne cherche pas à faire de pub en faisant ce guide.
 Je ne suis pas payé pour faire ce petit guide, je le fais pour le plaisir!
 Mon but est de partager mon expérience avec la bière pour initier de futurs amateurs de bière!
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel!
-Si jamais je cite ou utilise l'une de vos marques/photos et vous n'êtes pas d'accord je vais les enlever!
+Si jamais je cite ou utilise l'une de vos marques/photos et vous n'êtes pas d'accord, je vais les enlever!
 Ceci est une première version! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook!
 
 ---
@@ -820,7 +820,7 @@ Vous avez différents choix: du moins au plus amer, de la plus pâle à la plus 
 
 **Comment servir?**
 
-Je vous recommende de regarder [des vidéos](https://www.youtube.com/results?search_query=comment+verser+de+la+biere), c'est la meilleure façon d'apprendre!
+Je vous recommande de regarder [des vidéos](https://www.youtube.com/results?search_query=comment+verser+de+la+biere), c'est la meilleure façon d'apprendre!
 
 ---
 
@@ -841,11 +841,13 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 
 **Pour aller plus loin**
 
+Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ces fruits: framboise, cassis, mangue (très présent dans beaucoup d'IPAs), bleuets, goyave, mûre et fraise. Les bières blanches viendront vous faire gouter l'orange et les bières noires la noix de coco. Le fruit de la passion, l'abricot et l'ananas vous trouverez ça dans les IPAs. Les Lambic Kriek vous feront goûter la cerise, la Tripel de @Mille Îles vous fera goûter la poire, certains cidres/lambic la pomme et certaines Lagers la banane! Les autres fruits tels que le kiwi, la mandarine, la pêche, la papaye, etc. sont assez rares!
+
 |||||
 |:--|:--:|:--:|--:|
 |Lager Blonde (amère ou non, l'autre dans l'autre 24-pack)|Rye Amber|IPA Brut|Best Bitter|
 |Barleywine|Belgian Dubbel ou Quadruple Belge|Smoked Beer|Impériale Choco-Piment Chipotle @Beauregard|
-|Stout à l'arachide @Beauregard|Une Berliner Weisse ou une Smoothie avec un autre fruit|Silo F @Silo|Lambic Framboise ou Kriek|
+|Stout à l'arachide @Beauregard|Une autre bière sûre avec un nouveau fruit|Silo F @Silo|Lambic Framboise ou Kriek|
 |Cidre|Flander's Red Ale|Une bière au gingembre|Une bière à la citrouille|
 |Tourbière Sûre @La Souche|                 Kellerbier/Zwickelbier                  |Tripel aux Poires @Mille Îles|Märzen|
 |Farmhouse Saison|Au choix|Au choix|Au choix|
