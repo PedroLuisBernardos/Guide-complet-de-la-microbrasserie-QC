@@ -345,7 +345,7 @@ texture légère
 
 ### IPA Brut
 ---
-**IPA Sucée Extra Brut @MonsRegius**
+**IPA Cuvée Extra Brut @MonsRegius**
 
 Fruitée,
 un petit peu piney,
