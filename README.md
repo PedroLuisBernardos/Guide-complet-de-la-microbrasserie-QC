@@ -172,7 +172,9 @@ Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume,
 Par expérience, les IPA des brasseries les plus "populaires" sont difficiles à trouver (Sir John serait la plus accessible) donc je vais vous proposer d'autres IPA d'autres brasseries qui sont aussi très bonnes :D Let's go! 
 
 ---
-Je commence avec des IPA très fruitées, peu résineuses, peu piney et peu amères:
+
+### IPAs fruitées, peu amères et peu résineuses
+
 ---
 
 **Ukulele (HBC 644 & HBC 342) @Lagabière**
@@ -212,7 +214,9 @@ texture juicy et hazy (*la Double Descente est un peu plus liquide*),
 
 
 ---
-Dans une autre corde de goûts. Personnellement je l'aime moins, mais il faut lui donner une chance!
+
+### IPAs résineuses et piney, amertume variable
+
 ---
 
 **Moralité @Dieu du Ciel**
@@ -246,7 +250,9 @@ amertume tranchante
 
 
 ---
-Un excellent mix des deux palettes:
+
+### Un mix des deux palettes
+
 ---
 
 **Métamorphe @Le Castor**
@@ -792,38 +798,35 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 
 ---
 
-# 24-pack essentiel - pour la 24e ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
+![24-packs](24.png)
 
 Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous laisse le magasiner selon le guide ci-haut! J'ai pas encore tout écrit dans le guide donc ça se peut que vous n'ayez pas de répères pour certains styles :O fiez-vous aux styles que je dois encore essayer dans ce cas-là!
 
-| Lager Blondes | Rousses | IPAs | Brunes | Noires | Sûres | Autres |
-| :-- | :--: | :--: |  :--: |  :--: | :--: |  --: |
-| Lager Blonde (amère ou non, l'autre dans l'autre 24-pack)  | Rousse | IPA fruitée, 0 amère et 0 résineuse | Brown Ale | Stout Dark | Smoothie Beer | Belgian Strong Golden Ale |
-||| IPA résineuse | Doppelbock | Pastry Stout crémeuse | Fruit beer | Witbier/Blanche |
-||| Milkshake IPA | Scotch Ale/Wee Heavy | Stout Blanche | Berliner Weisse | Gruit ou Spiced Beer |
-|||||| Gose | Hefeweizen |
-|||||| Gueuze | Farmhouse brett |
-||||||| American Wild Ale |
-||||||| Winter Warmer |
+**Essentiel**
 
-# 22-pack pour aller plus loin - pour les 2 autres ajoutez quelque chose que vous avez aimé que vous vouliez découvrir avec une autre brasserie!
+|||||
+|:--|:--:|:--:|--:|
+|Lager Blonde (amère ou non, l'autre dans l'autre 24-pack)|Rousse|IPA fruitée|IPA résineuse|
+|Milkshake IPA|Brown Ale|Doppelbock|Scotch Ale/Wee Heavy|
+|Stout Dark|Pastry Stout crémeuse|Stout Blanche|Smoothie Beer|
+|Fruit Beer|Berliner Weisse|Gose|Gueuze|
+|Belgian Strong Golden Ale|Witbier/Blanche|Gruit ou Spiced Beer|Hefeweizen|
+|Farmhouse brett|American Wild Ale|Winter Warmer|Au choix|
 
-| Lager Blondes | Rousses | IPAs | Brunes | Noires | Sûres | Autres |
-| :-- | :--: | :--: |  :--: |  :--: | :--: |  --: |
-| Lager Blonde (amère ou non, l'autre dans l'autre 24-pack) | Rye Amber | IPA Brut | Best Bitter | Impériale Choco-Piment Chipotle @Beauregard | Une Berliner Weisse ou une Smoothie avec un autre fruit |  Une bière au gingembre |
-|||| Barleywine | Stout à l'arachide @Beauregard | Silo F @Silo | Une bière à la citrouille |
-|||| Belgian Dubbel ou Quadruple Belge || Lambic Framboise ou Kriek | Tourbière Sûre @La Souche |
-|||| Smoked Beer || Cidre | Wheat Beer |
-|||||| Flander's Red Ale | Kellerbier/Zwickelbier |
-||||||| Tripel aux Poires @Mille Îles |
-||||||| Märzen |
-||||||| Farmhouse Saison |
-||||||||
-||||||||
+**Pour aller plus loin**
+
+|||||
+|:--|:--:|:--:|--:|
+|Lager Blonde (amère ou non, l'autre dans l'autre 24-pack)|Rye Amber|IPA Brut|Best Bitter|
+|Barleywine|Belgian Dubbel ou Quadruple Belge|Smoked Beer|Impériale Choco-Piment Chipotle @Beauregard|
+|Stout à l'arachide @Beauregard|Une Berliner Weisse ou une Smoothie avec un autre fruit|Silo F @Silo|Lambic Framboise ou Kriek|
+|Cidre|Flander's Red Ale|Une bière au gingembre|Une bière à la citrouille|
+|Tourbière Sûre @La Souche|                 Kellerbier/Zwickelbier                  |Tripel aux Poires @Mille Îles|Märzen|
+|Farmhouse Saison|Au choix|Au choix|Au choix|
 
 ---
 
-# Produits rares et échanges
+![Produits rares et échanges](echanges.png)
 
 Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal (je ne sais pas si ailleurs), etc. je vais vous mettre dans ce guide plusieurs bières au cas où vous ne trouviez pas tous les produits dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
 
@@ -891,7 +894,9 @@ Il doit y en avoir d'autres, mais je ne les connais pas!
 
 Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous ne saviez pas si le ratio est le bon): [VSBQ](https://www.facebook.com/groups/301037520961589).
 
-# Brassage amateur À VENIR
+![Brassage amateur](brassage.png)
+
+À VENIR
 
 [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/)
 
