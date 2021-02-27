@@ -31,7 +31,7 @@ Cheers!
 ![Lagers Blondes](lager.png)
 
 
-### PilsnerCzech
+### Pilsner Czech
 
 ---
 
@@ -512,7 +512,7 @@ robe dorée.
 
 ### Stout avec piments forts
 ---
-**Impériale Choco-Piment Chipotle (ou Chili) @Beauregard
+**Impériale Choco-Piment Chipotle (ou Chili) @Beauregard**
 
 Chocolat,
 sucrée,
@@ -853,31 +853,31 @@ En général un produit est échangeable s'il est limité et si la brasserie est
 
 **Voici une liste de brasseries qui s'échangent très bien:**
 
+**Auval** (la brasserie la plus cherchée du Québec)
+
+Bas-Canada
+
+Bellwoods
+
 Brewskey
 
 Messorem Bracitorium
 
-Sir John (principalement celles qui ne sont pas/plus chez les détaillants)
-
-Bas-Canada
-
-Wood Brothers
-
-Bellwoods
-
 Robin
 
-**Auval**
+Sir John (principalement celles qui ne sont pas/plus chez les détaillants)
+
+Wood Brothers
 
 etc.
 
 **Voici une liste de brasseries qui s'échangent bien s'ils ont des produits spéciaux:**
 
+Avant-Garde
+
 Beauregard
 
 Dieu du Ciel
-
-Avant-Garde
 
 LTM
 
