@@ -684,6 +684,10 @@ pétillante,
 légère
 
 
+## Voici d'autres styles que j'ai pas beaucoup expérimentés:
+---
+
+
 ### Gruit/Ancient Herbed Beer
 ---
 **Bière de Gazebo @L'Espace Public**
@@ -699,7 +703,7 @@ un peu le romarin
 
 ### Spiced Beer
 ---
-**Sang de Lutin @Brouhaha (la seule du style que j'ai goûtée)**
+**Sang de Lutin @Brouhaha**
 
 Florale,
 fruitée,
@@ -708,7 +712,7 @@ fruitée,
 
 ### Yam Beer/Pumpkin
 ---
-**Ale-Ô-Ween @Treffle Noir (la seule du style que j'ai goûtée)**
+**Ale-Ô-Ween @Treffle Noir**
 
 Citrouille,
 épices: clou de girofle, cannelle,
@@ -729,7 +733,7 @@ amertume faible/modérée.
 
 ### Steinbier
 ---
-**Voivoid Lost Machine @Hopfenstark (la seule du style que j'ai trouvée, il doit y en avoir d'autres?)**
+**Voivoid Lost Machine @Hopfenstark**
 
 Caramel (*à cause des roches ajoutées pendant le mash (la cuisson des grains)*),
 malt,
@@ -800,7 +804,7 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 
 *Note1: regardez bien la capacité de vos verres! N'oubliez pas que des canettes régulières sont de 473mL.*
 
-*Note2: assurez-vous d'avoir le petit bec dans vos verres. Je trouve que c'est pas mal plus agréable quand il est là!*
+*Note2: assurez-vous d'avoir le petit bec dans vos Tulip et vos Teku. Je trouve que c'est pas mal plus agréable quand il est là!*
 
 ![Bec](bec.png)
 
