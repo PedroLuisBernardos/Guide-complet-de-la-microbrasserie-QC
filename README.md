@@ -760,7 +760,7 @@ Winter Warmer ou Winter Ale: *Réserve de Noël de @LTM*
 
 ---
 
-# Verres
+![Verres](verres.png)
 
 Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur ce guide-ci, je le trouve excellent:
 
