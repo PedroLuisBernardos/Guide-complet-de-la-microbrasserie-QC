@@ -1,4 +1,4 @@
-# Le Petit Guide de la Micro Québecoise
+![Le Petit Guide de la Microbrasserie Québecoise](entete.png)
 
 **Quelques infos:**
 
@@ -28,7 +28,7 @@ Vous avez différents choix: du moins au plus amer, de la plus pâle au plus fon
 Cheers!
 
 ---
-## Lagers Blondes
+![Lagers Blondes](lagers.png)
 
 ### Pilsner Czech
 ---
@@ -108,7 +108,7 @@ légère
 
 ---
 
-## Rousses
+![Rousses](rousses.png)
 
 ### American Red Ale, rousse américaine
 ---
@@ -161,7 +161,7 @@ smooth
 
 ---
 
-## IPA
+![IPA](ipa.png)
 
 ### Pale Ale
 ---
