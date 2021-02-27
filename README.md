@@ -30,8 +30,12 @@ Cheers!
 ---
 ![Lagers Blondes](lager.png)
 
-### Pilsner Czech
 ---
+
+### PilsnerCzech
+
+---
+
 **Louvain @Silo**
 
 Céréales,
@@ -49,9 +53,12 @@ florale,
 herbacée,
 amertume modérée
 
+---
 
 ### Pale
+
 ---
+
 **Pivo Červený @L'Amère à Boire**
 
 Céréales,
@@ -60,9 +67,12 @@ malt,
 caramel,
 amère (leur **Černá** est moins amère)
 
+---
 
 ### Kölsch, blonde allemande
+
 ---
+
 **Saint-Laurent @Silo**
 
 **Sentinelle @Dieu du Ciel**
@@ -77,9 +87,12 @@ effervescente,
 rafraîchissante,
 légère
 
+---
 
 ### Světlý Výčepní, pilsner tchèque
+
 ---
+
 **Světlý Výčepní 10⁰ @Isle de Garde**
 
 La meilleure pilsner toute comprise à mon avis: 0 amère, beaucoup de céréales, gros goût présent qui reste en bouche longtemps! Se procure uniquement chez Îsle de Garde pendant l'été.
@@ -93,12 +106,14 @@ texture cripsy,
 rafraichissante,
 légère
 
+---
 
 ### Helles, lager allemande
 
 (la différence entre les autres Lagers allemandes est plus sur l'histoire que sur le goût)
 
 ---
+
 **Coup de Foudre - Helles @Les Grands Bois**
 
 Céréales,
@@ -110,8 +125,12 @@ légère
 
 ![Rousses](rousses.png)
 
-### American Red Ale, rousse américaine
 ---
+
+### American Red Ale, rousse américaine
+
+---
+
 **La Bonne Aventure @Pit Caribou**
 
 Caramel,
