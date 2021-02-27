@@ -251,15 +251,6 @@ sèche
 
 
 
-**Ta Meilleure @Lagabière**
-
-Fruitée,
-floral / herbeux,
-houblonnée,
-amère
-
-
-
 **West Coast IPA @Mille Îles**
 
 **IPA de la Côte Ouest @Knowlton Co.**
@@ -286,6 +277,15 @@ texture juicy, veloutée et hazy,
 résineuse,
 amère.
 *Pourrait être une initiation au goût résineux si vous n'aimez pas ça*
+
+
+**Ta Meilleure @Lagabière**
+
+Fruitée,
+floral / herbeux,
+houblonnée,
+amère
+
 
 ---
 
