@@ -30,7 +30,6 @@ Cheers!
 ---
 ![Lagers Blondes](lager.png)
 
----
 
 ### PilsnerCzech
 
@@ -53,8 +52,6 @@ florale,
 herbacée,
 amertume modérée
 
----
-
 ### Pale
 
 ---
@@ -67,7 +64,6 @@ malt,
 caramel,
 amère (leur **Černá** est moins amère)
 
----
 
 ### Kölsch, blonde allemande
 
@@ -87,7 +83,6 @@ effervescente,
 rafraîchissante,
 légère
 
----
 
 ### Světlý Výčepní, pilsner tchèque
 
@@ -106,7 +101,6 @@ texture cripsy,
 rafraichissante,
 légère
 
----
 
 ### Helles, lager allemande
 
@@ -125,7 +119,6 @@ légère
 
 ![Rousses](rousses.png)
 
----
 
 ### American Red Ale, rousse américaine
 
