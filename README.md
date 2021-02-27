@@ -1,4 +1,4 @@
-![Le Petit Guide de la Microbrasserie Québecoise](entete.png)
+![Le Petit Guide de la Microbrasserie Québécoise](entete.png)
 
 **Quelques infos:**
 
@@ -12,7 +12,7 @@ Je vous conseille de regarder les profils de goûts sur [Untappd](https://play.g
 
 **Dans quel ordre boire?**
 
-Vous avez différents choix: du moins au plus amer, de la plus pâle au plus foncée, de la moins forte en alcool à la plus forte... Moi personnellement j'y vais par taux d'alcool à une exception: si j'ai une Pastry Stout je vais toujours la boire en dernier.
+Vous avez différents choix: du moins au plus amer, de la plus pâle à la plus foncée, de la moins forte en alcool à la plus forte... Moi personnellement j'y vais par taux d'alcool à une exception: si j'ai une Pastry Stout je vais toujours la boire en dernier.
 
 **Table de matières:**
 
@@ -807,7 +807,7 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 
 ![24-packs](24.png)
 
-Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous laisse le magasiner selon le guide ci-haut! J'ai pas encore tout écrit dans le guide donc ça se peut que vous n'ayez pas de répères pour certains styles :O fiez-vous aux styles que je dois encore essayer dans ce cas-là!
+Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous laisse le magasiner selon le guide ci-haut! Je n’ai pas encore tout écrit dans le guide donc ça se peut que vous n'ayez pas de repères pour certains styles :O fiez-vous aux styles que je dois encore essayer dans ce cas-là!
 
 **Essentiel**
 
@@ -903,7 +903,7 @@ Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas
 
 ![Brassage amateur](brassage.png)
 
-À VENIR
+## À VENIR
 
 [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/)
 
