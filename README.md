@@ -15,8 +15,9 @@ Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https:
 * Quel verre choisir?
   * Où les acheter
   * Le verre idéal à Avoir
-  * Comment servir
 * Dans quel ordre boire?
+* Comment servir?
+* Conservation et garde
 * 24-packs
   * Pour débuter
   * Pour aller plus loin
@@ -231,8 +232,6 @@ texture juicy et hazy (*la Double Descente est un peu plus liquide*),
 
 **Réverbère #2 @Brasserie Générale**
 
-**Double Fruit Punch @Vox Populi**
-
 **Etc.**
 
 
@@ -285,6 +284,14 @@ Fruitée,
 floral / herbeux,
 houblonnée,
 amère
+
+
+**Double Fruit Punch @Vox Populi**
+
+Fruits tropicaux: mangue, ananas...,
+très houblonnée,
+amertume modérée,
+entre hazy et liquide
 
 
 ---
@@ -566,6 +573,17 @@ Je trouve que les Fruit Beer et Berliner Weisse sont souvent mélangés. Je pens
 Il y a énormément de différences entre les bières sûres : leur texture, leur goût, les ingrédients utilisés, leur acidité, l'utilisation du bois ou non... Je ne peux pas toutes les aborder! Voici d'autres styles aussi sûrs:
 
 
+### Saison Brett
+---
+**Saison Brett @LTM**
+
+Fruitée,
+griottes,
+canneberges,
+sûre,
+brettée (goût boisé)
+
+
 ### Gueuze
 ---
 **Ceci n'est pas une Gueuze @LTM**
@@ -586,7 +604,6 @@ cerises,
 très sûre,
 acidulée.
 *Bonne initiation à la bière pour les amateurs de vin rouge.*
-
 
 
 **Rouge de Mékinac @À la Fût**
@@ -827,6 +844,8 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 
 *note: normalement les Kölsh se boivent dans des Stange de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
 
+---
+
 **Dans quel ordre boire?**
 
 Vous avez différents choix: du moins au plus amer, de la plus pâle à la plus foncée, de la moins forte en alcool à la plus forte... Moi personnellement j'y vais par taux d'alcool à une exception: si j'ai une Pastry Stout je vais toujours la boire en dernier.
@@ -834,6 +853,10 @@ Vous avez différents choix: du moins au plus amer, de la plus pâle à la plus 
 **Comment servir?**
 
 Je vous recommande de regarder [des vidéos](https://www.youtube.com/results?search_query=comment+verser+de+la+biere), c'est la meilleure façon d'apprendre!
+
+**Conservation et garde*
+
+D'habitude vous conservez vos bières au frigo, debout. Idéalement vous buvez les cannettes vite pour éviter de les oxyder: les bouteilles peuvent rester un peu plus longtemps. Vos bières faites avec des fruits vous les conservez à l'envers, debout, et vous les buvez rapidement! Les IPA se conservent longtemps parce qu'elles sont très houblonnées, mais elles vont perdre certains goûts (et en ressortiront d'autres). Les Stout, Gueuze et Lambic se conservent bien longtemps (au frigo ou à température pièce).
 
 ---
 
@@ -854,7 +877,7 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 
 **Pour aller plus loin**
 
-Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ces fruits: framboise, cassis, mangue (très présent dans beaucoup d'IPAs), bleuets, goyave, mûre et fraise. Les bières blanches viendront vous faire gouter l'orange et les bières noires la noix de coco. Le fruit de la passion, l'abricot et l'ananas vous trouverez ça dans les IPAs. Les Lambic Kriek vous feront goûter la cerise, la Tripel de @Mille Îles vous fera goûter la poire, certains cidres/lambic la pomme et certaines Lagers la banane! Les autres fruits tels que le kiwi, la mandarine, la pêche, la papaye, etc. sont assez rares!
+Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ces fruits: framboise, cassis, mangue (très présent dans beaucoup d'IPAs), bleuets, goyave, mûre et fraise. Les bières blanches viendront vous faire gouter l'orange et les bières noires la noix de coco. Le fruit de la passion, l'abricot et l'ananas vous trouverez ça dans les IPAs. Les Lambic Kriek vous feront goûter la cerise, la Tripel de @Mille Îles vous fera goûter la poire, certains cidres/lambic la pomme et certaines Lagers la banane! Les autres fruits tels que le kiwi, la pommegrenade, les griottes, les canneberges, la mandarine, la pêche, la papaye, etc. sont assez rares!
 
 |||||
 |:--|:--:|:--:|--:|
