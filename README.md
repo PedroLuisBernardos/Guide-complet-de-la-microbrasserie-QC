@@ -854,7 +854,7 @@ Vous avez différents choix: du moins au plus amer, de la plus pâle à la plus 
 
 Je vous recommande de regarder [des vidéos](https://www.youtube.com/results?search_query=comment+verser+de+la+biere), c'est la meilleure façon d'apprendre!
 
-**Conservation et garde*
+**Conservation et garde**
 
 D'habitude vous conservez vos bières au frigo, debout. Idéalement vous buvez les cannettes vite pour éviter de les oxyder: les bouteilles peuvent rester un peu plus longtemps. Vos bières faites avec des fruits vous les conservez à l'envers, debout, et vous les buvez rapidement! Les IPA se conservent longtemps parce qu'elles sont très houblonnées, mais elles vont perdre certains goûts (et en ressortiront d'autres). Les Stout, Gueuze et Lambic se conservent bien longtemps (au frigo ou à température pièce).
 
