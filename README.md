@@ -793,7 +793,7 @@ Kellerbier/ Zwickelbier: *celle de @Vrooden*
 
 Lambic Kriek
 
-Märzen: *celle de @Vrooden
+Märzen: *celle de @Vrooden*
 
 Old Ale: *Ol' Keeper de @Castor*
 
@@ -870,8 +870,8 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 |:--|:--:|:--:|--:|
 |Lager Blonde (amère ou non, l'autre dans l'autre 24-pack)|Rousse|IPA fruitée|IPA résineuse|
 |Milkshake IPA|Brown Ale|Doppelbock|Scotch Ale/Wee Heavy|
-|Stout Dark|Pastry Stout crémeuse|Stout Blanche|Smoothie Beer|
-|Fruit Beer|Berliner Weisse|Gose|Gueuze|
+|Stout Dark avec ou sans alcool fort|Pastry Stout crémeuse et très sucrée|Stout Blanche ou Stout au café|Smoothie Beer|
+|Fruit Beer|Berliner Weisse idéalement acide|Gose|Gueuze|
 |Belgian Strong Golden Ale|Witbier/Blanche|Gruit ou Spiced Beer|Hefeweizen|
 |Farmhouse brett|American Wild Ale|Winter Warmer|IPA Kveik|
 
@@ -885,7 +885,7 @@ Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ce
 |Barleywine|Belgian Dubbel ou Quadruple Belge|Smoked Beer|Impériale Choco-Piment Chipotle @Beauregard|
 |Stout à l'arachide @Beauregard|Une autre bière sûre avec un nouveau fruit|Silo F @Silo|Lambic Framboise ou Kriek|
 |Cidre|Flander's Red Ale|Une bière au gingembre|Une bière à la citrouille|
-|Tourbière Sûre @La Souche|                 Kellerbier/Zwickelbier                  |Tripel aux Poires @Mille Îles|Märzen|
+|Tourbière Sûre @La Souche|Kellerbier/Zwickelbier|Tripel aux Poires @Mille Îles|Märzen|
 |Farmhouse Saison|Au choix|Au choix|Au choix|
 
 ---
