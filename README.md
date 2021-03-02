@@ -440,7 +440,7 @@ caramel,
 alcool fort,
 amère.
 *La **Monarque** a un goût de chocolat/cacao en plus, ça pourrait être une bonne initiation à ce style*
-*Celle de @Pit Caribou a des petites de fumée*
+*Celle de **@Pit Caribou** a des petites touches de fumée*
 
 
 ---
