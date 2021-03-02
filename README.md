@@ -162,7 +162,8 @@ très légère: le goût est pas mal subtil
 
 ### Altbier, rousse allemande
 ---
-**Fleury @Silo (ma rousse préférée!)**
+**Fleury @Silo**
+**Altbier @Simple Malt**
 
 Caramel,
 malt,
@@ -174,8 +175,10 @@ légère
 
 ### Rye, bière de seigle
 ---
-(J'ai goûté uniquement celle de @Brewskey, mais elle est difficilement accessible. En général j'imagine que ça goûte pas mal pareil les Rye Amber/Rye IPA)
-Il y a aussi Fashion Victim @Les Grands Bois qui a l'air pas pire.
+
+**Conqueror @Pit Caribou**
+
+**Fashion Victim @Les Grands Bois**
 
 Seigle grillé,
 carmel,
@@ -198,31 +201,17 @@ Si vous n'aimez pas beaucoup les bières fortes ou vous avez peur de l'amertume,
 Par expérience, les IPA des brasseries les plus "populaires" sont difficiles à trouver (Sir John serait la plus accessible) donc je vais vous proposer d'autres IPA d'autres brasseries qui sont aussi très bonnes :D Let's go! 
 
 
-### IPAs fruitées, peu amères et peu résineuses
+### IPAs fruitées, peu résineuses, peu piney, amertume variable
 
 ---
 
 **Ukulele (HBC 644 & HBC 342) @Lagabière**
 
-Houblonnée,
-fruits tropicaux,
-agrumes,
-texture juicy et hazy
-
-
+**Paradise Point @Pit Caribou**
 
 **Double Descente @Boréale**
 
 **IPA du Nord-Est @Boréale**
-
-Très houblonnée,
-fruits tropicaux,
-agrumes,
-zesty,
-texture juicy et hazy (*la Double Descente est un peu plus liquide*),
-*La Double Descente a une amertume modérée, la Nord-Est une faible amertume*
-
-
 
 **Catnip @Noctem**
 
@@ -230,13 +219,28 @@ texture juicy et hazy (*la Double Descente est un peu plus liquide*),
 
 **Tête de Pioche @Prosprecteur**
 
-**Réverbère #2 @Brasserie Générale**
+Très houblonnée,
+fruits tropicaux,
+agrumes,
+zesty,
+texture juicy et hazy
+
+**Double Mango IPA**
+
+Fruitée: mangue, nectarine,
+houblonnée,
+amère,
+assez liquide
+
+
+
+
 
 **Etc.**
 
 
 
-### IPAs résineuses et piney, amertume variable
+### IPAs résineuses, piney et amères
 
 ---
 
@@ -249,6 +253,17 @@ amère,
 sèche
 
 
+**IPA Américaine des Appalaches @Pit Caribou**
+
+Houblonnée,
+résineux,
+floral,
+herbeux,
+malt,
+un peu de miel,
+amère
+
+
 
 **West Coast IPA @Mille Îles**
 
@@ -258,6 +273,16 @@ Houblonnée,
 agrumes,
 fruits tropicaux,
 amertume tranchante
+
+
+
+**Bomba @Simple Malt**
+
+Houblonnée,
+résineux,
+malt,
+amère,
+fruits exotiques
 
 
 
@@ -292,6 +317,16 @@ Fruits tropicaux: mangue, ananas...,
 très houblonnée,
 amertume modérée,
 entre hazy et liquide
+
+
+**L'Arlequin Double IPA des Migrateurs @Pit Caribou**
+
+Houblonnée,
+piney,
+résineux,
+fruitée: pêche, nectarine,
+agrumes,
+amertume modérée
 
 
 ---
@@ -338,6 +373,15 @@ souvent assez liquides/légères
 **N'importe quelle Fructis Mortis de @Messorem Bracitorium**
 
 (*c'est très difficile à se procurer si on ne va pas sur place, et ils ne vendent que des 4-pack. Mais c'est définitivement la meilleure du style*)
+
+**IPA Sure @Pit Caribou**
+
+Houblonnée,
+nectarine,
+prune,
+pêche,
+sûre,
+légère amertume sèche
 
 
 **Banjo @Jukebox**
@@ -386,6 +430,8 @@ texture crispy
 ---
 **Solstice d'hiver @Dieu du Ciel**
 
+**Barleywine Américain @Pit Caribou**
+
 **Monarque - Vin d'orge obscur @8e Péché**
 
 Céréales rôties,
@@ -394,6 +440,7 @@ caramel,
 alcool fort,
 amère.
 *La **Monarque** a un goût de chocolat/cacao en plus, ça pourrait être une bonne initiation à ce style*
+*Celle de @Pit Caribou a des petites de fumée*
 
 
 ---
@@ -404,6 +451,7 @@ amère.
 ### Imperial Stout
 ---
 **Péché Mortel @Dieu du Ciel**
+**Imperial Stout @Simple Malt**
 
 Café,
 céréales rôties,
@@ -438,17 +486,6 @@ café,
 lait 1%,
 amère,
 texture liquide (*pourrait être une initiation aux Pastry Stout si vous n'aimez pas la texture crémeuse*)
-
-
-
-**Russe Impériale Stout @Vrooden**
-
-Chocolat,
-bourbon,
-café,
-vanille,
-texture crémeuse.
-*Si vous n'aimez pas le gros goût de sucre/dessert, ça pourrait être un bon pont vers les Pastry Stout*
 
 
 ---
@@ -486,7 +523,7 @@ texture crémeuse
 **N'importe laquelle de @Brewskey. Si vous avez la chance de vous en procurer une! C'est très sucré et jamais barrique en général.**
 
 
-### Porter Baltique
+### Porter
 ---
 **Porter Baltique @Beauregard**
 
@@ -496,6 +533,17 @@ amandes grillées,
 lactose,
 texture crémeuse.
 *En gros, une Pastry Stout moins intense dans les goûts. On pourrait comparer ça avec des Pale Ale et des IPA... mettons*
+
+
+**La Gaspésienne #13 @Pit Caribou**
+
+**Stout à l'espresso bio @Pit Caribou**
+
+Café,
+dark,
+sucrée,
+crémeuse (mais moins qu'une pastry),
+petites notes de chocolat et de fumée
 
 
 
@@ -529,6 +577,14 @@ chocolat au lait,
 robe dorée.
 *Une Stout n'est pas nécessairement une bière noire. Techniquement le mot Stout fait [historiquement] référence aux bières fortes en alcool. On dirait un café glacé!*
 
+### Stout/Porter sûre/fruitée
+
+**Kriek Porter @Pit Caribou**
+
+Chocolat,
+cerise noire,
+goût de gâteau forêt noire,
+légèrement acidulée
 
 ### Stout avec piments forts
 ---
@@ -557,15 +613,43 @@ texture assez liquide
 
 ### Smoothie Beer
 ---
-Fruitée, sucrée, lactose, goûte Vraiment le fruit que c'est sensé goûter, 0 amère, un peu sûre, pas acide, incroyable texture de smoothie, mottons présents (en petite quantité). N'importe quelle BrewJuice, BrewCake ou Cobbler de @Brewskey, Petit Jus de Mort de @Messorem Bracitorium, Smoothie aux QQCH des @Insulaires et Gros Jus de @La Centrale.
+Fruitée, sucrée, lactose, goûte Vraiment le fruit que c'est sensé goûter, 0 amère, un peu sûre, pas acide, incroyable texture de smoothie, mottons présents (en petite quantité).
+
+N'importe quelle BrewJuice, BrewCake ou Cobbler de @Brewskey
+
+Petit Jus de Mort de @Messorem Bracitorium
+
+Smoothie aux QQCH des @Insulaires
+
+Gros Jus de @La Centrale.
 
 ### Fruit Beer
 ---
-Texture entre légère et smoothie, pas de mottons, gros goût de fruits, un peu sûre/acidulée, 0 amère. Megafruits Raptor de @La Barberie, Mango Jelly @OverHop, etc.
+Texture entre légère et smoothie, pas de mottons, gros goût de fruits, un peu sûre/acidulée, 0 amère. 
+
+Megafruits Raptor de @La Barberie
+
+Mango Jelly @OverHop
+
+Etc.
 
 ### Berliner Weisse
 ---
-Texture légère, pas de mottons, goût de fruits assez subtil, rafraîchissante, 0 amère, sûre et acidulée. N'importe quelle Rocket de @L'Octant, n'importe quelle Solstice d'Été de @Dieu du Ciel, Limoilou Beach de @La Souche (plus acide)... Une autre intéressante est Silo F de @Silo, elle goûte la goyave! Rares sont les bières à la goyave!
+Texture légère, pas de mottons, goût de fruits assez subtil, rafraîchissante, 0 amère, sûre et acidulée. 
+
+N'importe quelle Solstice d'Été de @Dieu du Ciel
+
+Limoilou Beach de @La Souche (plus acide)
+
+Sorbet @Simple Malt
+
+La Lollipop @Pit Caribou
+
+N'importe quelle Rocket de @L'Octant
+
+Une autre intéressante est Silo F de @Silo, elle goûte la goyave! Rares sont les bières à la goyave!
+
+Etc.
 
 
 Je trouve que les Fruit Beer et Berliner Weisse sont souvent mélangés. Je pense qu'une Berliner Weisse est plus acide, sûre et légère, tandis qu'un Fruit Beer a des goûts fruités pas mal plus prononcés et une texture un petit peu plus crispy. Pour la Smoothie Beer c'est sa texture qui la caractérise en plus de son acidité négligeable.)
@@ -619,6 +703,8 @@ acidulée
 **La Marine @Insulaires**
 
 **La Calaca @Noctem**
+
+**Gose du Barachois @Pit Caribou**
 
 Salée,
 coriandre,
