@@ -27,6 +27,7 @@ Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https:
   * Produits rares
   * Où les échanger?
   * Valeur secondaire des bières 
+* Applications à avoir
 * Brassage amateur À VENIR
 * Contact
 
@@ -978,9 +979,11 @@ Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ce
 
 ![Produits rares et échanges](echanges.png)
 
-Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, du Sir John se vend à Lachute et des fois à Montréal (je ne sais pas si ailleurs), etc. je vais vous mettre dans ce guide plusieurs bières au cas où vous ne trouviez pas tous les produits dans votre région! Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
+Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey se vend uniquement à Montréal, Bas-Canada se vend à Gatineau et desfois dans d'autres région, etc.
 
-Je vous conseille de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés! Le groupe [Actualités du milieu brassicole Qc](www.facebook.com/groups/258612807916349) a beaucoup d'info!
+Moi j'habite Montréal donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
+
+Je vous conseille aussi de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés! Le groupe [Actualités du milieu brassicole Qc](www.facebook.com/groups/258612807916349) a beaucoup d'info! Vous allez être à jour et saurez quelles nouvelles bières seront en magasin bientôt!
 
 **Bières importées**
 
@@ -988,7 +991,7 @@ La SAQ a beaucoup de bières importées. Suivez les nouveaux arrivages de près,
 
 Il y a d'autres places où trouver des bières importées (sachez que ça coûte assez cher!), entre autres: [Importation Pivo](https://www.facebook.com/importationpivot), [Îsle de Garde](https://www.isledegarde.com/bieres-importees), etc.
 
-Ça s'échange pas mal bien aussi ces bières-là!
+Ça s'échange pas mal bien ces bières-là!
 
 **Quels styles sont rares? Quelles brasseries sont rares/échangeables?**
 
@@ -1026,7 +1029,7 @@ LTM
 
 etc.
 
-**Il y a d'autres brasseries moins connues qui ont de très bons produits, mais qui sont vendus uniquement sur place, peut-être eux aussi seraient échangeables? J'en connais juste deux:**
+**Il y a d'autres brasseries moins connues qui ont de très bons produits, mais qui sont vendus uniquement sur place, peut-être eux aussi seraient échangeables? Je connais juste celles-ci:**
 
 Îsle de Garde
 
@@ -1034,7 +1037,9 @@ La Centrale
 
 **Où échanger?**
 
-Il y a plusieurs groupes où vous pouvez échanger vos bières. Mon préféré est [Bazaar Bière](https://www.facebook.com/groups/1529571330607267/). *Note: FT veut dire For Trade, ISO veut dire In Search Of*.
+Il y a plusieurs groupes où vous pouvez échanger vos bières. Mon préféré est [Bazaar Bière](https://www.facebook.com/groups/1529571330607267/). Il y a aussi **Tranactions céréalières** mais il faut se faire inviter...
+
+*Note: FT veut dire For Trade, ISO veut dire In Search Of*.
 
 Si vous ne pouvez pas aller chez Messorem (ou vous ne voulez pas acheter leur 4-pack, vous avez ce groupe-ci: [Messorem Bracitorium Enthusiasts](https://www.facebook.com/groups/583611702281464/).
 
@@ -1045,6 +1050,20 @@ Il doit y en avoir d'autres, mais je ne les connais pas!
 Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous ne saviez pas si le ratio est le bon): [VSBQ](https://www.facebook.com/groups/301037520961589).
 
 ![Brassage amateur](brassage.png)
+
+## Applications à avoir
+
+**Untappd**
+
+Pour trouver les profils de goûts et le *rating* de pas mal toutes les bières au monde! Ça vous permet aussi de vous faire des listes avec les bières: wishlist, my best list, etc.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.untappdllc.app), [Appstore](https://apps.apple.com/ca/app/untappd-discover-beer/id449141888)
+
+**Birre & Co.**
+
+Pour gagner de l'argent en buvant! À peu près, à chaque 200$ vous gagnez 20$.
+
+[Google Play](https://play.google.com/store/apps/details?id=com.birreco), [Appstore](https://apps.apple.com/ca/app/birre-co-the-beer-app/id1245788713)
 
 ## À VENIR
 
