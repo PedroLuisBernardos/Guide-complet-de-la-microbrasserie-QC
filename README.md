@@ -1049,8 +1049,6 @@ Il doit y en avoir d'autres, mais je ne les connais pas!
 
 Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous ne saviez pas si le ratio est le bon): [VSBQ](https://www.facebook.com/groups/301037520961589).
 
-![Brassage amateur](brassage.png)
-
 ## Applications à avoir
 
 **Untappd**
@@ -1064,6 +1062,8 @@ Pour trouver les profils de goûts et le *rating* de pas mal toutes les bières 
 Pour gagner de l'argent en buvant! À peu près, à chaque 200$ vous gagnez 20$.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.birreco), [Appstore](https://apps.apple.com/ca/app/birre-co-the-beer-app/id1245788713)
+
+![Brassage amateur](brassage.png)
 
 ## À VENIR
 
