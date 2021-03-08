@@ -8,6 +8,7 @@ Je n’ai pas goûté à Toutes les brasseries du Québec. Dans ce guide j'essai
 
 Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en&gl=US). Elle est très à jour, complète et fiable. Vous trouverez les profils de goûts et les ratings de toutes les bières au monde! Je la recommande!
 
+[clic](#Gose)
 
 **Table de matières:**
 
