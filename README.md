@@ -10,7 +10,7 @@ Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https:
 
 **Table de matières:**
 
-* [Guide des styles par couleur + exemples + profil de goût](#Pilsner Czech)
+* Guide des styles par couleur + exemples + profil de goût
 * Quel verre choisir?
   * Où les acheter
   * Le verre idéal à Avoir
