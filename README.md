@@ -790,6 +790,79 @@ légère
 ## Voici d'autres styles que j'ai pas beaucoup expérimentés:
 ---
 
+### Grisette
+---
+**N'importe laquelle de @Isle de Garde ou @Dunham**
+
+Sèche,
+agrumes: citron/orange,
+épicée,
+légère,
+sûrette,
+notes florales et herbacées
+
+
+### Hefeweizen
+---
+**N'importe laquelle à la SAQ**
+
+Banane,
+légère,
+douce,
+peu houblonée: mangue et ananas très subtiles
+
+
+### Old Ale
+---
+**Old Ale de @Castor**
+
+Malty,
+caramel,
+sweet,
+intense,
+alcool fort,
+sèche
+
+
+### Dark Lager/Schwarzbier
+---
+**Nuit de Prague de @Vrooden**
+
+Smooth,
+dark,
+malt,
+caramel,
+légère,
+chocolat et café subtiles,
+toasty,
+sèche
+
+
+### Kellerbier/Zwickelbier
+---
+**Kellerbier de @LTM et @Vrooden**
+
+Légère,
+douce,
+herbacée,
+florale,
+houblonnée,
+crispy,
+céréales
+
+
+### Dubbel
+---
+**N'importe laquelle à la SAQ**
+
+Banane,
+douce,
+levures belges,
+un peu crémeuse,
+dark,
+malt,
+caramel
+
 
 ### Gruit/Ancient Herbed Beer
 ---
