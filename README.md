@@ -924,15 +924,11 @@ Adambier: *celle de @Vox Populi*
 
 American Wild Ale: *Colorado de @Castor*
 
-Belgian Dubbel: *je pensais goûter la Dubbel*
-
 Black IPA
 
 Bock - Doppelbock (il y en a d'autres, j'ai décidé d'essayer le Doppelbock): *celle de @LTM*
 
 Cream Ale: *celle de @Knowlton Co.*
-
-Dark Lager: *celle de @LTM*
 
 Farmhouse brettée: *Saison Brett de @LTM*
 
@@ -940,21 +936,15 @@ Flanders Oud Bruin: *Lapsus de @Benelux*
 
 Grisette: *n'importe laquelle de @Dunham*
 
-Hefeweizen: *n'importe laquelle à la SAQ*
-
 India Pale Lager
 
 IPA Kveik: *nordicite @Champ Libre*
 
 IPA Brut: *je dois la regoûter*
 
-Kellerbier/ Zwickelbier: *celle de @Vrooden*
-
 Lambic Kriek
 
 Märzen: *celle de @Vrooden*
-
-Old Ale: *Ol' Keeper de @Castor*
 
 Rauchbier: *celle de @Vrooden*
 
