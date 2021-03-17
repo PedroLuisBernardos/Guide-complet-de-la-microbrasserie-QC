@@ -396,7 +396,7 @@ texture légère
 
 ### IPA Brut
 ---
-**IPA Cuvée Extra Brut @MonsRegius**
+**IPA Cuvée Extra Brut de @MonsRegius**
 
 Fruitée,
 un petit peu piney,
@@ -404,6 +404,30 @@ agrumes,
 effervescente,
 très sèche,
 douce amertume
+
+
+### IPA Black/Cascadian Dark Ale
+---
+**IPA Black de @Dunham**
+
+Crémeuse,
+malts rôtis,
+café,
+dark,
+très houblonnée
+
+
+### IPA Kveik
+---
+**Nordicité de @Champ Libre**
+
+Très houblonnée,
+très sèche,
+goût de levures Kveik,
+agrumes,
+piney,
+crispy,
+faible goût de baies de genièvre
 
 
 ---
@@ -606,6 +630,30 @@ notes de torréfaction,
 un peu de chocolat,
 un peu dark,
 texture assez liquide
+
+
+### Foreign/Exported Stout
+---
+**FES de @Siboire**
+
+Malts rôtis,
+chocolat noir,
+café amer,
+très amère,
+caramel brûlé,
+notes fummées
+
+
+### Irish Stout
+---
+**Guiness**
+
+Très sèche,
+chocolat noir,
+dark,
+café,
+douce,
+crémeuse
 
 ---
 
@@ -916,45 +964,190 @@ malt,
 sucrée,
 peu houblonnée
 
+
+### Cream Ale
 ---
+**Cream Ale Traditionnelle @Knowlton Co.**
 
-## À venir (il y a d'autres styles, mais je ne les aborderai pas):
+Légère,
+douce,
+crémeuse,
+et autres selon le brasseur: café, houblon, épices...
 
-Adambier: *celle de @Vox Populi*
 
-American Wild Ale: *Colorado de @Castor*
+### Rauchbier
+---
+****
 
-Black IPA
+Fumée,
+caramel,
+légère
 
-Bock - Doppelbock (il y en a d'autres, j'ai décidé d'essayer le Doppelbock): *celle de @LTM*
 
-Cream Ale: *celle de @Knowlton Co.*
+### Sahti
+---
+****
 
-Farmhouse brettée: *Saison Brett de @LTM*
+Banane,
+caramel,
+alcool fort,
+malt
 
-Flanders Oud Bruin: *Lapsus de @Benelux*
 
-Grisette: *n'importe laquelle de @Dunham*
+### Adambier
+---
+****
 
-India Pale Lager
+Tourbée,
+boisée,
+amère,
+maltée,
+fumée,
+caramel
 
-IPA Kveik: *nordicite @Champ Libre*
 
-IPA Brut: *je dois la regoûter*
+### Märzen
+---
+****
 
-Lambic Kriek
+Caramel,
+maltée,
+légère,
+douce
 
-Märzen: *celle de @Vrooden*
 
-Rauchbier: *celle de @Vrooden*
+### American Wild Ale
+---
+****
 
-Saison: *Saison des Plages de @Boréale*
+Sèche,
+fruitée,
+sûre,
+légère.
+Si elle est jeune elle goûtera plus l'houblon.
+Plus elle viellit, plus elle goûtera le bois.
 
-Scotch Ale/Wee Heavy: *Corne de Glace de @À l'abri de la Tempête*
 
-Wheat Ale: *Ale de blé américaine de @Knowlton Co.*
+### Farmhouse Ale Brett
+---
+****
 
-Winter Warmer ou Winter Ale: *Réserve de Noël de @LTM*
+Sèche,
+brettée,
+boisée,
+sûre,
+légèrement acidulée,
+fruitée
+
+
+### Farmhouse Ale Saison
+---
+****
+
+Légère,
+fruitée,
+herbacée,
+légèrement épicée,
+agrumes: citron
+
+
+### Winter Warmer
+---
+**Réserve de Noël de @LTM**
+
+Fruits confis,
+sapin,
+pain d'épices,
+épicée: vanille, cannelle,
+douce,
+forte
+
+
+### Scotch Ale/Wee Heavy
+---
+****
+
+Alcool,
+caramel,
+tourbée,
+fruits confis
+
+
+### Lambic Kriek
+---
+****
+
+Cerise,
+sûre,
+acidulée,
+sèche
+
+
+### Flander's Oud Bruin
+---
+****
+
+Malt grillé,
+caramel,
+sûre,
+acidulée,
+fruitée,
+boisée,
+peut être dark et/ou sèche
+
+
+### IPL (India Pale Lager)
+---
+****
+
+Houblonnée,
+légère,
+douce,
+céreales,
+malt
+
+
+### Bière de Table
+---
+****
+
+Légère,
+douce,
+sarazin,
+boisée
+
+
+### Maibock
+---
+**Maibock de @LTM**
+
+Forte,
+maltée,
+caramel,
+florale,
+légère,
+douce
+
+
+### Weizenbock
+---
+**Weizenbock de @LTM**
+
+Dark,
+banane,
+caramel,
+douce,
+forte
+
+
+### Doppelbock
+---
+**Doppelbock de @LTM**
+
+Sucrée,
+mélasse,
+extra dark,
+maltée
 
 ---
 
