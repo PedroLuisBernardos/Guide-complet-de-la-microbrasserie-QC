@@ -901,7 +901,7 @@ crispy,
 céréales
 
 
-### Dubbel
+### Belgian Dubbel
 ---
 **N'importe laquelle à la SAQ**
 
@@ -911,7 +911,22 @@ levures belges,
 un peu crémeuse,
 dark,
 malt,
-caramel
+caramel,
+crémeuse,
+notes de noix et de biscuit
+
+
+### Quadruple belge
+---
+****
+
+Dark,
+riche,
+douce,
+caramel,
+forte,
+alcool,
+levures belges
 
 
 ### Gruit/Ancient Herbed Beer
