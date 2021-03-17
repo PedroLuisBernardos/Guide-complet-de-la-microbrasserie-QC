@@ -469,6 +469,16 @@ amère.
 *Celle de **@Pit Caribou** a des petites touches de fumée*
 
 
+### Weizenbock
+---
+**Weizenbock de @LTM**
+
+Dark,
+banane,
+caramel,
+douce,
+forte.
+
 ---
 
 ![Noires](noires.png)
@@ -1100,7 +1110,7 @@ acidulée,
 sèche
 
 
-### Flander's Oud Bruin
+### Flanders Oud Bruin
 ---
 ****
 
@@ -1144,18 +1154,6 @@ caramel,
 florale,
 légère,
 douce
-
-
-### Weizenbock
----
-**Weizenbock de @LTM**
-
-Dark,
-banane,
-caramel,
-douce,
-forte
-
 
 ### Doppelbock
 ---
