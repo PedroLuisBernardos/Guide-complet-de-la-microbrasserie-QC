@@ -6,6 +6,8 @@ Je suis un jeune amateur de bière. J'ai eu ma piqure au début de 2020 et depui
 
 Je n’ai pas goûté à Toutes les brasseries du Québec. Dans ce guide j'essaie de vous présenter assez de bonnes bières que j'ai goûtées (selon moi) pour que vous puissiez les trouver, peu importe dans quelle région du Québec vous êtes! 
 
+Le profil de goût n'a pas d'ordre particulier.
+
 Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en&gl=US). Elle est très à jour, complète et fiable. Vous trouverez les profils de goûts et les ratings de toutes les bières au monde! Je la recommande!
 
 **Table de matières:**
