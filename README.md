@@ -988,7 +988,7 @@ sûre
 ---
 **L'Exorciste @Dieudu Ciel**
 
-**Allez voir Small Pony Barrel Works**
+**Allez voir Small Pony Barrel Works, desfois ça se vend à la SAQ**
 
 Sèche,
 fruitée,
@@ -1269,9 +1269,9 @@ Sir John (principalement celles qui ne sont pas/plus chez les détaillants et le
 
 etc.
 
-**Il y a aussi des brasseries canadiennes qui se tradent très bien:**
+**Il y a aussi des brasseries canadiennes qui s'échangent très bien:**
 
-Small Pony Barrel Works
+Small Pony Barrel Works (desfois ça se vend à la SAQ)
 
 Wood Brothers
 
