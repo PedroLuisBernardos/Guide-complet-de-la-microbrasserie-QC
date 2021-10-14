@@ -1198,8 +1198,13 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 
 ![Verres](glasses.png)
 
-
 *note: normalement les Kölsh se boivent dans des Stange de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
+
+**Extra**
+
+Le verre *Thistle* s'utilise pour des styles très spécifiques. Vous pouvez vous le procurer si vous y tenez mais ce n'est pas néssecaire selon moi.
+
+![Thistle](thistle.png)
 
 ---
 
@@ -1257,7 +1262,7 @@ Je vous conseille aussi de suivre les nouvelles de vos détaillants de bière (l
 
 **Bières importées**
 
-La SAQ a beaucoup de bières importées. Suivez les nouveaux arrivages de près, des fois vous pouvez trouver des Gueuzes et Lambic de France ou Belgique de grandes brasseries (comme Cantillon).
+La SAQ a beaucoup de bières importées. Suivez les nouveaux arrivages de près, des fois vous pouvez trouver des Gueuzes et Lambic de France ou Belgique de grandes brasseries (comme Cantillon, 3 Fonteinen, de Ranke, etc.).
 
 Il y a d'autres places où trouver des bières importées (sachez que ça coûte assez cher!), entre autres: [Importation Pivo](https://www.facebook.com/importationpivot), [Îsle de Garde](https://www.isledegarde.com/bieres-importees), etc.
 
@@ -1273,19 +1278,25 @@ En général un produit est échangeable s'il est limité et si la brasserie est
 
 Bas-Canada
 
-Bellwoods
-
 Brewskey
 
 Messorem Bracitorium
 
 Robin
 
-Sir John (principalement celles qui ne sont pas/plus chez les détaillants)
+Sir John (principalement celles qui ne sont pas/plus chez les détaillants et leurs produits rares: cannettes d'anniversaire et bouteilles)
+
+etc.
+
+**Il y a aussi des brasseries canadiennes qui se tradent très bien:**
 
 Small Pony Barrel Works
 
 Wood Brothers
+
+Bellwoods
+
+Half Ours on Earth
 
 etc.
 
@@ -1301,17 +1312,11 @@ LTM
 
 etc.
 
-**Il y a d'autres brasseries moins connues qui ont de très bons produits, mais qui sont vendus uniquement sur place, peut-être eux aussi seraient échangeables? Je connais juste celles-ci:**
-
-Îsle de Garde
-
-La Centrale
-
 **Où échanger?**
 
-Il y a plusieurs groupes où vous pouvez échanger vos bières. Mon préféré est [Bazaar Bière](https://www.facebook.com/groups/1529571330607267/). Il y a aussi **Tranactions céréalières** mais il faut se faire inviter...
+Il y a plusieurs groupes où vous pouvez échanger vos bières. Ils changent tout le temps donc il faut se faire inviter parce qu'ils sont privés. Je vous invite à demander quels sont les groupes du moment dans le groupe général [Les Trippeux De Bière De Microbrasserie](https://www.facebook.com/groups/257481717787230).
 
-*Note: FT veut dire For Trade, ISO veut dire In Search Of*.
+*Note: FT veut dire For Trade, ISO veut dire In Search Of, IP veut dire In Person*.
 
 Si vous ne pouvez pas aller chez Messorem (ou vous ne voulez pas acheter leur 4-pack, vous avez ce groupe-ci: [Messorem Bracitorium Enthusiasts](https://www.facebook.com/groups/583611702281464/).
 
