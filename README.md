@@ -926,7 +926,8 @@ brettée (goût boisé)
 Pomme verte surette,
 citron,
 acidulée.
-*D'habitude les Gueuzes coûtent très cher à la SAQ (vous pouvez trouver des 375mL à 18$... des 750mL à 56$...) - la France et la Belgique font les meilleures, celle-ci est une très bonne interprétation abordable !*
+
+*D'habitude les Gueuzes coûtent très cher à la SAQ (vous pouvez trouver des 375mL à 18$... des 750mL à 56$...) - la France et la Belgique font les meilleures, celle de LTM est une très bonne interprétation abordable !*
 
 ### Flander's Red Ale
 ---
