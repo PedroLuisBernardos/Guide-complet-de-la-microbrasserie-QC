@@ -2,16 +2,18 @@
 
 **Présentation**
 
-Je suis un jeune amateur de bière. J'ai eu ma piqure au début de 2020 et depuis je me suis amusé à essayer pas mal de styles/goûts, je me suis renseigné sur les verres, l'histoire, etc. Je tenais à partager mes expériences, qui ne sont pas énormes, mais qui pourraient être une bonne source d'information pour certains :D
+Je suis un jeune amateur de bière. J'ai eu ma piqure au début de 2020 et depuis je me suis amusé à essayer pas mal de styles/goûts, je me suis renseigné sur les verres, l'histoire, etc. Je tenais à partager mes expériences, qui ne sont pas énormes, mais qui pourraient être une bonne source d'information pour certains 😁
 
 Je n’ai pas goûté à Toutes les brasseries du Québec. Dans ce guide j'essaie de vous présenter assez de bonnes bières que j'ai goûtées (selon moi) pour que vous puissiez les trouver facilement. Sachez que j'habite à Montréal, donc peut-être les bières *faciles à trouver* pour moi, sont *difficiles à trouver* pour vous !
 
-Le profil de goût n'a pas d'ordre particulier.
+note: le profil de goût n'a pas d'ordre particulier.
 
 Je vous conseille de jeter un coup d'oeil à cette application: [Untappd](https://play.google.com/store/apps/details?id=com.untappdllc.app&hl=en&gl=US). Elle est très à jour, complète et fiable. Vous trouverez les profils de goûts et les ratings de toutes les bières au monde ! Je la recommande !
 
 **Table de matières:**
 
+* Comment décrire une bière - Explication des mots
+* Houblons
 * Guide des styles par couleur + exemples + profil de goût
 * Quel verre choisir?
   * Où les acheter
@@ -37,13 +39,26 @@ Cheers !
 **Quelques infos:**
 
 Je ne cherche pas à faire de pub en faisant ce guide.
-Je ne suis pas payé pour faire ce petit guide, je le fais pour le plaisir !
+Je ne suis pas payé pour faire ce guide, je le fais pour le plaisir !
 Mon but est de partager mon expérience avec la bière pour initier de futurs amateurs de bière !
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel !
-Si jamais je cite ou utilise l'une de vos marques/photos et vous n'êtes pas d'accord, je vais les enlever !
+Si jamais je cite ou utilise l'une de vos marques/photos et vous n'êtes pas d'accord, je vais les enlever sans problème :)
 Ceci est une première version ! Je vais l'update selon mes nouvelles découvertes :) Merci à mon ami Alex qui m'a donné pas mal de conseils avec les styles que je connaissais moins et à ceux qui m'ont aidé dans mon post sur Facebook !
 
 ---
+
+## 
+
+À VENIR
+
+---
+
+## houblons
+
+À VENIR
+
+---
+
  ![Lagers Blondes](lager.png)
 
 
@@ -668,6 +683,18 @@ fruitée,
 boisée,
 peut être dark et/ou sèche
 
+
+### Smoked Beer
+---
+**Raftman @Uniboue**
+
+Fumée,
+malt grillé,
+caramel,
+cassonade,
+herbacée,
+levures belges
+
 ---
 
  ![Noires](noires.png)
@@ -1153,13 +1180,13 @@ Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vou
 
 **Où les acheter?**
 
-Normalement les verres se vendent à 8$---20$ dans les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple [Vinum](https://vinumdesign.com). Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là ! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux ! Il y a aussi des groupes de trade sur Facebook: [Collectionneurs De Verres De Bière Du Québec](https://www.facebook.com/groups/1696716747102786), [Echange Verre de Bière du Québec](https://www.facebook.com/groups/1598609583741693).
+Normalement les verres se vendent à 8$---20$ chez les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple [Vinum](https://vinumdesign.com), ou [Tzanet](https://www.tzanet.com/). Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là ! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux ! Il y a aussi des groupes de trade sur Facebook: [Collectionneurs De Verres De Bière Du Québec](https://www.facebook.com/groups/1696716747102786), [Echange Verre de Bière du Québec](https://www.facebook.com/groups/1598609583741693).
 
-Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement: achetez-vous un Teku et mettez tout ce que vous buvez dedans !
+Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement: achetez-vous un **Teku** et mettez tout ce que vous buvez dedans !
 
-*Note1: regardez bien la capacité de vos verres ! N'oubliez pas que des canettes régulières sont de 473mL.*
+*note1: regardez bien la capacité de vos verres ! N'oubliez pas que des canettes régulières sont de 473mL.*
 
-*Note2: assurez-vous d'avoir le petit bec dans vos Tulip et vos Teku. Je trouve que c'est pas mal plus agréable quand il est là !*
+*note2: assurez-vous d'avoir le petit bec dans vos Tulip et vos Teku. Je trouve que c'est pas mal plus agréable quand il est là !*
 
  ![Bec](bec.png)
 
@@ -1209,27 +1236,15 @@ Voici les styles et les goûts que je vous propose pour votre 24-pack :) je vous
 
 **Essentiel**
 
-|||||
-|:--|:--:|:--:|--:|
-|Lager Blonde (amère ou non, l'autre dans l'autre 24-pack)|Rousse|IPA fruitée|IPA résineuse|
-|Milkshake IPA|Brown Ale|Doppelbock|Scotch Ale/Wee Heavy|
-|Stout Dark avec ou sans alcool fort|Pastry Stout crémeuse et très sucrée|Stout Blanche ou Stout au café|Smoothie Beer|
-|Fruit Beer|Berliner Weisse idéalement acide|Gose|Gueuze|
-|Belgian Strong Golden Ale|Witbier/Blanche|Gruit ou Spiced Beer|Hefeweizen|
-|Farmhouse brett|American Wild Ale|Winter Warmer|IPA Kveik|
+![Caisse de 24 pour découvrir](24-pack.png)
 
 **Pour aller plus loin**
 
+Il restent encore 8 bières au choix pour avoir une deuxième caisse de 24, faites les choix selon ce que vous avez aimé et ce que vous voulez découvrir davantage :D ! 
+
 Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ces fruits: framboise, cassis, mangue (très présent dans beaucoup d'IPAs), bleuets, goyave, mûre et fraise. Les bières blanches viendront vous faire gouter l'orange et les bières noires la noix de coco. Le fruit de la passion, l'abricot et l'ananas vous trouverez ça dans les IPAs. Les Lambic Kriek vous feront goûter la cerise, la Tripel de @Mille Îles vous fera goûter la poire, certains cidres/lambic la pomme et certaines Lagers la banane ! Les autres fruits tels que le kiwi, la pommegrenade, les griottes, les canneberges, la mandarine, la pêche, la papaye, etc. sont assez rares !
 
-|||||
-|:--|:--:|:--:|--:|
-|Lager Blonde (amère ou non, l'autre dans l'autre 24-pack)|Rye Amber|IPA Brut|Best Bitter|
-|Barleywine|Belgian Dubbel ou Quadruple Belge|Smoked Beer|Impériale Choco-Piment Chipotle @Beauregard|
-|Stout à l'arachide @Beauregard|Une autre bière sûre avec un nouveau fruit|Silo F @Silo|Lambic Framboise ou Kriek|
-|Cidre|Flander's Red Ale|Une bière au gingembre|Une bière à la citrouille|
-|Tourbière Sûre @La Souche|Kellerbier/Zwickelbier|Tripel aux Poires @Mille Îles|Märzen|
-|Farmhouse Saison|Au choix|Au choix|Au choix|
+![Caisse de 16 pour aller plus loin](extra-pack.png)
 
 ---
 
