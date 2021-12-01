@@ -49,7 +49,42 @@ Ceci est une première version ! Je vais l'update selon mes nouvelles découvert
 
 ## Comment décrire une bière - Explication des mots
 
-À VENIR
+Pour décrire une bière vous devez être en mesure d'évaluer sa couleur, son odeur, sa texture et son goût. Dans les lignes suivantes je vais vous donner une base pour que vous puissiez mettre en mots ce que vous buvez !
+
+### Odeurs
+
+Les arômes de base: malt, sucre, céréales, foin, paille, biscuits, caramel, rôti, fumée, café (le décrire), brulé, alcool fort (le décrire), tabac, cuir, sapin, gazon, etc.
+
+Arômes de baies : mûre, prune, raisin, datte, myrtille, pruneau, bleuet,  framboise, fraise, cerise, grillote, camerise
+
+Arômes de fruits tropicaux : mangue, ananas, noix de coco, banane, fruit de la passion, pêche
+
+Arômes d'autres fruits : pomme, poire, figue, abricot
+
+Notes d'agrumes : citron, lime, tangerine, nectarine, pamplemousse, mandarine, clementine, zeste
+
+Autres arômes acides : astringent, vinaigre, chlore, métallique, cuivre, balsamique, cidre, champagne
+
+Épices et levures :
+Épices, levure, etc. : poivre, clou de girofle, cannelle, anis, réglisse, bacon fumé, noisette, caramel au beurre, vanille, gingembre, terreux, boisé, thym, écurie, camomille, cassonade, pain
+
+Autres : bonbon, beurre d'arachide, souffre, thé, chili, chipotle, chocolat, cacao, coriandre, basilique, miel, érable, lait, menthe, vin, seigle
+
+### Robe
+
+Couleur de la bière : miel, caramel, rouge roux,  brune, ambre, châtaigne, rouge foncé, abricot, orange, noir, , rubis, cuivre, or, doré
+
+Clarté de la bière : brillante, trouble, taque, claire, cristalline, brillante, terne
+
+La mousse : persistante, rocheuse, duveteux, dissipante, beige, mousseuse, délicate
+
+### Goût
+
+Les **saveurs** vont se retrouver dans la liste présente à la section sur l'odeur.
+
+Pour aller plus loin,
+
+### Sensation
 
 ---
 
@@ -1036,6 +1071,7 @@ Plus elle viellit, plus elle goûtera le bois.
 Légère,
 fruitée,
 herbacée,
+minérale,
 légèrement épicée,
 agrumes: citron
 
