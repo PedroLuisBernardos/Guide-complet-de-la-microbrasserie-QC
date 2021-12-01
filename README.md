@@ -47,13 +47,13 @@ Ceci est une première version ! Je vais l'update selon mes nouvelles découvert
 
 ---
 
-## 
+## Comment décrire une bière - Explication des mots
 
 À VENIR
 
 ---
 
-## houblons
+## Houblons
 
 À VENIR
 
