@@ -1,4 +1,4 @@
- ![Le Guide pour débutants sur la Microbrasserie Québécoise](entete.png)
+ ![Le Guide pour débutants sur la Microbrasserie Québécoise](/images/entete.png)
 
 # Le Guide pour débutants sur la Microbrasserie Québécoise
 
