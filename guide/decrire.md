@@ -32,8 +32,6 @@ Pour décrire une bière vous devez être en mesure d'évaluer sa couleur, son o
 
 ## Goût
 
----
-
 Les **saveurs** vont se retrouver dans la liste présente à la section sur l'odeur.
 
 Pour aller plus loin, vous pouvez décrire les **notes** ou les **arômes** que vous goûtez. En voici une liste: torréfié, doux, épicé, fruité, chocolat, caramel, café, malté, acidulé, subtil, boisé, terreux, piney, souffre...
