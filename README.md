@@ -31,7 +31,7 @@ En guise d'information, l'ordre dans les descriptions de saveurs est plus au moi
    * [Blondes](/guide/blondes.md)
    * [Rousses](/guide/rousses.md)
    * [Brunes](/guide/brunes.md)
-   * [IPAs](/guide/IPAs.md)
+   * [IPAs](/guide/ipas.md)
    * [Noires](/guide/noires.md)
    * [Sûres](/guide/sures.md)
    * [Autres](/guide/autres.md)
