@@ -1,4 +1,4 @@
-![Brunes](/images/brunes.png)
+![Brunes](../images/brunes.png)
 
 ## Brown Ale 🌰🇬🇧
 
