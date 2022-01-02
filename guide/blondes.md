@@ -141,6 +141,62 @@ Ce style est brassé comme une Ale
   * Boisson d'Avril (Le Trou du Diable)
   * Kellerbier (LTM)
 
+## Tripel/Triple Belge 🇧🇪
+
+* Description
+  * goût de banane, de sucre et de levures belges
+  * bière douce
+* Quoi acheter ?
+  * Triple Karmeliet (Bosteels)
+    * SAQ
+    * la Tripel classique d'Europe
+  * Dominus Vobiscum Triple (Charlevoix)
+  * La Fin du Monde (Unibroue)
+  * Triple Belge aux Poires (Mille Îles)
+    * un gros goût de poires est présent
+  * Anna (Vox Populi)
+    * un gros goût d'houblons est présent
+
+## Belgian Golden Ale/Blonde belge 🇧🇪
+## Belgian Strong Golden Ale 🇧🇪
+
+Si la bière est *strong*, c'est le goût intense et le taux d'alcool qui changera
+
+* Description
+  * goût de levures belges
+  * arômes de poire et de bananes
+  * bière intense mais douce
+* Quoi acheter ?
+  * Flacatoune (Charlevoix)
+  * Delerium Tremens (Huyghe)
+    * s'achète au IGA ou au Métro par exemple
+
+## Cream Ale 
+
+Peut aussi être [brune](/guide/brunes.md)
+
+* Description
+  * léger goût de céréales et de maïs
+  * peut avoir un goût de café, de malts grillés et de caramel
+  * légère, crémeuse et mouthfeel doux
+  * amertume faible
+* Quoi acheter ?
+  * Cream Ale Traditionnelle (La Knowlton Co.)
+  * Cream Ale Traditionnelle Café (La Knowlton Co.)
+
+## Hefeweizen 🇩🇪🍌
+
+* Description
+  * légers arômes de miel et d'agrumes
+  * saveurs d'oranges, de bananes et de zeste
+  * goûts de mangue et d'ananas très subtiles
+  * finale sucrée sur les bananes
+  * douce
+  * amertume modérée
+* Quoi acheter ?
+  * Citra-Weisse (Le Castor)
+  * n'importe laquelle dans une SAQ, par exemple Schöfferhofer Weizen (Radeberger Gruppe)
+
 ### Crédits
 
 * [Justbeerapp - Crisp and Clean](https://justbeerapp.com/article/beer-profiles-crisp-and-clean)
