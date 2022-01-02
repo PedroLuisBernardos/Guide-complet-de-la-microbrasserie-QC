@@ -48,7 +48,7 @@ Crisp veut dire `hautement gazéifié`. Ces bières laissent une sensation rafra
   * Pivo Červený (L'Amère à Boire)
   * Černá (L'Amère à Boire)
 
-### Kölsch 🇩🇪
+## Kölsch 🇩🇪
 
 Ce style est brassé comme une Ale
 
@@ -67,7 +67,7 @@ Ce style est brassé comme une Ale
   * Monsieur Madame (Ras L'Bock)
   * Sentinelle (Dieu du Ciel)
 
-### Pilsner Allemande 🇩🇪
+## Pilsner Allemande 🇩🇪
 
 * Description
   * goût de céréales et de paille
@@ -80,7 +80,7 @@ Ce style est brassé comme une Ale
   * n'importe quoi de Messorem
   * Herman Pils (Dunham)
 
-### Euro Pale Lager
+## Euro Pale Lager
 
 * Description
   * goût assez sucré, malté et céréalier
@@ -94,7 +94,7 @@ Ce style est brassé comme une Ale
   * Fripouille (Archibald)
   * Heinenken
 
-### Helles 🇩🇪
+## Helles 🇩🇪
 
 * Description
   * léger goût de céréales et de pain
@@ -110,7 +110,7 @@ Ce style est brassé comme une Ale
   * Coup de Foudre - Helles (Les Grands Bois)
   * 79 (Harricana)
 
-### Maibock/Helles Bock 🇩🇪
+## Maibock/Helles Bock 🇩🇪
 
 * Histoire
   * Lager blonde forte en alcool inspirée des bières historiquement brassées en Bavière pour célébrer l'arrivée du printemps
@@ -121,7 +121,7 @@ Ce style est brassé comme une Ale
 * Quoi acheter ?
   * Maibock (LTM)
 
-### Kellerbier/Zwickelbier 🇩🇪
+## Kellerbier/Zwickelbier 🇩🇪
 
 * Histoire
   * Les Kellerbier (bière de cellier) étaient à l'origine gardées dans de grandes cuves de bois. Elles sont des bières relativement jeunes et non-filtrées.
