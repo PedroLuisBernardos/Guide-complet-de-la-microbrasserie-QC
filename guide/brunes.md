@@ -1,5 +1,7 @@
 ![Brunes](../images/brunes.png)
 
+# Bières brunes
+
 ## Brown Ale 🌰🇬🇧
 
 Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgian, etc.

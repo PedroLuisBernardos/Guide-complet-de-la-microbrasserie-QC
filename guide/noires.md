@@ -1,5 +1,7 @@
 ![Noires](/images/noires.png)
 
+# Bières noires
+
 Il y a énormément de différences entre les Stout: ajout de fruits, de noix de coco, de vanille, de café, de piments forts, d'alcool fort, de bois... Je ne peux pas toutes les aborder dans ce blog !
 
 ### Des bieres difficiles à trouver

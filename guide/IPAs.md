@@ -1,5 +1,7 @@
 ![IPA](/images/ipa.png)
 
+# IPAs
+
 ### Des bieres difficiles à trouver
 
 Par expérience, les IPA des brasseries les plus *populaires* (Auval, Brewskey, Bas-Canada, Messorem, Auval, etc.) sont difficiles à trouver (Sir John serait la plus accessible selon moi) donc je vais vous proposer d'autres IPA d'autres brasseries qui sont aussi très bonnes !
