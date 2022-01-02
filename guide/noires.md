@@ -61,15 +61,6 @@ Je considère que cette bière blonde a plus de ressemblances aux Stout que les 
 * Quoi acheter ?
   * Stout Blanc (Oshlag)
 
-## Stout/Porter sûre/fruitée 🍒
-
-* Description
-  * goût de chocolat, de gâteau forêt noire et de cerise noire
-  * légèrement acidulée
-  * amertume modérée
-* Quoi acheter ?
-  * Kriek Porter (Pit Caribou)
-
 ## Stout avec piments forts 🌶️
 
 * Description
