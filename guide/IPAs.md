@@ -8,7 +8,7 @@ Par expérience, les IPA des brasseries les plus *populaires* (Auval, Brewskey, 
 
 ### Houblons
 
-Je vous conseille de jeter un coup d'œil à la section sur les [houblons](/guide/houblons.png) pour aller un peu plus loin ! Vous allez vous rendre compte que les IPA d'une même catégorie goûtent pas mal toutes pareilles. Ce qui change principalement sont les houblons présents. Si jamais vous voulez vraiment découvrir les IPA il est primordial de comprendre les goûts des différents houblons.
+Je vous conseille de jeter un coup d'œil à la section sur les [houblons](../guide/houblons.png) pour aller un peu plus loin ! Vous allez vous rendre compte que les IPA d'une même catégorie goûtent pas mal toutes pareilles. Ce qui change principalement sont les houblons présents. Si jamais vous voulez vraiment découvrir les IPA il est primordial de comprendre les goûts des différents houblons.
 
 ## IPAs fruitées et peu amères 🌴🍍🍋🥭
 

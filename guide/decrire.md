@@ -1,4 +1,4 @@
-![Comment décrire une bière - Explication des mots](/images/decrire.png)
+![Comment décrire une bière - Explication des mots](../images/decrire.png)
 
 # Comment décrire une bière - Explication des mots
 

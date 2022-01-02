@@ -1,4 +1,4 @@
-![Blondes](blondes.png)
+![Blondes](../images/blondes.png)
 
 # Bières blondes
 
@@ -173,7 +173,7 @@ Si la bière est *strong*, c'est le goût intense et le taux d'alcool qui change
 
 ## Cream Ale 
 
-Peut aussi être [brune](/guide/brunes.md)
+Peut aussi être [brune](../guide/brunes.md)
 
 * Description
   * léger goût de céréales et de maïs

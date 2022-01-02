@@ -1,4 +1,4 @@
-![Rousses](/images/rousses.png)
+![Rousses](../images/rousses.png)
 
 # Bières rousses
 
@@ -6,7 +6,7 @@
 
 * Description
   * goûts de caramel, de cassonade et de malts rôtis
-  * notes de noisette 
+  * notes de noisette
   * amertume modérée à élévée
 * Quoi acheter ?
   * La Bonne Aventure (Pit Caribou)
@@ -26,7 +26,7 @@
 
 * Description
   * goûts de caramel, de mélasse, de malt rôti et de pain grillé
-  * arômes de tabac, de poivre, de pain et de noix 
+  * arômes de tabac, de poivre, de pain et de noix
   * amertume fruitée et élévée
 * Quoi acheter ?
   * Fleury (Silo)
@@ -67,7 +67,7 @@
   * amertume modérée (ironique pas vrai ?)
 * Quoi acheter ?
   * Albion (Albion)
-  * Géante Rouge (L'Octant) 
+  * Géante Rouge (L'Octant)
   * 5 (Harricana)
   * English Best Bitter (Mille Îles)  
 
@@ -102,7 +102,7 @@
 
 * Description
   * goûts de caramel, de malts fruités et céréaliers, de pain grillé et de biscuits sucrés
-  * [crisp and clean](/guide/decrire.md)
+  * [crisp and clean](../guide/decrire.md)
   * amertume élevée
 * Quoi acheter ?
   * n'importe laquelle de 5e Baron
@@ -123,9 +123,9 @@
 ## Märzen 🇩🇪
 
 * Description
-  * [crisp and clean](/guide/decrire.md)
   * goût de caramel, de malts grillés, de pain et de biscuits
   * désaltérante et légère
+  * [crisp and clean](../guide/decrire.md)
   * amertume modérée
 * Quoi acheter ?
   * Märzen (Dunham)

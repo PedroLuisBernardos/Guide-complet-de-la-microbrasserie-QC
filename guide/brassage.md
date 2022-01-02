@@ -1,4 +1,4 @@
- ![Brassage amateur](/images/brassage.png)
+ ![Brassage amateur](../images/brassage.png)
 
 ## À VENIR
 
