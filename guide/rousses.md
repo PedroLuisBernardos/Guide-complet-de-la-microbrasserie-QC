@@ -1,4 +1,4 @@
-![Rousses](../images/rousses.png)
+![Rousses](../assets/img/rousses.png)
 
 # Bières rousses
 
@@ -102,7 +102,7 @@
 
 * Description
   * goûts de caramel, de malts fruités et céréaliers, de pain grillé et de biscuits sucrés
-  * [crisp and clean](../guide/decrire.md)
+  * [crisp and clean](decrire.md)
   * amertume élevée
 * Quoi acheter ?
   * n'importe laquelle de 5e Baron
@@ -125,7 +125,7 @@
 * Description
   * goût de caramel, de malts grillés, de pain et de biscuits
   * désaltérante et légère
-  * [crisp and clean](../guide/decrire.md)
+  * [crisp and clean](decrire.md)
   * amertume modérée
 * Quoi acheter ?
   * Märzen (Dunham)

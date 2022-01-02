@@ -1,4 +1,4 @@
-![Packs de bière pour découvrir la bière](../images/packs.png)
+![Packs de bière pour découvrir la bière](../assets/img/packs.png)
 
 # Packs de bière pour découvrir la bière
 

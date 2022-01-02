@@ -1,4 +1,4 @@
-![Sûres](../images/sures.png)
+![Sûres](../assets/img/sures.png)
 
 # Bières fruitées et épicées
 
@@ -7,7 +7,7 @@
 Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne vendent que sur place ou parce que les produits sont plutôt rares. Voici une liste d'excellentes brasseries qui font des blondes mais qui sont difficiles à trouver:
 
 * Auval
-  * C'est la meilleure brasserie du Québec ! Tous leurs produits sont exceptionnels et leur Espinnay est très très populaire dans les [échanges](../guide/echanges.md).
+  * C'est la meilleure brasserie du Québec ! Tous leurs produits sont exceptionnels et leur Espinnay est très très populaire dans les [échanges](echanges.md).
 * 3 Fonteinen, Tilquin et Cantillon
   * D'excellentes brasseries européenes qui ont desfois des produits à la SAQ ou chez des gros détaillants. Ces produits sont si rares qu'il y a des concours pour gagner la chance de les acheter !
 * Small Pony Barrel Works

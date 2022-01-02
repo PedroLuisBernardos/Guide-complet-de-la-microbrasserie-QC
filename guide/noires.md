@@ -1,4 +1,4 @@
-![Noires](/images/noires.png)
+![Noires](../assets/img/noires.png)
 
 # Bières noires
 

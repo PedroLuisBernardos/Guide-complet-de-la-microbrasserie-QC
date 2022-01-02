@@ -1,4 +1,4 @@
-![Autres](../images/autres.png)
+![Autres](../assets/img/autres.png)
 
 D'autres styles ne seront pas abordés mais vous pouvez les rechercher par vous mêmes 
 

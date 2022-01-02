@@ -1,4 +1,4 @@
-![IPA](/images/ipa.png)
+![IPA](../assets/img/ipa.png)
 
 # IPAs
 
@@ -8,7 +8,7 @@ Par expérience, les IPA des brasseries les plus *populaires* (Auval, Brewskey, 
 
 ### Houblons
 
-Je vous conseille de jeter un coup d'œil à la section sur les [houblons](../guide/houblons.png) pour aller un peu plus loin ! Vous allez vous rendre compte que les IPA d'une même catégorie goûtent pas mal toutes pareilles. Ce qui change principalement sont les houblons présents. Si jamais vous voulez vraiment découvrir les IPA il est primordial de comprendre les goûts des différents houblons.
+Je vous conseille de jeter un coup d'œil à la section sur les [houblons](..assets/img/houblons.png) pour aller un peu plus loin ! Vous allez vous rendre compte que les IPA d'une même catégorie goûtent pas mal toutes pareilles. Ce qui change principalement sont les houblons présents. Si jamais vous voulez vraiment découvrir les IPA il est primordial de comprendre les goûts des différents houblons.
 
 ## IPAs fruitées et peu amères 🌴🍍🍋🥭
 
@@ -124,18 +124,16 @@ Mélange entre les blanches belges et les IPA Américaines.
   * goût d'houblons rappelant les fruits tropicaux et les agrumes
   * arômes herbacés et tropicaux
   * légère,  effervescente et désaltérante
-  * amertume très sèche 
+  * amertume très sèche
 * Quoi acheter ?
   * Diamant Brut (Boréale)
-  * Houblon Brut (Le Castor) 
+  * Houblon Brut (Le Castor)
   * Géocoucou (L'Octant)
   * Brut I.P.L. (Maltstorm)
   * IPA Cuvée Extra Brut (MonsRegius)
 
 ## IPA Black/Cascadian Dark Ale ☕🍫💨🌱
 
-* Histoire
-  * 
 * Description
   * goût de café torréfié, d'houblons terreux et résineux, de pain brûlé, de réglisse, de toffee, chocolat noir et malts rôtis
   * arôme de cigare et de mélasse
@@ -153,7 +151,7 @@ Mélange entre les blanches belges et les IPA Américaines.
   * Les levures Kveik sont des levures norvégiennes qui donnent un goût sec à la bière
 * Description
   * goût d'houblons rappelant le goût d'agrumes et piney
-  *  arôme de baies de genièvre
+  * arôme de baies de genièvre
   * finale très sèche
 * Quoi acheter ?
   * Nørdicité (Champ Libre)
