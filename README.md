@@ -67,8 +67,7 @@ Pour gagner de l'argent en buvant ! À peu près, à chaque 200\$ vous gagnez 20
 
 ### Pourquoi j'ai séparé les bières par couleur ?
 
-Beaucoup de guides séparent les bières par profil de saveur. J'ai décidé de ne pas le faire parce que je veux rendre ce guide le plus convivial possible. Je veux que n'importe qui puisse le lire et comprendre le maximum d'information. Voilà pourquoi j'ai aussi ommis beaucoup de détails, de statistiques et de chiffres, utiles, mais inutiles pour des débutants.
-
+Beaucoup de guides séparent les bières par profil de saveur. J'ai décidé de ne pas le faire parce que je veux rendre ce guide le plus convivial possible. Je veux que n'importe qui puisse le lire et comprendre le maximum d'information. Voilà pourquoi j'ai aussi ommis beaucoup de détails, de statistiques et de chiffres, utiles, mais inutiles pour des débutants. La seule exception sont les bières fruitées et épicées: si la bière est sûre elle **est** dans cette catégorie peu importe sa couleur.
 ### Dans quel ordre boire ?
 
 Vous avez différents choix: du moins amer au plus amer, de la plus pâle à la plus foncée, de la moins forte en alcool à la plus forte, de la moins épaisse à la plus épaisse...
