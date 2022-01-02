@@ -85,16 +85,6 @@ Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgia
   * Wee Heavy (Le Castor)
   * Équinoxe du Printemps (Dieu du Ciel)
 
-## Flanders Oud Bruin
-
-* Description
-  * goût de malt grillé, de caramel et de fruits confits
-  * bière sûre et acidulée
-  * fruitée et boisée
-  * amertume légère à modérée
-* Quoi acheter ?
-  * Lapsus (Benelux)
-
 ## Smoked Beer 💨
 
 * Description
