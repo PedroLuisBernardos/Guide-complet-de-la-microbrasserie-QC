@@ -1,4 +1,4 @@
-![Autres](images/autres.png)
+![Autres](/images/autres.png)
 
 Voici les bières que je ne savais pas trop mettre dans quelle catégorie de couleur.
 
@@ -31,6 +31,34 @@ Si la bière est *strong*, c'est le goût intense et le taux d'alcool qui change
   * Flacatoune (Charlevoix)
   * Delerium Tremens (Huyghe)
     * s'achète au IGA ou au Métro par exemple
+
+### Cream Ale 
+
+---
+
+* Description
+  * léger goût de céréales et de maïs
+  * peut avoir un goût de café, de malts grillés et de caramel
+  * légère, crémeuse et mouthfeel doux
+  * amertume faible
+* Quoi acheter ?
+  * Cream Ale Traditionnelle (La Knowlton Co.)
+  * Cream Ale Traditionnelle Café (La Knowlton Co.)
+
+### Hefeweizen 🇩🇪🍌
+
+---
+
+* Description
+  * légers arômes de miel et d'agrumes
+  * saveurs d'oranges, de bananes et de zeste
+  * goûts de mangue et d'ananas très subtiles
+  * finale sucrée sur les bananes
+  * douce
+  * amertume modérée
+* Quoi acheter ?
+  * Citra-Weisse (Le Castor)
+  * n'importe laquelle dans une SAQ, par exemple Schöfferhofer Weizen (Radeberger Gruppe)
 
 ## Witbier/Blanche 🍊
 
