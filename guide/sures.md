@@ -220,3 +220,23 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * n'importe quoi de Auval
   * n'importe quoi de Dunham
   * Saison de Table (LTM)
+
+## Flanders Oud Bruin
+
+* Description
+  * goût de malt grillé, de caramel et de fruits confits
+  * bière sûre et acidulée
+  * fruitée et boisée
+  * amertume légère à modérée
+* Quoi acheter ?
+  * Lapsus (Benelux)
+  * Oud Bruin (LTM)
+
+## Stout/Porter sûre/fruitée 🍒
+
+* Description
+  * goût de chocolat, de gâteau forêt noire et de cerise noire
+  * légèrement acidulée
+  * amertume modérée
+* Quoi acheter ?
+  * Kriek Porter (Pit Caribou)
