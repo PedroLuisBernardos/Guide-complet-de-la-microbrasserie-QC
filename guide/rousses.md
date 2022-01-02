@@ -1,10 +1,8 @@
-![Rousses](rousses.png)
+![Rousses](/images/rousses.png)
 
 # Bières rousses
 
-### American Red Ale 🇺🇸
-
----
+## American Red Ale 🇺🇸
 
 * Description
   * goûts de caramel, de cassonade et de malts rôtis
@@ -13,9 +11,7 @@
 * Quoi acheter ?
   * La Bonne Aventure (Pit Caribou)
 
-### Irish Red Ale 🇮🇪
-
----
+## Irish Red Ale 🇮🇪
 
 * Description
   * goûts de caramel, de sucre d'orge et de malts rôtis et torréfiés
@@ -26,9 +22,7 @@
   * Rousse Irlandaise (Milles Îles)
   * Gros Pin (La Souche)
 
-### Altbier 🇩🇪
-
----
+## Altbier 🇩🇪
 
 * Description
   * goûts de caramel, de mélasse, de malt rôti et de pain grillé
@@ -40,9 +34,7 @@
   * Sticke Alt (LTM)
   * Altbier (Simple Malt)
 
-### Rye Beer
-
----
+## Rye Beer
 
 * Description
   * goût de seigle grillé, de caramel, de fumée et de poivre
@@ -54,9 +46,7 @@
   * La Vache Folle:RyePA (Charlevoix)
   * Faishion Victim (Les Grands Bois)
 
-### Yam Beer/Pumpkin Beer 🎃
-
----
+## Yam Beer/Pumpkin Beer 🎃
 
 * Description
   * goût de citrouille et d'épices d'automne (clou de girofle et cannelle principalement)
@@ -67,9 +57,7 @@
   * Toussaint (La Souche)
   * Ale-Ô-Ween (Treffle Noir)
 
-### Best Bitter 🇬🇧
-
----
+## Best Bitter 🇬🇧
 
 * Description
   * goût de caramel et de malt rôti
@@ -83,9 +71,7 @@
   * 5 (Harricana)
   * English Best Bitter (Mille Îles)  
 
-### Steinbier 🪨
-
----
+## Steinbier 🪨
 
 * Histoire
   * Des roches sont ajoutées pendant le mash (la cuisson des grains)
@@ -97,18 +83,14 @@
 * Quoi acheter ?
   * Voivoid Lost Machine (Hopfenstark)
 
-### Rauchbier 🚬
-
----
+## Rauchbier 💨
 
 * Description
   * goût de fumée, toffee et de caramel et érable cremeux
 * Quoi acheter ?
   * ce style est plutôt rare, demandez à votre détaillant voir ce qui est disponible
 
-### Sahti
-
----
+## Sahti
 
 * Description
   * goût de banane, de caramel, de malt rôti et d'alcool fort
@@ -116,13 +98,11 @@
 * Quoi acheter ?
   * Sahti (Oshlag)
 
-### Vienna Lager 🇦🇹
-
----
+## Vienna Lager 🇦🇹
 
 * Description
   * goûts de caramel, de malts fruités et céréaliers, de pain grillé et de biscuits sucrés
-  * crisp and clean
+  * [crisp and clean](/guide/decrire.md)
   * amertume élevée
 * Quoi acheter ?
   * n'importe laquelle de 5e Baron
@@ -131,9 +111,7 @@
   * Vienna Lager (Vrooden)
   * Drak (L 'Amère à Boire)
 
-### Adambier
-
----
+## Adambier
 
 * Description
   * goût de caramel, de fummée, de malts rôtis et d'alcool fort
@@ -142,12 +120,10 @@
 * Quoi acheter ?
   * Adambier (Vox Populi)
 
-### Märzen 🇩🇪
-
----
+## Märzen 🇩🇪
 
 * Description
-  * [crisp and clean]()
+  * [crisp and clean](/guide/decrire.md)
   * goût de caramel, de malts grillés, de pain et de biscuits
   * désaltérante et légère
   * amertume modérée
