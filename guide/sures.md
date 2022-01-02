@@ -1,4 +1,4 @@
-![Sûres](sures.png)
+![Sûres](/images/sures.png)
 
 # Bières fruitées et épicées
 
