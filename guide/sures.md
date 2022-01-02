@@ -63,7 +63,7 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
   * Silo F (Silo)
     * rares sont les bières à la goyave !
 
-### Petit mot sur les trois styles décrits ci-haut
+### ℹ️ Petit mot sur les trois styles décrits ci-haut
 
 Je trouve que les Fruit Beer et Berliner Weisse sont souvent mélangés. Je pense qu'une Berliner Weisse est plus acide, sûre et légère, tandis qu'un Fruit Beer a des goûts fruités pas mal plus prononcés et une texture un petit peu plus *crémeuse*. Pour la Smoothie Beer ce sont sa texture et son amertume absente qui la caractérisent.
 
