@@ -1,4 +1,4 @@
- ![Le Guide pour débutants sur la Microbrasserie Québécoise](assets/img/entete.png)
+ ![Le Guide pour débutants sur la Microbrasserie Québécoise](/assets/img/entete.png)
 
 # Le Guide pour débutants sur la Microbrasserie Québécoise
 
@@ -82,5 +82,5 @@ D'habitude vous conservez vos bières au frigo à la verticale. Idéalement vous
 
 ## Contact
 
-[![Facebook](/images/facebook.png)](https://www.facebook.com/pedro2163/)
-[![Untappd](/images/untappd.png)](https://untappd.com/user/Pedro2163)
+[![Facebook](/assets/img/facebook.png)](https://www.facebook.com/pedro2163/)
+[![Untappd](/assets/img/untappd.png)](https://untappd.com/user/Pedro2163)
