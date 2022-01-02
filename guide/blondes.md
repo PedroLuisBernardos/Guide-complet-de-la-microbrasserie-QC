@@ -71,20 +71,6 @@ Ce style est brassé comme une Ale
   * Monsieur Madame (Ras L'Bock)
   * Sentinelle (Dieu du Ciel)
 
-# AUSSI BRUNE
-### Cream Ale 
-
----
-
-* Description
-  * léger goût de céréales et de maïs
-  * peut avoir un goût de café, de malts grillés et de caramel
-  * légère, crémeuse et mouthfeel doux
-  * amertume faible
-* Quoi acheter ?
-  * Cream Ale Traditionnelle (La Knowlton Co.)
-  * Cream Ale Traditionnelle Café (La Knowlton Co.)
-
 ### Pilsner Allemande 🇩🇪
 
 ---
@@ -165,22 +151,6 @@ Ce style est brassé comme une Ale
   * Kellerbier (Vrooden)
   * Boisson d'Avril (Le Trou du Diable)
   * Kellerbier (LTM)
-
-# AUTRE
-### Hefeweizen 🇩🇪🍌
-
----
-
-* Description
-  * légers arômes de miel et d'agrumes
-  * saveurs d'oranges, de bananes et de zeste
-  * goûts de mangue et d'ananas très subtiles
-  * finale sucrée sur les bananes
-  * douce
-  * amertume modérée
-* Quoi acheter ?
-  * Citra-Weisse (Le Castor)
-  * n'importe laquelle dans une SAQ, par exemple Schöfferhofer Weizen (Radeberger Gruppe)
 
 ### Crédits
 
