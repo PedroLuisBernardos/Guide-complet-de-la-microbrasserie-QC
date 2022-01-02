@@ -8,7 +8,7 @@ Par expérience, les IPA des brasseries les plus *populaires* (Auval, Brewskey, 
 
 ### Houblons
 
-Je vous conseille de jeter un coup d'œil à la section sur les [houblons](..assets/img/houblons.png) pour aller un peu plus loin ! Vous allez vous rendre compte que les IPA d'une même catégorie goûtent pas mal toutes pareilles. Ce qui change principalement sont les houblons présents. Si jamais vous voulez vraiment découvrir les IPA il est primordial de comprendre les goûts des différents houblons.
+Je vous conseille de jeter un coup d'œil à la section sur les [houblons](../assets/img/houblons.png) pour aller un peu plus loin ! Vous allez vous rendre compte que les IPA d'une même catégorie goûtent pas mal toutes pareilles. Ce qui change principalement sont les houblons présents. Si jamais vous voulez vraiment découvrir les IPA il est primordial de comprendre les goûts des différents houblons.
 
 ## IPAs fruitées et peu amères 🌴🍍🍋🥭
 
@@ -118,8 +118,7 @@ Mélange entre les blanches belges et les IPA Américaines.
 ## IPA Brut
 
 * Histoire
-  * https://untp.beer/vmMQ8
-  * https://untp.beer/bc0e055632
+  * Une bière `brut` est une bière sèche qui ne contient presque aucun sucre résiduel après la fermentation. Les bières sont normalement peu maltées et peu amères. Elles sont très aromatiques et gazéifiées.
 * Description
   * goût d'houblons rappelant les fruits tropicaux et les agrumes
   * arômes herbacés et tropicaux
@@ -185,3 +184,8 @@ Mélange entre les blanches belges et les IPA Américaines.
 * Quoi acheter ?
   * Fashion Victim (Les Grands Bois)
   * Conquereor (Pit Caribou)
+
+### Crédits
+
+* [Untappd](https://untp.beer/vmMQ8)
+* [Untappd](https://untp.beer/bc0e055632)
