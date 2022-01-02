@@ -1,4 +1,4 @@
- ![Houblons](../images/houblons.png)
+ ![Houblons](/assets/img/houblons.png)
 
 # Houblons
 
