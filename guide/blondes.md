@@ -26,8 +26,6 @@ Crisp veut dire `hautement gazéifié`. Ces bières laissent une sensation rafra
 
 ## Pilsner Czech 🇨🇿
 
----
-
 * Description
   * le malt Pilsner offre un goût de céréales et de pain
   * le Saaz (houblon) offre une finale herbacée et délicatement citronnée
@@ -52,8 +50,6 @@ Crisp veut dire `hautement gazéifié`. Ces bières laissent une sensation rafra
 
 ### Kölsch 🇩🇪
 
----
-
 Ce style est brassé comme une Ale
 
 * Description
@@ -73,8 +69,6 @@ Ce style est brassé comme une Ale
 
 ### Pilsner Allemande 🇩🇪
 
----
-
 * Description
   * goût de céréales et de paille
   * levure florale et fruitée
@@ -88,20 +82,19 @@ Ce style est brassé comme une Ale
 
 ### Euro Pale Lager
 
----
-
-* Histoire
-  * 
 * Description
-  * 
-  * 
-  * amertume 
+  * goût assez sucré, malté et céréalier
+  * notes fruitées et florales
+  * amertume légère
 * Quoi acheter ?
-  * 
+  * Lagerbier (Lagerbräu - Bières Adéquates)
+  * Parallaxe (11 Compté$)
+  * De Houblon et Eau Fraîche (11 Comptés)
+  * Plus d'Houblon et Eau Fraîche (11 Comptés)
+  * Fripouille (Archibald)
+  * Heinenken
 
 ### Helles 🇩🇪
-
----
 
 * Description
   * léger goût de céréales et de pain
@@ -119,8 +112,6 @@ Ce style est brassé comme une Ale
 
 ### Maibock/Helles Bock 🇩🇪
 
----
-
 * Histoire
   * Lager blonde forte en alcool inspirée des bières historiquement brassées en Bavière pour célébrer l'arrivée du printemps
 * Description
@@ -131,8 +122,6 @@ Ce style est brassé comme une Ale
   * Maibock (LTM)
 
 ### Kellerbier/Zwickelbier 🇩🇪
-
----
 
 * Histoire
   * Les Kellerbier (bière de cellier) étaient à l'origine gardées dans de grandes cuves de bois. Elles sont des bières relativement jeunes et non-filtrées.
