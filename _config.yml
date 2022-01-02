@@ -3,7 +3,7 @@ description: Guide explicatif sur les styles de bière, les produits québécois
 google_analytics:
 defaults:
   - scope:
-      path: "images"
+      path: "assets/img"
     values:
       image: true
 theme: jekyll-theme-minimal

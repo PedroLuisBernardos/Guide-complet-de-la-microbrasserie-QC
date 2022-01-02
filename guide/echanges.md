@@ -1,4 +1,4 @@
-![Produits rares et échanges](../images/echanges.png)
+![Produits rares et échanges](assets/img/echanges.png)
 
 # Produits rares et échanges
 

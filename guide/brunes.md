@@ -1,4 +1,4 @@
-![Brunes](../images/brunes.png)
+![Brunes](/img/brunes.png)
 
 # Bières brunes
 

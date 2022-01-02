@@ -1,4 +1,4 @@
-![Blondes](../images/blondes.png)
+![Blondes](blondes.png)
 
 # Bières blondes
 
