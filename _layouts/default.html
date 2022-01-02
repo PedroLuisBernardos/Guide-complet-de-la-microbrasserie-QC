@@ -23,6 +23,40 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <p>Table de matières
+            <ol>
+                <li><a href="/guide/decrire.md">Comment décrire une bière - Explication des mots</a></li>
+                <li>Guide des styles par couleur, avec exemples et fiche descriptive
+                    <ul>
+                        <li><a href="/guide/blondes.md">Blondes</a></li>
+                        <li><a href="/guide/rousses.md">Rousses</a></li>
+                        <li><a href="/guide/brunes.md">Brunes</a></li>
+                        <li><a href="/guide/IPAs.md">IPAs</a></li>
+                        <li><a href="/guide/noires.md">Noires</a></li>
+                        <li><a href="/guide/sures.md">Fruitées et épicées</a></li>
+                        <li><a href="/guide/autres.md">Autres</a></li>
+                    </ul>
+                </li>
+                <li><a href="/guide/houblons.md">Houblons</a></li>
+                <li><a href="/guide/packs.md">Packs pré-faits pour découvrir la bière</a>
+                    <ul>
+                        <li>L&#39;essentiel</li>
+                        <li>Pour aller plus loin</li>
+                    </ul>
+                </li>
+                <li><a href="/guide/verres.md">Quel verre choisir ?</a></li>
+                <li><a href="/guide/echanges.md">Produits rares et échanges</a>
+                    <ul>
+                        <li>Brasseries rares</li>
+                        <li>Produits rares</li>
+                        <li>Où les échanger ?</li>
+                        <li>Valeur secondaire des bières</li>
+                    </ul>
+                </li>
+                <li><a href="/guide/brassage.md">Brassage amateur À VENIR</a></li>
+            </ol>
+        </p>
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">Voir ce projet sur GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
