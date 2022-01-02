@@ -240,3 +240,4 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * amertume modérée
 * Quoi acheter ?
   * Kriek Porter (Pit Caribou)
+  * Stout Framboise (Le Naufrageur)
