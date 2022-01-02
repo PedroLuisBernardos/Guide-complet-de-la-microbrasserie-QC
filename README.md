@@ -33,7 +33,7 @@ En guise d'information, l'ordre dans les descriptions de saveurs est plus au moi
    * [Brunes](/guide/brunes.md)
    * [IPAs](/guide/IPAs.md)
    * [Noires](/guide/noires.md)
-   * [Sûres](/guide/sures.md)
+   * [Fruitées et épicées](/guide/sures.md)
    * [Autres](/guide/autres.md)
 1. [Houblons](/guide/houblons.md)
 1. [Packs pré-faits pour découvrir la bière](/guide/packs.md)
