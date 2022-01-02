@@ -1,6 +1,6 @@
 ![Sûres](sures.png)
 
-# Bières sûres et fruitées
+# Bières fruitées et épicées
 
 ### Des bieres difficiles à trouver
 
@@ -14,9 +14,7 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
   * Une brasserie ontarienne qui se spécialise dans des bières **très acides**. Leurs produits sont extraordinaires si vous pouvez supporter l'acidité !
 * etc.
 
-### Smoothie Beer 🥤
-
----
+## Smoothie Beer 🥤
 
 * Description
   * immense goût des fruits qui la composent
@@ -29,9 +27,7 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
   * n'importe laquelle de Les Insulaires
   * d'autres brasseries font des Smoothie Beer, demandez à vos détaillants ils ont quoi en stock !
 
-### Fruit Beer
-
----
+## Fruit Beer
 
 * Description
   * goût des fruits qui la composent
@@ -50,10 +46,7 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
   * Sûre aux Framboises (Shelton)
   * etc.
 
-
-### Berliner Weisse
-
----
+## Berliner Weisse
 
 * Description
   * subtile goût de fruits qui la composent
@@ -76,9 +69,7 @@ Je trouve que les Fruit Beer et Berliner Weisse sont souvent mélangés. Je pens
 
 Il y a énormément de différences entre les bières sûres: leur texture, leur goût, les ingrédients utilisés, leur acidité, l'utilisation du bois ou non... Je ne peux pas toutes les aborder ! Voici d'autres styles aussi sûrs ou fruités:
 
-### Saison Brett 🪵
-
----
+## Saison Brett 🪵
 
 * Description
   * goût de griottes et de canneberges
@@ -87,9 +78,8 @@ Il y a énormément de différences entre les bières sûres: leur texture, leur
 * Quoi acheter ?
   * Saison Brett (LTM)
 
-### Gueuze 🍏
+## Gueuze 🍏
 
----
 
 * Description
   * goût de pomme verte sûre et de citron
@@ -100,9 +90,7 @@ Il y a énormément de différences entre les bières sûres: leur texture, leur
   * n'importe laquelle de Cantillon
     * il y a des bouteilles de 375mL à 18$ et des 750mL à 56$, je vous conseille d'essayer d'autres Gueuzes avant de boire celles-ci ! Celle de LTM est très bien faite par exemple !
 
-### Flander's Red Ale 🍷
-
----
+## Flander's Red Ale 🍷
 
 Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 
@@ -116,9 +104,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * Rouge de Mékinac (À la Fût)
     * si vous aimez celle-ci, vous allez sûrement aimer les multiples dérivées que la brasserie à faite de cette bière !
 
-### Gose 🧂
-
----
+## Gose 🧂
 
 * Description
   * goût de sel, de coriandre, de citron et de lime
@@ -131,9 +117,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * La Calaca (Noctem)
   * etc.
 
-### Lambic Kriek 🍒
-
----
+## Lambic Kriek 🍒
 
 * Description
   * goût de cérises
@@ -141,9 +125,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 * Quoi acheter ?
   * Oude Kriek (3 Fonteinen)
 
-### Lambic Framboise
-
----
+## Lambic Framboise
 
 * Description
   * goût de framboises
@@ -153,9 +135,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * Framboise (Lindemans)
     * SAQ
 
-### American Wild Ale
-
----
+## American Wild Ale
 
 * Description
   * goût fruité
@@ -170,9 +150,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * n'importe laquelle de Le Castor
   * n'importe laquelle de la série **7205.** de Harricana
 
-### Farmhouse Ale Saison
-
----
+## Farmhouse Ale Saison
 
 * Description
   * arômes de fruits, herbacés, de minéraux et d'agrumes
@@ -182,3 +160,63 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
     * the best of the best 🏆
   * Saison Macérée (Le Castor)
   * Saison Cerise (Robin)
+
+## Witbier/Blanche 🍊
+
+* Description
+  * goût de pelure d'orange et de graines de coriandre
+  * bière fruitée et épicée
+  * faibles arômes de banane
+* Quoi acheter ?
+  * Hoegaarden (Hoegarden)
+  * Blanche de Chambly (Unibroue)
+  * La 475 Blanche de Pattro (Pit Caribou)
+
+## Grisette 🍋⛏️🌿
+
+* Description
+  * goûts subtiles d'agrumes: citron et orange
+  * notes florales, épicées, minérales et herbacées
+  * sèche et légère
+* Quoi acheter ?
+  * n'importe laquelle de Auval
+  * n'importe laquelle de Robin
+  * n'importe laquelle de Dunham
+  * n'importe laquelle d'Isle de Garde
+
+## Gruit/Ancient Herbed Beer
+
+* Description
+  * goût de citron, de gingembre, de pomme verte sûre et de cannelle
+  * notes herbacées et épicées: anis étoilé et romarin
+* Quoi acheter ?
+  * Bière de Gazebo (L'Espace Public)
+
+## Spiced Beer
+
+* Description
+  * goût d'épices: cannelle, poivre et romarin
+  * notes florales et fruitées
+* Quoi acheter ?
+  * Belle Saison (À l'abri de la tempête)
+  * Sang de Lutin (Brouhaha)
+  * il doit avoir d'autres bières chez les très grands détaillants
+
+## Winter Warmer 🎄
+
+* Description
+  * goût de fruits confits, de sapin, de pain d'épices, de vanille, de cannelle et d'alcool fort
+  * bière forte et intense
+* Quoi acheter ?
+  * Réserve de Noël (LTM)
+
+## Bière de Table
+
+* Description
+  * goût de sarazin et de bois
+  * bière légère
+* Quoi acheter ?
+  * n'importe quoi de Robin
+  * n'importe quoi de Auval
+  * n'importe quoi de Dunham
+  * Saison de Table (LTM)
