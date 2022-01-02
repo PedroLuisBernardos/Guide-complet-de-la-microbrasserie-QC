@@ -83,5 +83,5 @@ D'habitude vous conservez vos bières au frigo à la verticale. Idéalement vous
 
 ## Contact
 
-[![Facebook](facebook.png)](https://www.facebook.com/pedro2163/)
-[![Untappd](untappd.png)](https://untappd.com/user/Pedro2163)
+[![Facebook](/images/facebook.png)](https://www.facebook.com/pedro2163/)
+[![Untappd](/images/untappd.png)](https://untappd.com/user/Pedro2163)
