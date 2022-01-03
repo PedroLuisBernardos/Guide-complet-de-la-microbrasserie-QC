@@ -43,6 +43,6 @@ Si vous voulez avoir pas mal tous les verres [basez-vous sur ce guide-ci](https:
 
 **Extra**
 
-Le verre *Thistle* s'utilise pour des styles très spécifiques. Vous pouvez vous le procurer si vous y tenez mais ce n'est pas néssecaire selon moi.
+Le verre *Thistle* s'utilise pour des styles très spécifiques. Vous pouvez vous le procurer si vous y tenez, mais ce n'est pas nécessaire selon moi.
 
 ![Thistle](../assets/img/thistle.png)

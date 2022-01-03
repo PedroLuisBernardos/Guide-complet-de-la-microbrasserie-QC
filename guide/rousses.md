@@ -77,7 +77,7 @@
   * Des roches sont ajoutées pendant le mash (la cuisson des grains)
 * Description
   * goût de caramel et de malt grillés
-  * goût d'houblons fruités
+  * goût de houblons fruités
   * notes de feuilles de thé
   * amertume modérée à élévée
 * Quoi acheter ?
@@ -86,7 +86,7 @@
 ## Rauchbier 💨
 
 * Description
-  * goût de fumée, toffee et de caramel et érable cremeux
+  * goût de fumée, toffee et de caramel et érable crémeux
 * Quoi acheter ?
   * ce style est plutôt rare, demandez à votre détaillant voir ce qui est disponible
 
@@ -114,7 +114,7 @@
 ## Adambier
 
 * Description
-  * goût de caramel, de fummée, de malts rôtis et d'alcool fort
+  * goût de caramel, de fumée, de malts rôtis et d'alcool fort
   * boisée et tourbée
   * amertume élévée
 * Quoi acheter ?

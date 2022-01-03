@@ -2,20 +2,20 @@
 
 # Bières blondes
 
-### Des bieres difficiles à trouver
+### Des bières difficiles à trouver
 
-Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne vendent que sur place ou parce que les produits sont plutôt rares. Voici une liste d'excellentes brasseries qui font des blondes mais qui sont difficiles à trouver:
+Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne vendent que sur place ou parce que les produits sont plutôt rares. Voici une liste d'excellentes brasseries qui font des blondes, mais qui sont difficiles à trouver:
 
 * Auval
   * C'est la meilleure brasserie du Québec ! Tous leurs produits sont exceptionnels ! Leurs blondes sont très bonnes, mais la brasserie ne se démarque pas pour ça
 * Messorem Bracirotum
-  * Extraordinaire brasserie à Verdun ! Vente uniquement sur place. Ils font rarement des blondes mais à chaque fois c'est une réussite !
+  * Extraordinaire brasserie à Verdun ! Vente uniquement sur place. Ils font rarement des blondes, mais à chaque fois c'est une réussite !
 * Isle de Garde
   * Cette brasserie se spécialise en blondes (et le font TRÈS bien). Vente uniquement sur place à Montréal
 * 5e Baron
   * La plus facile à trouver dans cette liste et tout aussi bonne !
 * Sir John
-  * Ils font très rarement des blondes mais c'est toujours extraordinaire quand ils les font !
+  * Ils font très rarement des blondes, mais c'est toujours extraordinaire quand ils les font !
 * etc.
 
 ### Crisp and Clean 🏖️☀️
@@ -88,7 +88,7 @@ Ce style est brassé comme une Ale
   * amertume légère
 * Quoi acheter ?
   * Lagerbier (Lagerbräu - Bières Adéquates)
-  * Parallaxe (11 Compté$)
+  * Parallaxe (11 Comptés)
   * De Houblon et Eau Fraîche (11 Comptés)
   * Plus d'Houblon et Eau Fraîche (11 Comptés)
   * Fripouille (Archibald)
@@ -98,7 +98,7 @@ Ce style est brassé comme une Ale
 
 * Description
   * léger goût de céréales et de pain
-  * subtil arôme d'houblon herbacé
+  * subtil arôme de houblon herbacé
   * finale un peu sucrée
   * désaltérante, rafraîchissante et légère
   * amertume douce à modérée
@@ -124,7 +124,7 @@ Ce style est brassé comme une Ale
 ## Kellerbier/Zwickelbier 🇩🇪
 
 * Histoire
-  * Les Kellerbier (bière de cellier) étaient à l'origine gardées dans de grandes cuves de bois. Elles sont des bières relativement jeunes et non-filtrées.
+  * Les Kellerbiers (bière de cellier) étaient à l'origine gardées dans de grandes cuves de bois. Elles sont des bières relativement jeunes et non filtrées.
 * Description
   * le malt Pilsner offre un goût de céréales et de pain
   * le Saaz (houblon) offre une finale légèrement herbacée et fruitée
@@ -155,7 +155,7 @@ Ce style est brassé comme une Ale
   * Triple Belge aux Poires (Mille Îles)
     * un gros goût de poires est présent
   * Anna (Vox Populi)
-    * un gros goût d'houblons est présent
+    * un gros goût de houblons est présent
 
 ## Belgian Golden Ale/Blonde belge 🇧🇪
 ## Belgian Strong Golden Ale 🇧🇪
@@ -165,7 +165,7 @@ Si la bière est *strong*, c'est le goût intense et le taux d'alcool qui change
 * Description
   * goût de levures belges
   * arômes de poire et de bananes
-  * bière intense mais douce
+  * bière intense, mais douce
 * Quoi acheter ?
   * Flacatoune (Charlevoix)
   * Delerium Tremens (Huyghe)
@@ -189,7 +189,7 @@ Peut aussi être [brune](brunes.md)
 * Description
   * légers arômes de miel et d'agrumes
   * saveurs d'oranges, de bananes et de zeste
-  * goûts de mangue et d'ananas très subtiles
+  * goûts de mangue et d'ananas très subtils
   * finale sucrée sur les bananes
   * douce
   * amertume modérée

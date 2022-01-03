@@ -2,9 +2,9 @@
 
 # Produits rares et échanges
 
-Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey et du Messorem se vendent uniquement à Montréal, Bas-Canada se vend à Gatineau et desfois dans d'autres région, etc.
+Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certaines régions. Par exemple, du Brewskey et du Messorem se vendent uniquement à Montréal, Bas-Canada se vend à Gatineau et des fois dans d'autres régions, etc.
 
-Moi j'habite à Montréal et j'ai pas d'auto haha donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
+Moi j'habite à Montréal et je n’ai pas d'auto haha donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
 
 Je vous conseille aussi de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés ! Le groupe [Actualités du milieu brassicole Qc](www.facebook.com/groups/258612807916349) a beaucoup d'info ! Vous allez être à jour et saurez quelles nouvelles bières seront en magasin bientôt !
 
@@ -16,9 +16,9 @@ Il y a d'autres places où trouver des bières importées (sachez que ça coûte
 
 ## Quels styles sont rares ? Quelles brasseries sont rares/échangeables ?
 
-En général un produit est échangeable s'il est limité et si la brasserie est populaire/reputée. Il y a des brasseries qui ne livrent pas leurs produits aux détaillants (donc vente sur place), ces produits sont aussi rares si la brasserie est *hype*.
+En général, un produit est échangeable s'il est limité et si la brasserie est populaire/reputée. Il y a des brasseries qui ne livrent pas leurs produits aux détaillants (donc vente sur place), ces produits sont aussi rares si la brasserie est *hype*.
 
-### Voici une liste de brasseries québecoises qui s'échangent très bien:
+### Voici une liste de brasseries québécoises qui s'échangent très bien:
 
 * Auval (la brasserie la plus cherchée du Québec)
 * Brett & Sauvage
@@ -33,13 +33,13 @@ En général un produit est échangeable s'il est limité et si la brasserie est
 
 ### Il y a aussi des brasseries canadiennes qui s'échangent très bien:
 
-* Small Pony Barrel Works (desfois ça se vend à la SAQ)
+* Small Pony Barrel Works (des fois ça se vend à la SAQ)
 * Wood Brothers
-* Bellwoods (desfois ça se vend à la SAQ)
+* Bellwoods (des fois ça se vend à la SAQ)
 * Half Ours on Earth
 * etc.
 
-### Des brasseries internationnales s'échangent très bien aussi:
+### Des brasseries internationales s'échangent très bien aussi:
 
 Ces produits se vendent principalement à la SAQ ou **très rarement** chez des détaillants. Par exemple, j'ai déjà vu du Goose Island au Peluso Rachel.
 

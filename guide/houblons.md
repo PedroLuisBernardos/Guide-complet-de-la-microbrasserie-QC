@@ -2,9 +2,9 @@
 
 # Houblons
 
-Les houblons sont l'un des ingrédients de la bière. Les [IPAs](IPAs.md) sont des bières massivement houblonnée, donc connaître bien cet ingrédient est nécessaire pour mieux apprécier le style !
+Les houblons sont l'un des ingrédients de la bière. Les [IPAs](IPAs.md) sont des bières massivement houblonnées, donc connaître bien cet ingrédient est nécessaire pour mieux apprécier le style !
 
-Selon l'houblon utilisé la bière n'aura pas le même goût. Certains houblons apportent des goûts d'agrumes tandis que d'autres rappellent des goûts floraux par exemple. Si vous aimez les IPAs, je vous recommanderai d'en apprendre davantage sur les houblons pour mieux apprécier vos dégustations !
+Selon le houblon utilisé, la bière n'aura pas le même goût. Certains houblons apportent des goûts d'agrumes tandis que d'autres rappellent des goûts floraux par exemple. Si vous aimez les IPAs, je vous recommanderai d'en apprendre davantage sur les houblons pour mieux apprécier vos dégustations !
 
 Je vous laisse une image ici qui résume bien les profils de saveur des houblons les plus utilisés.
 

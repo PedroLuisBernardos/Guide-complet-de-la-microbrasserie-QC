@@ -67,7 +67,7 @@ Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgia
 
 * Description
   * goût de malt rôti, de caramel et d'alcool fort
-  * bière riche au goûts de levures belges bien prononcés
+  * bière riche aux goûts de levures belges bien prononcés
   * finale dark
   * amertume élévée
 * Quoi acheter ?
@@ -90,7 +90,7 @@ Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgia
 ## Smoked Beer 💨
 
 * Description
-  * goût de malt grillé, de fumee, de cassonade et de caramel
+  * goût de malt grillé, de fumée, de cassonade et de caramel
   * les levures belges se goûtent très bien
   * arômes herbacés
   * amertume ___

@@ -2,14 +2,14 @@
 
 # Bières fruitées et épicées
 
-### Des bieres difficiles à trouver
+### Des bières difficiles à trouver
 
-Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne vendent que sur place ou parce que les produits sont plutôt rares. Voici une liste d'excellentes brasseries qui font des blondes mais qui sont difficiles à trouver:
+Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne vendent que sur place ou parce que les produits sont plutôt rares. Voici une liste d'excellentes brasseries qui font des blondes, mais qui sont difficiles à trouver:
 
 * Auval
   * C'est la meilleure brasserie du Québec ! Tous leurs produits sont exceptionnels et leur Espinnay est très très populaire dans les [échanges](echanges.md).
 * 3 Fonteinen, Tilquin et Cantillon
-  * D'excellentes brasseries européenes qui ont desfois des produits à la SAQ ou chez des gros détaillants. Ces produits sont si rares qu'il y a des concours pour gagner la chance de les acheter !
+  * D'excellentes brasseries européennes qui ont des fois des produits à la SAQ ou chez de gros détaillants. Ces produits sont si rares qu'il y a des concours pour gagner la chance de les acheter !
 * Small Pony Barrel Works
   * Une brasserie ontarienne qui se spécialise dans des bières **très acides**. Leurs produits sont extraordinaires si vous pouvez supporter l'acidité !
 * etc.
@@ -49,7 +49,7 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
 ## Berliner Weisse
 
 * Description
-  * subtile goût de fruits qui la composent
+  * subtil goût de fruits qui la composent
   * sûre et acidulée
   * légère et rafraîchissante
   * amertume très faible
@@ -102,7 +102,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * Cuvée des Jacobins Rouge (Omer Vander Ghinste)
     * SAQ
   * Rouge de Mékinac (À la Fût)
-    * si vous aimez celle-ci, vous allez sûrement aimer les multiples dérivées que la brasserie à faite de cette bière !
+    * si vous aimez celle-ci, vous allez sûrement aimer les multiples dérivées que la brasserie a faites de cette bière !
 
 ## Gose 🧂
 
@@ -120,7 +120,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 ## Lambic Kriek 🍒
 
 * Description
-  * goût de cérises
+  * goût de cerises
   * acide et sèche
 * Quoi acheter ?
   * Oude Kriek (3 Fonteinen)
@@ -130,7 +130,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 * Description
   * goût de framboises
   * acide et sèche
-  * la bière proposée est très sucrée, mais c'est la plus accéssible au Québec
+  * la bière proposée est très sucrée, mais c'est la plus accessible au Québec
 * Quoi acheter ?
   * Framboise (Lindemans)
     * SAQ
@@ -140,11 +140,11 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 * Description
   * goût fruité
   * acide, légère et sèche
-  * si la bière est jeune elle goûtera plus le houblon, plus elle vieillit, plus elle gûtera boisé
+  * si la bière est jeune elle goûtera plus le houblon, plus elle vieillit, plus elle goûtera boisé
 * Quoi acheter ?
   * L'Exorciste (Dieu du Ciel)
   * n'importe laquelle de Small Pony Barrel Works
-    * desfois vendues à la SAQ
+    * des fois vendues à la SAQ
   * Assemblage Numéro 6 (Dunham)
   * n'importe laquelle de Messorem
   * n'importe laquelle de Le Castor
@@ -175,7 +175,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 ## Grisette 🍋⛏️🌿
 
 * Description
-  * goûts subtiles d'agrumes: citron et orange
+  * goûts subtils d'agrumes: citron et orange
   * notes florales, épicées, minérales et herbacées
   * sèche et légère
 * Quoi acheter ?
@@ -198,7 +198,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * goût d'épices: cannelle, poivre et romarin
   * notes florales et fruitées
 * Quoi acheter ?
-  * Belle Saison (À l'abri de la tempête)
+  * Belle Saison (À l'Abri de la tempête)
   * Sang de Lutin (Brouhaha)
   * il doit avoir d'autres bières chez les très grands détaillants
 
@@ -213,7 +213,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 ## Bière de Table
 
 * Description
-  * goût de sarazin et de bois
+  * goût de sarrasin et de bois
   * bière légère
 * Quoi acheter ?
   * n'importe quoi de Robin
@@ -235,7 +235,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 ## Stout/Porter sûre/fruitée 🍒
 
 * Description
-  * goût de chocolat, de gâteau forêt noire et de cerise noire
+  * goût de chocolat, de gâteau forêt-noire et de cerise noire
   * légèrement acidulée
   * amertume modérée
 * Quoi acheter ?
