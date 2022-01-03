@@ -56,18 +56,18 @@ N'oubliez pas de décrire aussi l'**amertume**: légère, modérée, forte, tran
 
 Une bière peut être amère, sucrée, épicée, fruitée, houblonnée, crisp, légère, boisée, toffee, acide, sûre, tart, brett, dark, etc. Je vais définir quelques mots moins clairs:
 
-**Crisp and Clean**: se dit d'une bière rafraîchissante et légère très gazéifiée qui laisse une finale *clean* en bouche. Aussi nommées *Summer Beers* ☀️
-**Toffee**: goûte comme le caramel, la mélasse et un peu le beurre
-**Tart**: tart veut dire sûre mais pour les saveurs sucrées. Par exemple un dessert sucré au citron est tart
-**Brett**: au long Brettanomyces, est une levure sauvage qui apporte des saveurs particulières à la bière telles que le cuir,le musc, l'écurie, les fruits tropicaux et la fumée
-**Dark**: goûte comme le malt brulé, le chocolat noir amer, le café
-**Sèche (dry)**: qui ne goûte pas du tout le sucre et qui ne laisse pas de goût en bouche après la gorgée
-**Levures belges**: goût particulier rappellant le sucre et la banane (les bières d'Unibroue rappellent ce goût normalement)
-**Corps plein (full)**: la saveur est légère et pas trop complexe, il n'y a oas beaucoup de goûts différents
-**Corps léger (light)**: les saveurs sont complexes et il y a plus qu'une saveur dominante
-**Floral**: goûte comme un bouquet de fleurs, un jardin et du gazon
-**Piney**: goûte le sapin et la sève
-**Barriquée**: veut dire que la bière a été fermentée dans un fût de quelque chose. En gros, la bière goûtera boisée
+* **Crisp and Clean**: se dit d'une bière rafraîchissante et légère très gazéifiée qui laisse une finale *clean* en bouche. Aussi nommées *Summer Beers* ☀️
+* **Toffee**: goûte comme le caramel, la mélasse et un peu le beurre
+* **Tart**: tart veut dire sûre mais pour les saveurs sucrées. Par exemple un dessert sucré au citron est tart
+* **Brett**: au long Brettanomyces, est une levure sauvage qui apporte des saveurs particulières à la bière telles que le cuir,le musc, l'écurie, les fruits tropicaux et la fumée
+* **Dark**: goûte comme le malt brulé, le chocolat noir amer, le café
+* **Sèche (dry)**: qui ne goûte pas du tout le sucre et qui ne laisse pas de goût en bouche après la gorgée
+* **Levures belges**: goût particulier rappellant le sucre et la banane (les bières d'Unibroue rappellent ce goût normalement)
+* **Corps plein (full)**: la saveur est légère et pas trop complexe, il n'y a oas beaucoup de goûts différents
+* **Corps léger (light)**: les saveurs sont complexes et il y a plus qu'une saveur dominante
+* **Floral**: goûte comme un bouquet de fleurs, un jardin et du gazon
+* **Piney**: goûte le sapin et la sève
+* **Barriquée**: veut dire que la bière a été fermentée dans un fût de quelque chose. En gros, la bière goûtera boisée
 
 ### Crédits:
 
