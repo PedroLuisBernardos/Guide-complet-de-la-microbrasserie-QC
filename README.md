@@ -1,8 +1,4 @@
-<img src="/assets/img/entete.png" alt="Le Guide pour débutants sur la Microbrasserie Québécoise" width="200"/>
-<img src="assets/img/entete.png" alt="Le Guide pour débutants sur la Microbrasserie Québécoise" width="200"/>
-<img src="/img/entete.png" alt="Le Guide pour débutants sur la Microbrasserie Québécoise" width="200"/>
-<img src="img/entete.png" alt="Le Guide pour débutants sur la Microbrasserie Québécoise" width="200"/>
-<img src="entete.png" alt="Le Guide pour débutants sur la Microbrasserie Québécoise" width="200"/>
+<img src="assets/img/entete.png" alt="Le Guide pour débutants sur la Microbrasserie Québécoise" width="100%"/>
 
 
 # Le Guide pour débutants sur la Microbrasserie Québécoise
