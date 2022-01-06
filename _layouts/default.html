@@ -32,6 +32,14 @@
               <a class="nav-link" href="{{ url_for('main.doc') }}">Documentation REST
               </a>
             </li>
+            <li class="nav-item dropdown {% if request.url_rule.endpoint == 'user.user' %}active{% endif %}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ _('Mon profil') }}</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="{{ url_for('user.user', username=current_user.username) }}">{{ _('Mon profil') }}</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="{{ url_for('auth.logout') }}">{{ _('Se déconnecter') }}</a>
+              </div>
+            </li>
           </ul>
         </div>
       </nav>
@@ -42,26 +50,18 @@
     
       <footer class="text-center text-lg-start bg-light text-muted">
         <!-- Copyright -->
-        <p class="view">
-          <a href="{{ "/" | absolute_url }}">retourner à la page d'accueil
-          </a>
-        </p>
-        {% if site.github.is_project_page %}
-        <p>L'auteur de ce projet est 
-          <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}
-          </a>
-        </p>
-        {% endif %}
-        <p>
-          <small>Hébergé sur GitHub Pages &mdash; Thème par 
-            <a href="https://github.com/orderedlist">orderedlist
-            </a>
-          </small>
-        </p>
         <div class="p-4 text-center">
-          © INF5190 Hiver 2021 Copyright:
-          <a class="text-reset fw-bold" href="https://www.linkedin.com/in/pedro-luis-bernardos/" target="_blank">Pedro Luis Bernardos
-          </a>
+          © Copyright:
+          <p class="view">
+            <a href="{{ "/" | absolute_url }}">retourner à la page d'accueil
+            </a>
+          </p>
+          <a class="text-reset fw-bold" href="{{ site.github.owner_url }}" target="_blank">Pedro Luis Bernardos</a>
+          <p>
+            <small>Hébergé sur GitHub Pages &mdash; Thème par 
+              <a href="https://github.com/orderedlist">orderedlist</a>
+            </small>
+          </p>
         </div>
       </footer>
     </div>

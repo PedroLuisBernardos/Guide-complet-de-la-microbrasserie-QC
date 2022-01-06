@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-#error {
-    color: red;
-}
-
 #page {
     display: block;
 }
@@ -43,11 +39,3 @@ footer {
     position:absolute;
     right:0px;
   }
-
-.image_update:hover {
-    background: rgba(0, 128, 0, 0.226);
-}
-
-.image_delete:hover {
-    background: rgba(255, 0, 0, 0.233);
-}
