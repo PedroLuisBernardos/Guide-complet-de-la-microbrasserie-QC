@@ -1,4 +1,4 @@
-![Blondes](../assets/img/blondes.png)
+<img src="assets/img/blondes.png" alt="Blondes" width="100%"/>
 
 # Bières blondes
 

@@ -1,4 +1,4 @@
-![IPA](../assets/img/ipa.png)
+<img src="assets/img/ipa.png" alt="IPA" width="100%"/>
 
 # IPAs
 

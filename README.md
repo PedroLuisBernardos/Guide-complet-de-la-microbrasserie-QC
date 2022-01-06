@@ -1,6 +1,5 @@
 <img src="assets/img/entete.png" alt="Le Guide pour débutants sur la Microbrasserie Québécoise" width="100%"/>
 
-
 # Le Guide pour débutants sur la Microbrasserie Québécoise
 
 ## Présentation

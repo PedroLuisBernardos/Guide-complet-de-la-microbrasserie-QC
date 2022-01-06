@@ -1,4 +1,4 @@
-![Rousses](../assets/img/rousses.png)
+<img src="assets/img/rousses.png" alt="Rousses" width="100%"/>
 
 # Bières rousses
 

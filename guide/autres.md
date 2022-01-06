@@ -1,4 +1,4 @@
-![Autres](../assets/img/autres.png)
+<img src="assets/img/autres.png" alt="Autres styles" width="100%"/>
 
 D'autres styles ne seront pas abordés, mais vous pouvez les rechercher par vous-même.
 

@@ -1,4 +1,4 @@
- ![Brassage amateur](../assets/img/brassage.png)
+<img src="assets/img/brassage.png" alt="Brassage" width="100%"/>
 
 ## À VENIR
 
