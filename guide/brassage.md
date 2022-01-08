@@ -1,12 +1,6 @@
 <img src="../assets/img/brassage.png" alt="Brassage" width="100%"/>
 
-# Brassage amateur (petit budget)
-
-## Table de matières
-
-1. [Matériel](#Matériel)
-1. [Théorie et pratique](#Théorie-et-pratique)
-1. [Sources d'information](#Sources-d'information)
+# Brassage amateur
 
 ## Matériel
 
