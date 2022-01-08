@@ -19,15 +19,17 @@
       <!-- Barre de navigation -->
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
           <a class="navbar-brand" href="{{ "/" | absolute_url }}">
-            <img src="LOGO" width="30" height="30" class="d-inline-block align-top" alt="Logo">{{ site.title | default: site.github.repository_name }}
+            <img src="LOGO" width="30" height="30" class="d-inline-block align-top" alt="Logo">Accueil
           </a>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
-              <li class="nav-item active">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-              </li>
               <li class="nav-item">
                 <a class="nav-link" href="/guide/decrire.md">Décrire</a>
+                {{ site }}
+                {{ site.url }}
+                {{ site.relative_url }}
+                {{site.owner_url }}
+                {{ site.absolute_url }}
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Couleurs</a>
