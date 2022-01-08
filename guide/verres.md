@@ -41,7 +41,7 @@ Si vous voulez avoir pas mal tous les verres [basez-vous sur ce guide-ci](https:
 
 *note4: normalement les Kölsh se boivent dans des Stange de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
 
-**Extra**
+### Extra
 
 Le verre *Thistle* s'utilise pour des styles très spécifiques. Vous pouvez vous le procurer si vous y tenez, mais ce n'est pas nécessaire selon moi parce que vous pouvez aussi utiliser un verre **Tulip** à la place.
 
