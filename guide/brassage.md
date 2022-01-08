@@ -31,11 +31,10 @@ Cette étape peut se faire de plusieurs façons, je vais vous en proposer deux:
     Mash-in:
         Chauffer l'eau jusqu'à 50°C.
         Ajouter les grains.
-        Chauffer jusqu'à 67°C-68°C, maintenir durant 1h.
+        Chauffer jusqu'à 67°C-68°C, maintenir durant 60min.
 
     Mash-out:
         Chauffer jusqu'à 77°C-78°C (faire attention de ne pas dépasser 80°C, au besoin aller à 76°C pour être *safe*), maintenir durant 10min.
-</samp>
 
 #### Façon 2
 
@@ -56,11 +55,13 @@ Ne jamais dépasser 80°C ! Avoir une température toujours **constante** lors d
 
 ### Test d'iode
 
-**Avant le mash out**, prendre une cuillère du maische (l'eau qui a reçu les sucres des grains) et ajouter deux ou trois goûtes d'iode. Si ça tourne rouge/orange c'est parce que l'empâtage est terminé. Si c'est violet/bleu c'est parce qu'il faut donner encore quelques minutes au mash in.
+**Avant le mash out**, prendre une cuillère du maische (l'eau qui a reçu les sucres des grains) et ajouter deux ou trois goûtes d'iode. Si ça tourne rouge/orange c'est parce que l'empâtage est terminé. Si c'est violet/bleu c'est parce qu'il faut donner encore quelques minutes au mash in. Personnellement, j'oublie souvent de le faire ahaha.
 
 #### Ratio eau/grains
 
-TODO
+Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que l'houblonage dure 60min, je mettrais 8L d'eau pendant le mash et 4L pour le rinçage.
+
+Vous allez voir que c'est dur de trouver des calculateurs simples sur le web. Je vous conseille d'y aller au pif et d'apprendre de vos erreurs: notez tout ! Surveillez aussi la quantité d'eau qu'il vous reste après le mash, si vous n'avez pas assez mis d'eau, essayez de ne pas mettre à feu trop fort votre houblonnage.
 
 ### Recirculement
 
