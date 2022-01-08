@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 html{
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: #282828;
 }
 
 body {
@@ -13,11 +13,6 @@ body {
     margin-right:auto;
     background-color: var(--bg); 
     color: var(--bg);
-}
-
-html[theme='dark'] {
-    color: white;
-    background: #282828;
 }
 
 #page {
