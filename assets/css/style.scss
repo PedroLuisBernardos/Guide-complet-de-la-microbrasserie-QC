@@ -3,6 +3,23 @@
 
 @import "{{ site.theme }}";
 
+html{
+    color: black;
+    background-color: white;
+}
+
+body {
+    margin-left:auto;
+    margin-right:auto;
+    background-color: var(--bg); 
+    color: var(--bg);
+}
+
+html[theme='dark'] {
+    color: white;
+    background: #282828;
+}
+
 #page {
     display: block;
 }
@@ -14,14 +31,6 @@ h1, h2 {
 .active {
     font-weight: bolder;
     color: white;
-}
-
-.header-table{
-    font-weight: bolder;
-}
-
-table {
-    text-align: center;
 }
 
 footer {
