@@ -10,7 +10,7 @@ Je suis un jeune amateur de bière. J'ai eu ma piqure au début de 2020 et depui
 
 Je n’ai pas goûté à *Toutes* les brasseries du Québec. Dans ce guide j'essaie de vous présenter assez de bonnes bières que j'ai goûtées (selon moi) pour que vous puissiez les trouver facilement. Sachez que j'habite à Montréal, donc peut-être les bières *faciles à trouver* pour moi, sont *difficiles à trouver* pour vous !
 
-### Quelques infos:
+### Quelques infos
 
 Je ne cherche pas à faire de pub en faisant ce guide.
 Je ne suis pas payé pour le faire non plus; je le fais pour le plaisir !
@@ -20,9 +20,9 @@ Mon but est de partager mon expérience avec de futurs amateurs de bière !
 Toutes les informations que vous allez trouver dans ce guide ont été prises par mes nombreuses recherches sur le sujet, mes expériences, mes discussions, etc. Rien n’est techniquement officiel !
 Si jamais je cite ou utilise l'une de vos marques/photos et vous n'êtes pas d'accord, je vais les enlever sans problème :)
 
-## Table de matières:
+## Table de matières
 
-Je vous conseille de consulter les pages dans l'ordre de la table de matières. Certaines pages sont `préalables` à d'autres. Assurez-vous de finir de lire cette section avant !
+Je vous conseille de consulter les pages dans l'ordre de la table de matières. Certaines pages sont *préalables* à d'autres. Assurez-vous de finir de lire cette section avant !
 
 En guise d'information, l'ordre dans les descriptions de saveurs est plus au moins en ordre d'importance. Les deux ou trois premiers vont être les saveurs dominantes, le reste n'a pas vraiment d'ordre. J'ai aussi omis de décrire l'odeur pour simplifier ce guide. Finalement, l'ordre des bières proposées est classé selon les notes Untappd: la meilleure en haut. Je n'ai pas mis toutes les bières non plus, juste les plus faciles à trouver selon moi.
 
@@ -45,11 +45,11 @@ En guise d'information, l'ordre dans les descriptions de saveurs est plus au moi
    * Produits rares
    * Où les échanger ?
    * Valeur secondaire des bières
-1. [Brassage amateur À VENIR](/guide/brassage.md)
+1. Brassage amateur À VENIR
 
 Cheers ! 🍻
 
-## Applications à avoir
+## Applications à avoir 📱
 
 Je vous conseille d'installer ces deux applications dans votre téléphone.
 
