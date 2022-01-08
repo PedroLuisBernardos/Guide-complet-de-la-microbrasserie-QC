@@ -1,4 +1,4 @@
-<img src="assets/img/blondes.png" alt="Blondes" width="100%"/>
+<img src="../assets/img/blondes.png" alt="Blondes" width="100%"/>
 
 # Bières blondes
 

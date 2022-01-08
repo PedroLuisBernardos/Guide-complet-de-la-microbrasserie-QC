@@ -1,4 +1,4 @@
-<img src="assets/img/brunes.png" alt="Brunes" width="100%"/>
+<img src="../assets/img/brunes.png" alt="Brunes" width="100%"/>
 
 # Bières brunes
 
