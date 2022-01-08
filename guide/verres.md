@@ -22,7 +22,7 @@ Si vous ne voulez pas dépenser beaucoup, je vous conseille d'y aller simplement
 
 <img src="../assets/img/bec.png" alt="Bec">
 
-*Note3: SVP, ne buvez pas en canette ! En bouteille ça peut aller, mais surtout pas en canette ! Vous allez ajouter un goût métallique (et peut-être de rouille) à votre dégustation.*
+*note3: SVP, ne buvez pas en canette ! En bouteille ça peut aller, mais surtout pas en canette ! Vous allez ajouter un goût métallique (et peut-être de rouille) à votre dégustation.*
 
 ### 💰💰 budget moyen
 
