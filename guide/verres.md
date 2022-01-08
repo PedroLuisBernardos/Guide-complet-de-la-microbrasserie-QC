@@ -37,7 +37,7 @@ Si vous voulez y aller un petit peu plus loin, voici les 4 verres à avoir à mo
 
 Si vous voulez avoir pas mal tous les verres [basez-vous sur ce guide-ci](https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass) pour savoir lequel utiliser:
 
-<img src="../assets/img/verres.png" alt="Liste de verres">
+<img src="../assets/img/verres.png" alt="Liste de verres" width="50%">
 
 *note4: normalement les Kölsh se boivent dans des Stange de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
 
@@ -45,4 +45,4 @@ Si vous voulez avoir pas mal tous les verres [basez-vous sur ce guide-ci](https:
 
 Le verre *Thistle* s'utilise pour des styles très spécifiques. Vous pouvez vous le procurer si vous y tenez, mais ce n'est pas nécessaire selon moi parce que vous pouvez aussi utiliser un verre **Tulip** à la place.
 
-<img src="../assets/img/thistle.png" alt="Thistle">
+<img src="../assets/img/thistle.png" alt="Thistle" width="15">
