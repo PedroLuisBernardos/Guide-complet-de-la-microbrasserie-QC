@@ -1,6 +1,8 @@
 # Autres
 
-D'autres styles ne seront pas abordés, mais vous pouvez les rechercher par vous-même.
+D'autres styles ne seront pas abordés, mais vous pouvez les rechercher par vous-même sur Untappd par exemple:
+
+<img src="../assets/img/autres.png" alt="Untappd"/>
 
 * Belgian Enker/Patersbier
 * Bière de Coupage
