@@ -2,167 +2,193 @@
 
 # Brassage amateur (petit budget)
 
-# Brasser
+## Table de matières
 
-Ne pas utiliser l'eau du robinet directement sauf si on utilise un filtre (Brita par exemple). Utiliser des bouteilles d'eau. Ne pas utiliser de l'eau distillée ni déminéralisée: les levures n'auront aucun minéral pour se nourrir.
+1. [Matériel]()
+1. [Théorie et pratique]()
+1. [Sources d'information]()
 
-# Empâtage
+## Matériel
 
-Mettre le couvercle pour garder la température. Laisser sur le rond mais fermer le feu. Si la température diminue, allumer le rond comme 1 minute et éteindre après.
+## Théorie et pratique
 
-Brasser du bas vers le haut avec une cuillère de brassage stérilisée.
+Je ne vais pas approfondir dans la théorie, je ne cherche pas à vous faire perdre votre temps. Je vais principalement aborder les grosses lignes et vous donner plusieurs trucs.
 
-Ne jamais dépasser 80C! Avoir une température toujours constante lors des étapes!
+### Eau 💧
 
-### Façon 1
+Ne pas utiliser l'eau du robinet directement sauf si vous utilisez un filtre (Brita par exemple). Je recommande fortement l'utilisation de bouteilles d'eau. N'utilisez pas de l'eau distillée ni déminéralisée: les levures n'auront aucun minéral pour se nourrir.
 
+### Empâtage 🌾
+
+L'empâtage est la première étape du brassage. Le but est de sortir les sucres des grains pour qu'il reste dans l'eau.
+
+Cette étape peut se faire de plusieurs façons, je vais vous en proposer deux:
+
+#### Façon 1 (plus simple et le résultat est le même)
+
+```
 **Mash-in**
-Chauffer l'eau jusqu'à 50C.
+
+Chauffer l'eau jusqu'à 50°C.
 Ajouter les grains.
-Chauffer jusqu'à 67C ou 68C, maintenir durant 1h.
+Chauffer jusqu'à 67°C-68°C, maintenir durant 1h.
 
 **Mash out**
-Chauffer jusqu'à 77C ou 78C (faire attention au 80C, au besoin aller à 76.5C pour viser safe), maintenir durant 10min.
 
-### Façon 2
+Chauffer jusqu'à 77°C-78°C (faire attention de ne pas dépasser 80°C, au besoin aller à 76°C pour être *safe*), maintenir durant 10min.
+```
 
+#### Façon 2
+
+```
 **Mash in**
 Chauffer l'eau jusqu'à 50C.
 Ajouter les grains.
-Chauffer entre 63C et 65C, maintenir durant 30min.
-Chauffer entre 68C et 75C, maintenir durant 30min.
+Chauffer entre 63°C et 65°C, maintenir durant 30min.
+Chauffer entre 68°C et 75°C, maintenir durant 30min.
+
 **Mash out**
-Chauffer jusqu'à 77C ou 78C, maintenir durant 10min.
+Chauffer jusqu'à 77°C ou 78°C, maintenir durant 10min.
+```
 
-## Test d'iode
+Je vous conseille d'utiliser le **feu bas** en tout temps ! Utilisez le couvercle pour maintenir la température. Au besoin, tassez, remettez, retassez... du feu. Si la température diminue, allumer le rond autour de 1 minute et l'éteindre après.
 
-<u>Avant</u> le Mash out. Prendre une cuillère du maische et tester deux ou trois goûtes d'iode. Rouge/orange c'est bon, violet/bleu c'est mauvais, donc on continue le Mash in.
+Brasser du bas vers le haut avec une cuillère de brassage stérilisée (une cuillère de bois fait l'affaire).
 
-## Ratio empâtage
+Ne jamais dépasser 80°C ! Avoir une température toujours **constante** lors des étapes!
 
-2,5L à 3,5L d'eau par kilogramme pour une bière blonde.
-2L d'eau par kilogramme pour une bière brune.
+### Test d'iode
 
-## Recirculement
+**Avant le mash out**, prendre une cuillère du maische (l'eau qui a reçu les sucres des grains) et ajouter deux ou trois goûtes d'iode. Si ça tourne rouge/orange c'est parce que l'empâtage est terminé. Si c'est violet/bleu c'est parce qu'il faut donner encore quelques minutes au mash in.
 
-Ne pas faire en BIAB.
+#### Ratio eau/grains
 
-# Filtration et Rinçage
+TODO
 
-Chauffer 1/3 d'eau du volume totale à 78C.
-Transvider, à travers une passoire le maische dans une seconde cuvée. Ne jamais compresser les grains (ceci donnera un mauvais goût à la bière, ce goût qui touche l'intérieur des joues. Pour le vin on veut ça!).
-Rincer les grains sur la passoire avec l'eau du rinçage.
+### Recirculement
 
-Rinçage: ne pas faire de trous en rinçant trop vite. Aller lentement.
-*Incisez le gâteau (boue compacte au fond du chaudron) si nécessaire.*
+On ne le fait pas vu qu'on fait du BIAB.
 
-Exemple: si on veut brasser 15L, pendant l’empâtage on va perdre 1.5L, lors du filtrage on perdre en eau le poids des grains donc mettons 5L. En rinçant avec 8L on ajoutera 1.5L+5L+1.5L. Le dernier 1.5L est l'évaporation durant houblonnage.
+### Filtration et rinçage 🚿
 
-Si BIAB: optionnel, on peut ajouter plus d'eau au début ou en ajouter après l'empâtage.
+Chauffer 1/3 d'eau du volume total à 78°C.
+Sortir le sac de brassage et le tenir au-dessus de la cuvée.
+Rincer le sac avec le 1/3 d'eau que vous avez chauffé (ne pas aller trop vite). Vous ne devez surtout pas compresser les grains (ceci donnera un mauvais goût à la bière. Ça ajoutera des tannins à la bière: ce goût astringent qui touche l'intérieur des joues. Pour le vin on veut ça par exemple, mais pas pour la bière).
 
-# Houblonnage
+### Houblonnage
 
-Remettre le liquide dans la marmite si on l'avait transvidée dans une autre cuvée.
-<u>Optionnel</u>: écumer la mousse des protéines avec une passoire.
-En général 60g à 100g d'houblon amérisan, 20g à 30g d'houblon aromatisant pour 20L de bière.
+Porter le maische à ébullition pendant le temps que dit la recette: normalement, entre 60min et 120min.
+Ajouter les houblons comme dit la recette. Supposant que l'étape dure 60min, et qu'on doit ajouter nos houblons A à 60min et le houblon B à 10min, ceci signifie qu'on ajoute A quand il reste 60min de temps et B quand il reste 10min au houblonnage.
 
-Porter le maische à ébullition pendant 60 à 90 minutes, selon la recette (une mousse sera créée, prendre un chaudron plus grand pour éviter les débordements!) Ne pas mettre le couvercle! Ne pas boil trop fort!
+Vous pouvez avoir un coton de fromage pour vos houblons, mais personnellement: *free the hops!*
 
-# Whirlpool
+*Optionnel: une mousse de protéines se formera pendant cette étape, vous pouvez l'écumer avec une passoire.*
 
-À la fin de l'ébullition, fermer le feu et avec une cuillère en bois désinfectée tourner énergiquement durant 2 minutes. Laisser tourner durant 10 minutes.
-Transvaser le moût dans un autre récipient à l'aide d'un auto siphon ou le robinet du chaudron. Ne pas toucher le centre du tourbillon!
+Ne mettez pas le couvercle et surtout: surveiller la quantité d'eau.
 
-# Refroidissement
+### Whirlpool 🌪️
 
-Le plus rapidement possible! Atteindre la température d'activation de la levure. En général, pour une fermentation basse c'est entre 23C et 27C et pour une fermentation haut entre 27C et 30C.
-Avec le couvercle pour éviter les bactéries.
+Certaines recettes demandent un *whirlpool*. Si c'est votre cas, à la fin de l'ébullition, fermez le feu et baissez la température à 60°C (140°F). Avec une cuillère en bois désinfectée, tournez énergiquement le moût durant 2 minutes. Laissez-le tourner durant 10 minutes.
 
-<u>Optionnel</u>: remplit 1L pour le levain, se conserve quelques jours au frais ou se congelé.
+Transvaser le moût dans un autre récipient à l'aide d'un autosiphon ou le robinet du chaudron. Ne pas toucher le centre du tourbillon!
 
-Transvider vers le fermenteur, attention de ne pas prendre les résidus dans le fond! Seule partie qu'on veut oxygéner!!! Utiliser des passoires pour enlever les morceaux. On peut transvider avec plusieurs cuvées pour clarifier la bière et l'oxygéner le plus possible avant la fermentation. 
+### Refroidissement 🥶
 
-# Levurage
+Vous devez le faire le plus rapidement possible ! Atteindre la température d'activation de la levure (écrite sur le sachet). En général, pour une fermentation basse c'est entre 23°C et 27°C et pour une fermentation haute entre 27°C et 30°C.
 
-Mesurer la densité avant le levurage. Utiliser un tableau de conversions selon la température du moût.
-11g à 15g de levure sèche suffit pour 20L.
-Si la levure est sèche il faut la réhydrater.
-Si la levure est liquide il faudra l'activer (vu qu'il y a moins de micro-organismes).
-Ne pas causer de choc thermique avec les levures! Mettre la levure à température pièce avant de la mettre dans le fermenteur.
+Personnellement, je bouche mon évier, je place de la neige (que je prends dehors) et j'arrose ma marmite constamment avec de l'eau froide. Quand je sens que l'eau chauffe, j'enlève le bouchon, je fais partir l'eau chaude, je remets le bouchon et je recommence. Je tourne lentement avec mon thermomètre pour ne pas fausser ma température (mais je ne le fais pas trop fort pour éviter que les bactéries atterrissent dans ma bière).
 
-## Réhydratation
+*optionnel: remplis 1L du moût pour le levain (serviront à activer de futures levures de futures brassées. Le but est d'habituer les levures à l'environnement où elles devront travailler), se conserve quelques jours au frais ou se congèle.*
 
-Faire bouillir 10x le volume des levures durant 15 minutes et le verser dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau: fermentation basse entre 21C et 25C, fermentation haute entre 25C et 29C.
-Diluer 10x le volume des levures dans de l'eau, bien remuer, la laisser fondre pendant 30 minutes.
+Placez une passoire au-dessus de votre fermenteur et transvidez le contenu de la marmite: attention de ne pas prendre les résidus dans le fond ! N'ayez pas peur d'oxygéner votre bière: les levures veulent avoir de l'O2 !
 
-## Levain / Starter
+### Levurage
 
-À faire le matin ou la veille du brassage.
-2 doses d'eau pour une demi dose de sucre ou de malt.
+Mesurer la densité avant le levurage avec un densimètre: personnellement je ne me casse jamais la tête et je ne le fais pas haha.
 
-Utiliser de l'eau ou un ancien moût, le but est de starter les levures pour qu'elles soient prêtes pour fermenter.
+11g à 15g de levure sèche suffit pour 20L, après faites une règle de trois. Si jamais vous brassez une bière qui a beaucoup de grains, vous devriez peut-être utiliser le double de levures, mais ça devrait être écrit dans la recette.
 
-# Fermentation
+En guise de repère, je mets 1/3 du sachet de levures dans mes 3.8gal.
 
-## Primaire
+Si la levure est sèche il faut la réhydrater (avec un starter), mais, entre vous et mois... ce n’est pas si grave sinon.
 
-Placer la cuvée dans un endroit sombre entre 18C et 25C pour une ale pour fermentation haute, et 10C et 15C pour fermentation basse. On peut aussi juste faire une primaire sur trois semaines.
+Si la levure est liquide, il faudra l'activer (vu qu'il y a moins de micro-organismes).
 
-## Kraüsen
+Pour ne pas causer de choc thermique avec les levures: mettre les levures à température pièce avant de la mettre (sortez-la du frigo au début du brassage) dans le fermenteur.
+
+### Réhydratation
+
+Bien lire les instructions dans le sachet des levures. Certains sacs vous diront de faire une réhydratation. Pour le faire, faites bouillir 10x le volume des levures durant 15 minutes et versez-les dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau jusqu'à la bonne température: fermentation basse entre 21C et 25C, fermentation haute entre 25C et 29C. Ensuite, diluer 10x le volume des levures dans de l'eau, bien remuer, la laisser fondre pendant 30 minutes.
+
+### Levain / Starter
+
+À faire le matin ou la veille du brassage. Placez 2 doses d'eau (ou un ancien moût) pour une demi-dose de sucre ou de malt. Ensuite, mettez vos levures dedans pour qu'elles soient prêtes pour le travail !
+
+### Fermentation
+
+#### Primaire
+
+Placer le fermenteur dans un endroit sombre entre 18°C et 25°C pour une ale pour fermentation haute, et 10°C et 15°C pour fermentation basse. 
+
+*note: on peut aussi faire uniquement une primaire sur trois semaines.*
+
+#### Kraüsen
 
 Ne pas ouvrir le fermenteur pendant le kraüsen (mousse brunâtre) sauf s'il y a des ajouts à faire. Cette étape dure de 5 à 7 jours.
 
-## Secondaire
+#### Secondaire
 
+Il est préférable de transvaser le moût dans une seconde cuvée (éviter de réoxygéner la bière) afin que le dépôt de levures mortes et de résidus ne trouble pas le résultat final.
 
-Il est préférable de transvaser le moût dans une seconde cuvée (éviter de ré-oxygéner) afin que le dépôt de levures mortes et de résidus ne troublent pas le résultat final.
+Lorsque le barboteur ne bouge plus, faire un test de densité. 24h après, en refaire un autre. Si la densité est stable passer au *cold crash* ou à l'embouteillage. Vu que je n'utilise pas de densimètre, je laisse la bière fermenter comme 3 à 5 jours de plus pour être sûr que la fermentation est finie. Ça m'est déjà arrivé de la laisse plus qu'une semaine et le résultat était tout aussi bon !
 
-Lorsque le barboteur ne bouge plus faire un test de densité. 24h après, en refaire un autre. Si la densité est stable passer au cold crash ou à l'embouteillage.
+### Dry hop ou ajout de fruits/épices/...
 
-## Cold Crash / Mise à froid de l'houblon
+À mettre pendant la fermentation active. Donc, pendant le high kraüsen (grosse mousse brunâtre, environ 2" d'épaisseur).
 
-<u>Optionnel</u>: 12h à 48h, mettre le fermenteur dans la pièce la plus froide possible sans le geler. Le but est de clarifier la bière.
+Stériliser les ajouts qu'on fait: avec du Star San (1.6mL par 1L), à l'eau bouillante ou avec de la Vodka. Vous n'avez pas besoin de stériliser les houblons.
 
-# Dry hop ou ajout de fruits/épices...
+Laisser de 5 à 14 jours selon la recette. Idéalement, ne mettez pas ces ajouts dans un coton de fromage: évitons les bactéries.
 
-Environ 50g pour 20L pour le dry hop.
-À mettre pendant la fermentation active! Donc, pendant le high kraüsen (grosse mousse brunâtre, environ 2").
-Stériliser les ajouts qu'on fait: avec du Star San (1.6mL par L), à l'eau bouillante, avec de la Vodka, etc. Pas besoin de stériliser les houblons.
-Laisser de 5 à 14 jours selon la recette. Idéalement ne pas mettre dans le sac.
+### Cold Crash / Mise à froid du houblon
 
-# Embouteillage
+Cette étape est optionnelle. Afin de clarifier la bière, mettre le fermenteur dans la pièce la plus froide possible sans le geler pendant 12h à 48h.
 
-Tout laver et stériliser!
-Soulever le fermenteur, sans trop bouger: il doit être plus haut que les bouteilles.
+### Sucrage
 
-## Sucrage
+Vous devez ajouter du sucre pour déclencher la deuxième fermentation: celle-ci ajoutera les bulles à votre bière. Sinon, elle sera flatte.
 
-5g à 8g de sucre par litre.
-Délayer le sucre dans un bol d'eau bouillante, le mettre dans le fermenteur et brasser très lentement pour éviter d'oxygéner la bière. 
-**Astuce**: remplir une petite bouteille échantillon à goûter après 15 jours. 
+Les quantités sont à peu près 5g à 8g de dextrose (ou de sucre blanc) par litre.
 
-## Température ambiante / Prise de mousse
+Délayer le sucre dans un bol d'eau bouillante, le mettre dans le fermenteur et brasser très lentement pour éviter d'oxygéner la bière.
 
-Débout, à température ambiante (autour de 20C) durant 10 à 14 jours dans une pièce sombre.
+### Embouteillage
 
-## Au frais
+**Tout laver et tout stériliser !**
 
-Dans une pièce sombre, débout entre 10C et 12C ou au frigo (autour de 4C), dépend de la recette.
+Transvidez le contenu du fermenteur dans vos bouteilles sans trop oxygéner la bière. Idéalement, utilisez un autosiphon, placez le au plus bas de chaque bouteille (pour éviter que la bière soit en contact avec l'oxygène) puis remplissez-les.
 
+*conseil: mettez le fermenteur au-dessus des bouteilles pour faire couler la bière par gravité.*
 
-## Conservation
+### Température ambiante / Prise de mousse
 
-Pils, bière légère: au plus 6 mois
-Stout ou porter: au plus 2 ans à une température entre 10C et 12C
-Spéciales de type trappiste: plusieurs décennies
+Gardez vos bières debout, à température ambiante (autour de 21°C) durant 14 à 21 jours dans une pièce sombre.
 
-# Comment nettoyer
+Goûtez à une bière après deux semaines, et attendez une semaine de plus pour que vous voyiez à quel point ce sera meilleur ! Après 3 semaines ça devrait être prêt à être bu !
 
-PBW à l'eau chaude. Rincer à l'eau froide. Mettre le Star San et ensuite juste égoutter (ne pas rincer).
+### Conservation
 
-Pour l’auto siphon, pipette, trucs en plastique, les nettoyer et finir au Star San.
+Les pils et les bières légères se gardent au plus 6 mois.
 
-<u>Astuce</u>: avoir un push-push avec du Star San dilué avec de l'eau.
+Les stouts ou les porters se gardent au plus 2 ans à une température entre 10°C et 12°C.
+
+Les bières spéciales de type trappiste se gardent plusieurs décennies.
+
+### Comment nettoyer
+
+Nettoyez avec du PBW à l'eau chaude. Rincer à l'eau froide. Ensuite, mettre le Star San, ajoutez de l'eau froide et frottez. Finalement, vous n'avez qu'à égoutter (**ne pas rincer**).
+
+*astuce: ayez un push-push avec du Star San dilué avec de l'eau. C'est super pratique !*
 
 ## Sources d'information
 
