@@ -39,16 +39,14 @@ Cette étape peut se faire de plusieurs façons, je vais vous en proposer deux:
 
 #### Façon 2
 
-<samp>
-Mash-in:
-Chauffer l'eau jusqu'à 50C.
-Ajouter les grains.
-Chauffer entre 63°C et 65°C, maintenir durant 30min.
-Chauffer entre 68°C et 75°C, maintenir durant 30min.
+    Mash-in:
+        Chauffer l'eau jusqu'à 50°C.
+        Ajouter les grains.
+        Chauffer entre 63°C et 65°C, maintenir durant 30min.
+        Chauffer entre 68°C et 75°C, maintenir durant 30min.
 
-Mash-out:
-Chauffer jusqu'à 77°C ou 78°C, maintenir durant 10min.
-</samp>
+    Mash-out:
+        Chauffer jusqu'à 77°C ou 78°C, maintenir durant 10min.
 
 Je vous conseille d'utiliser le **feu bas** en tout temps ! Utilisez le couvercle pour maintenir la température. Au besoin, tassez, remettez, retassez... du feu. Si la température diminue, allumer le rond autour de 1 minute et l'éteindre après.
 
