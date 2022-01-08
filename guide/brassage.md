@@ -57,7 +57,7 @@ Ne jamais dépasser 80°C ! Avoir une température toujours **constante** lors d
 
 **Avant le mash out**, prendre une cuillère du maische (l'eau qui a reçu les sucres des grains) et ajouter deux ou trois goûtes d'iode. Si ça tourne rouge/orange c'est parce que l'empâtage est terminé. Si c'est violet/bleu c'est parce qu'il faut donner encore quelques minutes au mash in. Personnellement, j'oublie souvent de le faire ahaha.
 
-#### Ratio eau/grains
+### Ratio eau/grains
 
 Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que l'houblonage dure 60min, je mettrais 8L d'eau pendant le mash et 4L pour le rinçage.
 
