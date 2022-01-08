@@ -2,7 +2,7 @@
 
 D'autres styles ne seront pas abordés, mais vous pouvez les rechercher par vous-même sur Untappd par exemple:
 
-<img src="../assets/img/autres.png" alt="Untappd"/>
+<img src="../assets/img/autres.png" alt="Untappd" width="50%"/>
 
 * Belgian Enker/Patersbier
 * Bière de Coupage
