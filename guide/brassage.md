@@ -119,7 +119,7 @@ Pour ne pas causer de choc thermique avec les levures: mettre les levures à tem
 
 ### Réhydratation
 
-Bien lire les instructions dans le sachet des levures. Certains sacs vous diront de faire une réhydratation. Pour le faire, faites bouillir 10x le volume des levures durant 15 minutes et versez-les dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau jusqu'à la bonne température: fermentation basse entre 21C et 25C, fermentation haute entre 25C et 29C. Ensuite, diluer 10x le volume des levures dans de l'eau, bien remuer, la laisser fondre pendant 30 minutes.
+Bien lire les instructions dans le sachet des levures. Certains sacs vous diront de faire une réhydratation. Pour le faire, faites bouillir 10x le volume des levures durant 15 minutes et versez-les dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau jusqu'à la bonne température: fermentation basse entre 21°C et 25°C, fermentation haute entre 25°C et 29°C. Ensuite, diluer 10x le volume des levures dans de l'eau, bien remuer, la laisser fondre pendant 30 minutes.
 
 ### Levain / Starter
 
@@ -129,7 +129,7 @@ Bien lire les instructions dans le sachet des levures. Certains sacs vous diront
 
 #### Primaire
 
-Placer le fermenteur dans un endroit sombre entre 18°C et 25°C pour une ale pour fermentation haute, et 10°C et 15°C pour fermentation basse. 
+Placer le fermenteur dans un endroit sombre entre 18°C et 25°C pour une ale pour fermentation haute, et 10°C et 15°C pour fermentation basse.
 
 *note: on peut aussi faire uniquement une primaire sur trois semaines.*
 
