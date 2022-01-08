@@ -39,7 +39,7 @@ Si vous voulez avoir pas mal tous les verres [basez-vous sur ce guide-ci](https:
 
 <img src="../assets/img/verres.png" alt="Liste de verres">
 
-*note: normalement les Kölsh se boivent dans des Stange de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
+*note4: normalement les Kölsh se boivent dans des Stange de 200mL et les Altbier dans ceux de 300mL ou 400mL.*
 
 **Extra**
 
