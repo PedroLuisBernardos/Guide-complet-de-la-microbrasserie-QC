@@ -1,6 +1,6 @@
 <img src="../assets/img/packs.png" alt="Packs pour s'initier à la micro" width="100%"/>
 
-# Packs de bière pour découvrir la bière
+# Packs pour s'initier à la micro
 
 Je vous propose un pack de 24 bières pour découvrir les styles, les goûts et les textures de base de la bière. Je vous laisse choisir quelles bières vous achetez selon le style proposé !
 

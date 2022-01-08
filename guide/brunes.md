@@ -93,6 +93,6 @@ Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgia
   * goût de malt grillé, de fumée, de cassonade et de caramel
   * les levures belges se goûtent très bien
   * arômes herbacés
-  * amertume ___
+  * amertume élevée
 * Quoi acheter ?
   * Raftman (Unibroue)

@@ -1,4 +1,4 @@
-<img src="../assets/img/autres.png" alt="Autres styles" width="100%"/>
+# Autres
 
 D'autres styles ne seront pas abordés, mais vous pouvez les rechercher par vous-même.
 
@@ -27,7 +27,6 @@ D'autres styles ne seront pas abordés, mais vous pouvez les rechercher par vous
 * Mumme
 * Roggenbier
 * Shandy/Radler
-* Smoked Beer
 * Winter Ale
 * Winter Lager
 * Zoigl
