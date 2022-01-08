@@ -4,11 +4,15 @@
 
 ## Table de matières
 
-1. [Matériel]()
-1. [Théorie et pratique]()
-1. [Sources d'information]()
+1. [Matériel](#Matériel)
+1. [Théorie et pratique](#Théorie-et-pratique)
+1. [Sources d'information](#Sources-d'information)
 
 ## Matériel
+
+Je vous propose ci-dessous une liste de matériel de base pour que vous ne depensiez pas plus que 200$ ! Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place, ou en achetant des bonus comme par exemple un refroidisseur en cuivre, mais mon but est de vous montrer comment je le fais chez moi.
+
+#TODO
 
 ## Théorie et pratique
 
@@ -17,6 +21,10 @@ Je ne vais pas approfondir dans la théorie, je ne cherche pas à vous faire per
 ### Eau 💧
 
 Ne pas utiliser l'eau du robinet directement sauf si vous utilisez un filtre (Brita par exemple). Je recommande fortement l'utilisation de bouteilles d'eau. N'utilisez pas de l'eau distillée ni déminéralisée: les levures n'auront aucun minéral pour se nourrir.
+
+### Profil d'eau
+
+Le profil d'eau est #TODO
 
 ### Empâtage 🌾
 
