@@ -1,4 +1,4 @@
-<img src="assets/img/packs.png" alt="Packs pour s'initier à la micro" width="100%"/>
+<img src="../assets/img/packs.png" alt="Packs pour s'initier à la micro" width="100%"/>
 
 # Packs de bière pour découvrir la bière
 

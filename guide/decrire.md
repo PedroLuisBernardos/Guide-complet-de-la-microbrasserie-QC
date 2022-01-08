@@ -1,4 +1,4 @@
-<img src="assets/img/decrire.png" alt="Comment décrire une bière" width="100%"/>
+<img src="../assets/img/decrire.png" alt="Comment décrire une bière" width="100%"/>
 
 # Comment décrire une bière - Explication des mots
 

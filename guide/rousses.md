@@ -1,4 +1,4 @@
-<img src="assets/img/rousses.png" alt="Rousses" width="100%"/>
+<img src="../assets/img/rousses.png" alt="Rousses" width="100%"/>
 
 # Bières rousses
 

@@ -1,4 +1,4 @@
-<img src="assets/img/noires.png" alt="Noires" width="100%"/>
+<img src="../assets/img/noires.png" alt="Noires" width="100%"/>
 
 # Bières noires
 

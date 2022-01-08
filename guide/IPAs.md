@@ -1,4 +1,4 @@
-<img src="assets/img/ipa.png" alt="IPA" width="100%"/>
+<img src="../assets/img/ipa.png" alt="IPA" width="100%"/>
 
 # IPAs
 

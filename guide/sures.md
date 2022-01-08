@@ -1,4 +1,4 @@
-<img src="assets/img/sures.png" alt="Fruitées et épicées" width="100%"/>
+<img src="../assets/img/sures.png" alt="Fruitées et épicées" width="100%"/>
 
 # Bières fruitées et épicées
 

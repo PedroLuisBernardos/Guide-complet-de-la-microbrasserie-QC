@@ -1,4 +1,4 @@
- <img src="assets/img/houblons.png" alt="Houblons" width="100%"/>
+ <img src="../assets/img/houblons.png" alt="Houblons" width="100%"/>
 
 # Houblons
 
