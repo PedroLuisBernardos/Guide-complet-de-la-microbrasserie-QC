@@ -24,12 +24,7 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item">
-                <a class="nav-link" href="/guide/decrire.md">Décrire</a>
-                {{ site }}
-                {{ site.url }}
-                {{ site.relative_url }}
-                {{site.owner_url }}
-                {{ site.absolute_url }}
+                <a class="nav-link" href="{{ "/" | absolute_url }} + /guide/decrire.md">"{{ "/" | absolute_url }}"</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Couleurs</a>
