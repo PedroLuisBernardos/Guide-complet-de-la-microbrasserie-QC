@@ -1,6 +1,6 @@
 # Autres
 
-D'autres styles ne seront pas abordés, mais vous pouvez les rechercher par vous-même sur Untappd par exemple:
+Les styles ci-dessous ne seront pas abordes dans ce guide mais vous pouvez quand même les chercher sur Untappd:
 
 <img src="../assets/img/autres.png" alt="Untappd" width="50%"/>
 
