@@ -10,7 +10,7 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 
 ### Chez votre magasin de brassage
 
-* un fermenteur (5.75$)
+* une tourie en verre de 1 gallon (5.75$)
   * c'est bien d'en avoir 2 si vous voulez faire plus qu'une batch par mois, ou si vous voulez expérimenter différents ajouts en dry hop (par exemple vous brassez un peu plus que 3.8L et vous séparez le tout dans les deux touries. Ensuite, vous ajoutez des framboisez à la tourie A et des fraises à la tourie B)
 * un autosiphon (le 3/8" c'est 9.55$)
 * un sac de brassage BIAB (18$)
@@ -30,6 +30,7 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 * un push-push
 * une balance numérique
 * irish moss (200g c'est 1$)
+* un fourquet (une cuillère en bois de brassage, mais une régulière marche aussi)
 
 ### Matériel optionnel
 
@@ -45,7 +46,7 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 * une pipette graduée pour l'acide lactique
 * gypse (50g c'est 1$)
 * sel d'Epsom (50g c'est 1$)
-* du sel de table (je suis sûr vous avez déjà ça)
+* du sel de table (je  sûr vous avez déjà ça)
 
 ## Théorie et pratique
 
@@ -116,6 +117,8 @@ Rincer le sac avec le 1/3 d'eau que vous avez chauffé (ne pas aller trop vite).
 
 Porter le maische à ébullition pendant le temps que dit la recette: normalement, entre 60min et 120min.
 Ajouter les houblons comme dit la recette. Supposant que l'étape dure 60min, et qu'on doit ajouter nos houblons A à 60min et le houblon B à 10min, ceci signifie qu'on ajoute A quand il reste 60min de temps et B quand il reste 10min au houblonnage.
+
+Vous pouvez ajouter 1 cuillère de thé de Irish Moss à 10min.
 
 Vous pouvez avoir un coton de fromage pour vos houblons, mais personnellement: *free the hops!*
 
@@ -226,6 +229,44 @@ Les bières spéciales de type trappiste se gardent plusieurs décennies.
 Nettoyez avec du PBW à l'eau chaude. Rincer à l'eau froide. Ensuite, mettre le Star San, ajoutez de l'eau froide et frottez. Finalement, vous n'avez qu'à égoutter (**ne pas rincer**).
 
 *astuce: ayez un push-push avec du Star San dilué avec de l'eau. C'est super pratique !*
+
+### Substituts
+
+Si jamais vos grains, vos houblons ou vos levures ne sont pas en stock, demandez à votre magasin de brassage par quoi les remplacer (ou faites une recherche rapide sur Internet).
+
+## Vôtre première brassée
+
+*Merci à Samuel Moreau pour la recette !*
+
+Je vous propose de brasser 1 gallon d'une Ale aux framboises.
+
+Vous allez avoir besoin de:
+
+* 700g pilsner 2-row
+* 300g wheat flaked
+* 12L d'eau en bouteille
+* 1.8g Citra (60min)
+* 5g Styrian Goldlings (10min)
+* 600g de framboises congelées (3 jours après le début)
+* Un sachet de la levure WB-06
+
+Et de façon optionnelle:
+
+* 1 cuillère de thé de irish moss (10min)
+* Les ingrédients nécessaires pour la qualité de l'eau
+    * pH 5.2
+    * Ca2+ 15ppm
+    * Mg2+ 17ppm
+    * Na+ 26ppm
+    * Cl- 42ppm
+    * So42- 39ppm
+    * HCO3- 62 ppm
+
+60min de houblonnage
+
+21 jours de fermentation avec 1/3 du sachet (mettez 1/2 si vous ne faites pas de starter)
+
+28g de dextrose pour embouteiller
 
 ## Sources d'information
 
