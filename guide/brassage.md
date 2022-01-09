@@ -284,6 +284,6 @@ Et de façon optionnelle:
 
 ## Sources d'information
 
-* [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/)
-* [Bazar du brasseur](https://www.facebook.com/groups/808588615953404/)
-* [Le Brasseur](https://www.youtube.com/channel/UCmpJeQfzcD2A5HyEmBG-tbg)
+* [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/){:target="_blank"}
+* [Bazar du brasseur](https://www.facebook.com/groups/808588615953404/){:target="_blank"}
+* [Le Brasseur](https://www.youtube.com/channel/UCmpJeQfzcD2A5HyEmBG-tbg){:target="_blank"}
