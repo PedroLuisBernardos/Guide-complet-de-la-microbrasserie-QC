@@ -31,9 +31,11 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 * une balance numérique
 * irish moss (200g c'est 1$)
 * un fourquet (une cuillère en bois de brassage, mais une régulière marche aussi)
+* une passoire
 
 ### Matériel optionnel
 
+* une casserole d'au moins 8L
 * quelques cotons-fromage (1.10$ chaque)
   * genre 3 (peut-être plus, après 4-5 brassées ils ne marchent plus très bien, mais moi je ne les utilise même pas)
 * un densimètre (10$)
@@ -47,8 +49,9 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 * gypse (50g c'est 1$)
 * sel d'Epsom (50g c'est 1$)
 * du sel de table (je  sûr vous avez déjà ça)
+* de la neige ou de la glace
 
-## Théorie et pratique
+## Théorie
 
 Je ne vais pas approfondir dans la théorie, je ne cherche pas à vous faire perdre votre temps. Je vais principalement aborder les grosses lignes et vous donner plusieurs trucs.
 
@@ -60,7 +63,7 @@ Ne pas utiliser l'eau du robinet directement sauf si vous utilisez un filtre (Br
 
 Le profil d'eau est #TODO
 
-### Empâtage 🌾
+### Étape 1: empâtage 🌾
 
 L'empâtage est la première étape du brassage. Le but est de sortir les sucres des grains pour qu'il reste dans l'eau.
 
@@ -87,33 +90,44 @@ Cette étape peut se faire de plusieurs façons, je vais vous en proposer deux:
     Mash-out:
         Chauffer jusqu'à 77°C ou 78°C, maintenir durant 10min.
 
-Je vous conseille d'utiliser le **feu bas** en tout temps ! Utilisez le couvercle pour maintenir la température. Au besoin, tassez, remettez, retassez... du feu. Si la température diminue, allumer le rond autour de 1 minute et l'éteindre après.
+Premièrement, vous remplissez deux chaudrons d'eau selon les quantités nécessaires : l'un pour le mash et lautre pour le rinçage. *Optionnellement* vous ajustez le profil de l'eau.
 
-Brasser du bas vers le haut avec une cuillère de brassage stérilisée (une cuillère de bois fait l'affaire).
+Vous suivez ensuite l'une de deux *façons* proposées ci-haut.
 
-Ne jamais dépasser 80°C ! Avoir une température toujours **constante** lors des étapes!
+*Optionnellement, avant le mash out, faites un test d'iode (expliqué ci-dessous) pour vérifier que le mash a terminé.
 
-### Test d'iode
+#### #
+
+* Je vous conseille d'utiliser le **feu bas** en tout temps ! Utilisez le couvercle pour maintenir la température. Au besoin, tassez, remettez, retassez... du feu. Si la température diminue, placez la marmite sur le feu, puis allumez le rond autour de 1 minute et l'éteindre après.
+* Brasser du bas vers le haut avec une cuillère de brassage stérilisée (une cuillère de bois fait l'affaire).
+* Ne jamais dépasser 80°C !
+* Avoir une température toujours **constante** lors des étapes!
+
+#### Test d'iode
 
 **Avant le mash out**, prendre une cuillère du maische (l'eau qui a reçu les sucres des grains) et ajouter deux ou trois goûtes d'iode. Si ça tourne rouge/orange c'est parce que l'empâtage est terminé. Si c'est violet/bleu c'est parce qu'il faut donner encore quelques minutes au mash in. Personnellement, j'oublie souvent de le faire ahaha.
 
-### Ratio eau/grains
+#### Ratio eau/grains
 
 Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que le houblonnage dure 60min, je mettrais 8L d'eau pendants le mash et 4L pour le rinçage.
 
 Vous allez voir que c'est dur de trouver des calculateurs simples sur le web. Je vous conseille d'y aller au pif et d'apprendre de vos erreurs: notez tout ! Surveillez aussi la quantité d'eau qu'il vous reste après le mash, si vous n'avez pas assez mis d'eau, essayez de ne pas mettre à feu trop fort votre houblonnage.
 
-### Recirculement
+#### Recirculement
 
 On ne le fait pas vu qu'on fait du BIAB.
 
-### Filtration et rinçage 🚿
+#### Filtration et rinçage 🚿
 
-Chauffer 1/3 d'eau du volume total à 78°C.
-Sortir le sac de brassage et le tenir au-dessus de la cuvée.
-Rincer le sac avec le 1/3 d'eau que vous avez chauffé (ne pas aller trop vite). Vous ne devez surtout pas compresser les grains (ceci donnera un mauvais goût à la bière. Ça ajoutera des tannins à la bière: ce goût astringent qui touche l'intérieur des joues. Pour le vin on veut ça par exemple, mais pas pour la bière).
+Chauffer 1/3 d'eau du volume total à 78°C dans une casserole appart.
 
-### Houblonnage
+Sortir le sac de brassage de la grosse marmite et le tenir au-dessus de la cuvée.
+
+Rincer le sac avec l'eau de la casserole que vous avez chauffée (ne pas rincer trop vite).
+
+Vous ne devez surtout pas compresser les grains (ceci donnera un mauvais goût à la bière: ça ajoutera des tannins: ce goût astringent, présent dans le vin, qui touche l'intérieur des joues.)
+
+### Étape 2: houblonnage
 
 Porter le maische à ébullition pendant le temps que dit la recette: normalement, entre 60min et 120min.
 Ajouter les houblons comme dit la recette. Supposant que l'étape dure 60min, et qu'on doit ajouter nos houblons A à 60min et le houblon B à 10min, ceci signifie qu'on ajoute A quand il reste 60min de temps et B quand il reste 10min au houblonnage.
@@ -160,7 +174,7 @@ Pour ne pas causer de choc thermique avec les levures: mettre les levures à tem
 
 Bien lire les instructions dans le sachet des levures. Certains sacs vous diront de faire une réhydratation. Pour le faire, faites bouillir 10x le volume des levures durant 15 minutes et versez-les dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau jusqu'à la bonne température: fermentation basse entre 21°C et 25°C, fermentation haute entre 25°C et 29°C. Ensuite, diluer 10x le volume des levures dans de l'eau, bien remuer, la laisser fondre pendant 30 minutes.
 
-### Levain / Starter
+### Levain/Starter
 
 À faire le matin ou la veille du brassage. Placez 2 doses d'eau (ou un ancien moût) pour une demi-dose de sucre ou de malt. Ensuite, mettez vos levures dedans pour qu'elles soient prêtes pour le travail !
 
