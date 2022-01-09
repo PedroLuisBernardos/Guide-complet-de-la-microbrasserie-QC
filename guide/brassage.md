@@ -25,7 +25,8 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 * un thermomètre
   * pensez peutêtre à en avoir un deuxième pour le chaudron du rinçage
 
-*facultatif*
+### Matériel optionnel
+
 * quelques cottons-fromage, genre 3 (peut-être plus, après 3-4 brassage ils ne marchent plus très bien)
 * un densimètre
 * un erlenmeyer
