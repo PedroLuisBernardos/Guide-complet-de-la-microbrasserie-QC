@@ -8,6 +8,32 @@ Je vous propose ci-dessous une liste de matériel de base pour que vous ne depen
 
 #TODO
 
+Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/) c'est où le magasin de brassage le plus proche d'où vous êtes. Ensuite, mettez vous en contact avec ce magasin et demandez leur de vous sortir le matériel qu'il vous manque dans cette liste:
+
+* une marmitte de 14L au minimum
+* un push-push
+* un auto-siphon
+* LE TRUC POUR ARRÊTER AUTO SIPHON
+* un sac de brassage BIAB
+* du Star San
+* du PBW
+* une ou plusieurs touries (moi j'en ai deux de 1gal)
+* un ou plusieurs bouchons pour la tourie
+* un ou plusieurs barbotteurs
+  * pensez à en avoir un en backup au cas où le votre brise
+* une balance numérique
+* un thermomètre
+  * pensez peutêtre à en avoir un deuxième pour le chaudron du rinçage
+
+*facultatif*
+* quelques cottons-fromage, genre 3 (peut-être plus, après 3-4 brassage ils ne marchent plus très bien)
+* un densimètre
+* un erlenmeyer
+* un cylindre gradué pour mettre le densimètre
+* de l'iode
+* du dextrose
+* QUALITE DE L'EAU
+
 ## Théorie et pratique
 
 Je ne vais pas approfondir dans la théorie, je ne cherche pas à vous faire perdre votre temps. Je vais principalement aborder les grosses lignes et vous donner plusieurs trucs.
@@ -106,7 +132,7 @@ Mesurer la densité avant le levurage avec un densimètre: personnellement je ne
 
 11g à 15g de levure sèche suffit pour 20L, après faites une règle de trois. Si jamais vous brassez une bière qui a beaucoup de grains, vous devriez peut-être utiliser le double de levures, mais ça devrait être écrit dans la recette.
 
-En guise de repère, je mets 1/3 du sachet de levures dans mes 3.8gal.
+En guise de repère, je mets 1/3 du sachet de levures dans mes 1gal.
 
 Si la levure est sèche il faut la réhydrater (avec un starter), mais, entre vous et mois... ce n’est pas si grave sinon.
 
