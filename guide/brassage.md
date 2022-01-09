@@ -4,36 +4,48 @@
 
 ## Matériel
 
-Je vous propose ci-dessous une liste de matériel de base pour que vous ne depensiez pas plus que 200$ ! Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place, ou en achetant des bonus comme par exemple un refroidisseur en cuivre, mais mon but est de vous montrer comment je le fais chez moi.
+Je vous propose ci-dessous une liste de matériel de base pour que vous ne dépensiez pas plus que 200$ ! Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place, ou en achetant des bonus comme par exemple un refroidisseur en cuivre, mais mon but est de vous montrer comment je le fais chez moi.
 
-#TODO
+Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/) c'est où le magasin de brassage le plus proche d'où vous êtes. Ensuite, mettez-vous en contact avec ce magasin et demandez-leur de vous sortir le matériel qu'il vous manque dans cette liste:
 
-Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/) c'est où le magasin de brassage le plus proche d'où vous êtes. Ensuite, mettez vous en contact avec ce magasin et demandez leur de vous sortir le matériel qu'il vous manque dans cette liste:
+### Chez votre magasin de brassage
 
-* une marmitte de 14L au minimum
+* un fermenteur (5.75$)
+  * c'est bien d'en avoir 2 si vous voulez faire plus qu'une batch par mois, ou si vous voulez expérimenter différents ajouts en dry hop (par exemple vous brassez un peu plus que 3.8L et vous séparez le tout dans les deux touries. Ensuite, vous ajoutez des framboisez à la tourie A et des fraises à la tourie B)
+* un autosiphon (le 3/8" c'est 9.55$)
+* un sac de brassage BIAB (18$)
+* du Star San (80oz c'est 15$)
+* du PBW (500g c'est 10$)
+* un bouchon (1.35$)
+* un barboteur/bonde aseptique (1.30$)
+  * pensez à en avoir un en backup au cas où le vôtre brise
+* un thermomètre (6$)
+  * pensez peut-être à en avoir un deuxième pour le chaudron du rinçage
+* remplisseur bout noir (le 3/8" c'est 3.30$)
+* brosse en L (7.80$)
+
+### D'autres outils importants
+
+* une marmite de 14L au minimum (j'ignore le prix, mes parents m'ont donné la leur)
 * un push-push
-* un auto-siphon
-* LE TRUC POUR ARRÊTER AUTO SIPHON
-* un sac de brassage BIAB
-* du Star San
-* du PBW
-* une ou plusieurs touries (moi j'en ai deux de 1gal)
-* un ou plusieurs bouchons pour la tourie
-* un ou plusieurs barbotteurs
-  * pensez à en avoir un en backup au cas où le votre brise
 * une balance numérique
-* un thermomètre
-  * pensez peutêtre à en avoir un deuxième pour le chaudron du rinçage
+* irish moss (200g c'est 1$)
 
 ### Matériel optionnel
 
-* quelques cottons-fromage, genre 3 (peut-être plus, après 3-4 brassage ils ne marchent plus très bien)
-* un densimètre
+* quelques cotons-fromage (1.10$ chaque)
+  * genre 3 (peut-être plus, après 4-5 brassées ils ne marchent plus très bien, mais moi je ne les utilise même pas)
+* un densimètre (10$)
 * un erlenmeyer
-* un cylindre gradué pour mettre le densimètre
+* un cylindre gradué pour mettre le densimètre (4$)
 * de l'iode
-* du dextrose
-* QUALITE DE L'EAU
+* du dextrose (500g c'est 2.80$)
+* chlorure de calcium (50g c'est 1$)
+* acide lactique 88% (70mL c'est 4.30$)
+* une pipette graduée pour l'acide lactique
+* gypse (50g c'est 1$)
+* sel d'Epsom (50g c'est 1$)
+* du sel de table (je suis sûr vous avez déjà ça)
 
 ## Théorie et pratique
 
@@ -86,7 +98,7 @@ Ne jamais dépasser 80°C ! Avoir une température toujours **constante** lors d
 
 ### Ratio eau/grains
 
-Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que l'houblonage dure 60min, je mettrais 8L d'eau pendant le mash et 4L pour le rinçage.
+Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que le houblonnage dure 60min, je mettrais 8L d'eau pendants le mash et 4L pour le rinçage.
 
 Vous allez voir que c'est dur de trouver des calculateurs simples sur le web. Je vous conseille d'y aller au pif et d'apprendre de vos erreurs: notez tout ! Surveillez aussi la quantité d'eau qu'il vous reste après le mash, si vous n'avez pas assez mis d'eau, essayez de ne pas mettre à feu trop fort votre houblonnage.
 
@@ -165,7 +177,7 @@ Ne pas ouvrir le fermenteur pendant le kraüsen (mousse brunâtre) sauf s'il y a
 
 Il est préférable de transvaser le moût dans une seconde cuvée (éviter de réoxygéner la bière) afin que le dépôt de levures mortes et de résidus ne trouble pas le résultat final.
 
-Lorsque le barboteur ne bouge plus, faire un test de densité. 24h après, en refaire un autre. Si la densité est stable passer au *cold crash* ou à l'embouteillage. Vu que je n'utilise pas de densimètre, je laisse la bière fermenter comme 3 à 5 jours de plus pour être sûr que la fermentation est finie. Ça m'est déjà arrivé de la laisse plus qu'une semaine et le résultat était tout aussi bon !
+Lorsque le barboteur ne bouge plus, faire un test de densité. 24h après, en refaire un autre. Si la densité est stable, passer au *cold crash* ou à l'embouteillage. Vu que je n'utilise pas de densimètre, je laisse la bière fermenter comme 3 à 5 jours de plus pour être sûr que la fermentation est finie. Ça m'est déjà arrivé de la laisse plus qu'une semaine et le résultat était tout aussi bon !
 
 ### Dry hop ou ajout de fruits/épices/...
 
@@ -191,7 +203,7 @@ Délayer le sucre dans un bol d'eau bouillante, le mettre dans le fermenteur et 
 
 **Tout laver et tout stériliser !**
 
-Transvidez le contenu du fermenteur dans vos bouteilles sans trop oxygéner la bière. Idéalement, utilisez un autosiphon, placez le au plus bas de chaque bouteille (pour éviter que la bière soit en contact avec l'oxygène) puis remplissez-les.
+Transvidez le contenu du fermenteur dans vos bouteilles sans trop oxygéner la bière. Idéalement, utilisez un autosiphon, placez-le au plus bas de chaque bouteille (pour éviter que la bière soit en contact avec l'oxygène) puis remplissez-les.
 
 *conseil: mettez le fermenteur au-dessus des bouteilles pour faire couler la bière par gravité.*
 
