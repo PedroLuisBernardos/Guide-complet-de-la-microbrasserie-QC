@@ -4,67 +4,85 @@
 
 ## Matériel
 
-Je vous propose ci-dessous une liste de matériel de base pour que vous ne dépensiez pas plus que 200$ ! Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place, ou en achetant des bonus comme par exemple un refroidisseur en cuivre, mais mon but est de vous montrer comment je le fais chez moi.
+Je vous propose ci-dessous une liste de matériel de base pour que vous ne dépensiez pas plus que **200$** pour votre première brassée ! Vous avez peut-être même déjà du matériel chez vous, qui sait :) Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place comme le Grainfather, ou en achetant des bonus comme par exemple un refroidisseur, mais mon but est de vous initier à ce domaine sans que ça vous coûte trop cher.
 
-Je vous recommande de demander dans <a href="https://www.facebook.com/groups/nanobrasseur/" target="_blank">Nanobrasseur</a> c'est où le magasin de brassage le plus proche d'où vous êtes. Ensuite, mettez-vous en contact avec ce magasin et demandez-leur de vous sortir le matériel qu'il vous manque dans cette liste:
+Je vous recommande de demander dans <a href="https://www.facebook.com/groups/nanobrasseur/" target="_blank">Nanobrasseur</a> c'est où le magasin de brassage le plus proche de chez vous. Ensuite, mettez-vous en contact avec ce magasin et demandez-leur de vous sortir le matériel qu'il vous manque dans cette liste:
 
-### Chez votre magasin de brassage
+### Chez votre magasin de brassage (autour de 115$ avec taxes)
 
-Tous mes prix sont basés sur <a href="https://www.moutinternational.com" target="_blank">Moût International</a>.
+Tous mes prix sont basés sur <a href="https://www.moutinternational.com" target="_blank">Moût International</a> en janvier 2022.
 
 * une tourie en verre de 1 gallon (5.75$)
-  * c'est bien d'en avoir 2 si vous voulez faire plus qu'une batch par mois, ou si vous voulez expérimenter différents ajouts en dry hop (par exemple vous brassez un peu plus que 3.8L et vous séparez le tout dans les deux touries. Ensuite, vous ajoutez des framboisez à la tourie A et des fraises à la tourie B)
-* un autosiphon (le 3/8" c'est 9.55$)
-* un sac de brassage BIAB (18$)
-* du Star San (80oz c'est 15$)
-* du PBW (500g c'est 10$)
+  * c'est bien d'en avoir 2 si vous voulez faire plus qu'une batch par mois, ou si vous voulez expérimenter différents ajouts en dry hop (par exemple vous brassez une Ale et vous séparez le tout dans les deux touries. Ensuite, vous ajoutez des framboisez à la tourie A et des fraises à la tourie B pour essayer deux ajouts différents)
 * un bouchon (1.35$)
 * un barboteur/bonde aseptique (1.30$)
   * pensez à en avoir un en backup au cas où le vôtre brise
+* un sac de brassage BIAB (18$)
+* un autosiphon (le 3/8" c'est 9.55$)
+* un remplisseur bout noir (le 3/8" c'est 3.30$)
+* un capsuleur (16.75$)
+* des capsules (250g c'est 4.10$)
 * un thermomètre (6$)
   * pensez peut-être à en avoir un deuxième pour le chaudron du rinçage
-* remplisseur bout noir (le 3/8" c'est 3.30$)
-* brosse en L (7.80$)
+* une brosse en L (7.80$)
+* du Star San (80oz c'est 15$)
+* du PBW (500g c'est 10$)
 
-### D'autres outils importants
+### D'autres outils importants (autour de 83$ avec taxes)
 
-* une marmite de 15L au minimum (<a href="https://www.canadiantire.ca/fr/pdp/marmite-h2k-en-acier-inoxydable-18-10-allant-au-lave-vaisselle-et-au-four-0423620p.html#srp" target="_blank">45$</a>)
-* un push-push
-* une balance numérique (max 30$ sur Amazon)
-* irish moss (200g c'est 1$)
-* un fourquet (une cuillère en bois de brassage, mais une régulière marche aussi)
+* une marmite de 15L au minimum (<a href="https://www.canadiantire.ca/fr/pdp/marmite-h2k-en-acier-inoxydable-18-10-allant-au-lave-vaisselle-et-au-four-0423620p.html#srp" target="_blank">45$</a> par exemple)
+* une balance numérique (autour de 25$ sur Amazon)
+* un push-push (2$)
 * un tamis
+* un fourquet
+  * une cuillère en bois de brassage, mais une régulière marche aussi
 * un gros entonoir solide
+  * moi j'en ai pas, j'utilise le petit que j'ai dans ma cuisine mais il faudrait que je m'en achete un plus gros, et en plastique haha
+* des bouteilles de bière qui marchent avec vos capsules
 
 ### Matériel optionnel
 
-* une casserole d'au moins 8L
+#### disponibles à votre magasin de brassage
+
 * quelques cotons-fromage (1.10$ chaque)
-  * genre 3 (peut-être plus, après 4-5 brassées ils ne marchent plus très bien, mais moi je ne les utilise même pas)
+  * genre 3 (peut-être plus ? Après 4-5 brassées ils ne marchent plus très bien, mais moi je ne les utilise même pas)
 * un densimètre (10$)
-* un erlenmeyer
 * un cylindre gradué pour mettre le densimètre (4$)
-* de l'iode
+* irish moss (200g c'est 1$)
 * du dextrose (500g c'est 2.80$)
 * chlorure de calcium (50g c'est 1$)
 * acide lactique 88% (70mL c'est 4.30$)
-* une pipette graduée pour l'acide lactique
 * gypse (50g c'est 1$)
 * sel d'Epsom (50g c'est 1$)
-* du sel de table (je  sûr vous avez déjà ça)
+* du sel de table (je suis sûr que vous avez déjà ça)
+
+#### et les autres
+
+* une casserole d'au moins 8L
+* une pipette graduée pour l'acide lactique
+* un erlenmeyer
+* de l'iode
 * de la neige ou de la glace
 
-## Théorie
+### Matériel bonus
 
-Je ne vais pas approfondir dans la théorie, je ne cherche pas à vous faire perdre votre temps. Je vais principalement aborder les grosses lignes et vous donner plusieurs trucs.
+Je n'ai pas ce matériel mais ça pourraît être un bel ajout:
+
+* un refroidisseur
+  * demandez sur Nanobrasseur pour voir si vous pouvez l'acheter usagé !
+* une tour à bouteilles (23$)
+
+## Commençons...
+
+Je ne vais pas m'approfondir dans la théorie; je ne cherche pas à vous faire perdre votre temps. Mon but est que vous puissiez faire votre première brassée ASAP, et si vous avez eu vôtre piqure que vous recherchiez plus d'informations par la suite. Je vais principalement aborder les grosses lignes et vous donner plusieurs trucs.
 
 ### Eau 💧
 
-Ne pas utiliser l'eau du robinet directement sauf si vous utilisez un filtre (Brita par exemple). Je recommande fortement l'utilisation de bouteilles d'eau. N'utilisez pas de l'eau distillée ni déminéralisée: les levures n'auront aucun minéral pour se nourrir.
+Ne pas utiliser l'eau du robinet directement sauf si vous utilisez un filtre. Je recommande fortement l'utilisation de bouteilles d'eau pour éviter d'introduire du chlore dans la bière. N'utilisez pas de l'eau distillée ni déminéralisée: les levures n'auront aucun minéral pour se nourrir.
 
 ### Profil d'eau
 
-Le profil d'eau décrit la chimie de l'eau nécessaire pour la brassée : son pH et ses components.
+Le profil d'eau décrit la chimie de l'eau nécessaire pour la brassée: son pH et ses components.
 
 Normalement, quand vous achetez une bouteille d'eau vous avez une étiquette du genre:
 
