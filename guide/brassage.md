@@ -10,6 +10,8 @@ Je vous recommande de demander dans <a href="https://www.facebook.com/groups/nan
 
 ### Chez votre magasin de brassage
 
+Tous mes prix sont basés sur <a href="https://www.moutinternational.com" target="_blank">Moût International</a>.
+
 * une tourie en verre de 1 gallon (5.75$)
   * c'est bien d'en avoir 2 si vous voulez faire plus qu'une batch par mois, ou si vous voulez expérimenter différents ajouts en dry hop (par exemple vous brassez un peu plus que 3.8L et vous séparez le tout dans les deux touries. Ensuite, vous ajoutez des framboisez à la tourie A et des fraises à la tourie B)
 * un autosiphon (le 3/8" c'est 9.55$)
@@ -32,7 +34,7 @@ Je vous recommande de demander dans <a href="https://www.facebook.com/groups/nan
 * irish moss (200g c'est 1$)
 * un fourquet (une cuillère en bois de brassage, mais une régulière marche aussi)
 * un tamis
-* un grosentonoir
+* un gros entonoir solide
 
 ### Matériel optionnel
 
@@ -68,7 +70,7 @@ Normalement, quand vous achetez une bouteille d'eau vous avez une étiquette du 
 
 *note: assurez vous d'avoir le pH, c'est pas toujours indiqué. Si c'est vôtre cas, vous devrez contacter la compagnie d'eau.*
 
-Pour faire une recette de bière, vous devez utiliser un profil d'eau selon le style de bière que vous faites (faites une recherche sur Internet ou demandez dans des forums spécialisés). Une fois vous avez votre profil d'eau visé, et votre profil d'eau initial, vous devez utiliser un calculateur pour voir quelles composantes il faut ajouter à votre eau. J'en ai essayé plusieurs sur Internet, mais celui qui m'a semblé le plus facile est [BrewFather]().
+Pour faire une recette de bière, vous devez utiliser un profil d'eau selon le style de bière que vous faites (faites une recherche sur Internet ou demandez dans des forums spécialisés). Une fois vous avez votre profil d'eau visé, et votre profil d'eau initial, vous devez utiliser un calculateur pour voir quelles composantes il faut ajouter à votre eau. J'en ai essayé plusieurs sur Internet, mais celui qui m'a semblé le plus facile est <a href="https://brewfather.app/" target="_blank">Brewfather</a> (aussi disponible chez <a href="https://play.google.com/store/apps/details?id=com.warpkode.brewfather&hl=en_US&gl=US" target="_blank">Google Play</a> et <a href="https://apps.apple.com/us/app/brewfather/id1488585822" target="_blank">Appstore</a>).
 
 ### Étape 1: empâtage 🌾
 
