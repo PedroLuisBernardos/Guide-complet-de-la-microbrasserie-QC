@@ -136,7 +136,7 @@ Vous suivez ensuite l'une de deux *façons* proposées ci-haut.
 
 #### Ratio eau/grains
 
-Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que le houblonnage dure 60min, je mettrais 8L d'eau pendants le mash et 4L pour le rinçage.
+Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que le houblonnage dure 60min, je mettrais 6L d'eau pendants le mash et 4L pour le rinçage.
 
 Vous allez voir que c'est dur de trouver des calculateurs simples sur le web. Je vous conseille d'y aller au pif et d'apprendre de vos erreurs: notez tout ! Surveillez aussi la quantité d'eau qu'il vous reste après le mash, si vous n'avez pas assez mis d'eau, essayez de ne pas mettre à feu trop fort votre houblonnage.
 
@@ -303,7 +303,7 @@ Et de façon optionnelle:
     * So42- 39ppm
     * HCO3- 62 ppm
 
-8L d'eau pour le mash, et 4L pour le rinçage
+6L d'eau pour le mash, et 4L pour le rinçage
 
 60min de houblonnage
 
