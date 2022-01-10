@@ -46,3 +46,7 @@ Si vous voulez avoir pas mal tous les verres <a href="https://justbeerapp.com/ar
 Le verre *Thistle* s'utilise pour des styles très spécifiques. Vous pouvez vous le procurer si vous y tenez, mais ce n'est pas nécessaire selon moi parce que vous pouvez aussi utiliser un verre **Tulip** à la place.
 
 <img src="../assets/img/thistle.png" alt="Thistle" width="20%">
+
+### Entretien
+
+Lavez vos verres à la main. Je déconseille le lave vaiselle pour vos verres minces ou pour vos verres qui ont des logos/images.
