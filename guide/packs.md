@@ -64,7 +64,7 @@ Ci-dessous je vous propose quelques bières pour aller plus loin dabs votre expl
 
 ### Quels fruits goûter ?
 
-Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ces fruits: framboise, cassis, mangue (très présent dans beaucoup d'IPAs), bleuets, goyave, mûre et fraise. Les bières blanches viendront vous faire goûter l'orange et les bières noires, la noix de coco. Le fruit de la passion, l'abricot et l'ananas vous trouverez ça dans les IPAs principalement. Les Lambic Kriek vous feront goûter la cerise, la Tripel de Mille Îles vous fera goûter la poire, certains cidres/lambic la pomme et certaines Lagers la banane ! Les autres fruits tels que le kiwi, la pomme grenade, les griottes, les canneberges, la mandarine, la pêche, la papaye, etc. sont assez rares !
+Pour ce qui est des bières sûres, je vous recommande d'essayer minimalement ces fruits: framboise, cassis, mangue (très présent dans beaucoup d'IPAs), bleuets, goyave, mûre et fraise. Les bières blanches viendront vous faire goûter l'orange et les bières noires, la noix de coco. Le fruit de la passion, l'abricot et l'ananas vous trouverez ça dans les IPAs principalement. Les Lambic Kriek vous feront goûter la cerise, la Tripel de Mille Îles vous fera goûter la poire, certains cidres/lambic la pomme et certaines Lagers la banane ! Les autres fruits tels que le kiwi, la pomme grenade, les griottes, les canneberges, la mandarine, la pêche, la papaye, l'aronia, etc. sont assez rares !
 
 1. Winter Warmer
    * le but est d'aller un peu plus loin avec les épices en ajoutant une saveur beaucoup plus intense
