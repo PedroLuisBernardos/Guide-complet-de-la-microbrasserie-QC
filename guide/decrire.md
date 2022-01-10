@@ -34,7 +34,7 @@ Pour décrire une bière, vous devez être en mesure d'évaluer sa couleur, son 
 
 Les **saveurs** vont se retrouver dans la liste présente à la section sur l'odeur.
 
-Pour aller plus loin, vous pouvez décrire les **notes** ou les **arômes** que vous goûtez. En voici une liste: torréfiée, douce, épicée, fruitée, chocolat, caramel, café, malté, acidulé, subtil, boisé, terreux, piney, souffre...
+Pour aller plus loin, vous pouvez décrire les **notes** ou les **arômes** que vous goûtez. En voici une liste: torréfiée, green, douce, épicée, fruitée, chocolat, caramel, café, malté, acidulé, subtil, boisé, terreux, piney, souffre...
 
 Vous pouvez aussi décrire l'**intensité**: assertive, douce, audacieuse, équilibrée, robuste, intense, métallique, dure, complexe, délicate, raffinée...
 
@@ -50,7 +50,7 @@ N'oubliez pas de décrire aussi l'**amertume**: légère, modérée, forte, tran
 
 **Le niveau de carbonation de la bière**: pétillant, effervescent, rond, crémeux, léger, gazeux, tranchant, délicat, crisp and clean...
 
-**Le corps de la bière** peut être décrit comme l'épaisseur ou le poids de la bière. Plusieurs mots peuvent le décrire: plein (*full* en anglais), lourd, dense, visqueux, robuste, moyen, équilibré, moyennement léger, léger, délicat...
+**Le corps de la bière** peut être décrit comme l'épaisseur ou le poids de la bière. Plusieurs mots peuvent le décrire: plein (*full* en anglais), lourd, hazy, dense, visqueux, robuste, moyen, équilibré, moyennement léger, léger, délicat...
 
 ### Quelques définitions
 
@@ -68,6 +68,8 @@ Une bière peut être amère, sucrée, épicée, fruitée, houblonnée, crisp, l
 * **Floral**: goûte comme un bouquet de fleurs, un jardin et du gazon
 * **Piney**: goûte le sapin et la sève
 * **Barriquée**: veut dire que la bière a été fermentée dans un fût de quelque chose. En gros, la bière goûtera boisée
+* **Hazy**: les IPAs hazy sont des IPAs juteuses, crémeuses, qui ont une sensation en bouche similaire au jus
+* **Green**: goûte comme le gazon, l'herbe, la terre, vous voyez le genre ?
 
 ### Crédits:
 

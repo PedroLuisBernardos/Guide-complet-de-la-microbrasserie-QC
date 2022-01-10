@@ -18,11 +18,11 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
   * Ils font très rarement des blondes, mais c'est toujours extraordinaire quand ils les font !
 * etc.
 
-### Crisp and Clean 🏖️☀️
+### [Crisp and Clean](decrire.md) 🏖️☀️
 
-Les bières qui sont `crisp & clean` sont des bières de souaf 💦. Elles sont aussi connues comme `summer beers` parce qu'elles sont très rafraîchissantes et désaltérantes. Quand vous pensez à une `bière`, le plus probable est que vous pensiez à ce genre de bières; on pense tout de suite à la Bud, à la Heineken ou à la Corona par exemple.
+Les bières qui sont *crisp & clean* sont des bières de souaf 💦. Elles sont aussi connues comme *summer beers* parce qu'elles sont très rafraîchissantes et désaltérantes. Quand vous pensez à une *bière*, le plus probable est que vous pensiez à ce genre de bières; on pense tout de suite à la Bud, à la Heineken ou à la Corona par exemple.
 
-Crisp veut dire `hautement gazéifié`. Ces bières laissent une sensation rafraîchissante parce qu'elles sont légères sur le palais.
+*Crisp* veut dire *hautement gazéifié*. Ces bières laissent une sensation rafraîchissante parce qu'elles sont légères sur le palais.
 
 ## Pilsner Czech 🇨🇿
 
@@ -50,7 +50,7 @@ Crisp veut dire `hautement gazéifié`. Ces bières laissent une sensation rafra
 
 ## Kölsch 🇩🇪
 
-Ce style est brassé comme une Ale
+En général les blondes crisp and clean sont des lager (brassées à température haute). La particularité des Kölsch est qu'elles sont brassées comme des ale.
 
 * Description
   * le malt Pilsner offre un goût de céréales et de pain
@@ -71,13 +71,13 @@ Ce style est brassé comme une Ale
 
 * Description
   * goût de céréales et de paille
-  * levure florale et fruitée
+  * goût levure florale et fruitée
   * notes de zeste de citron
-  * sèche
+  * [sèche](decrire.md)
   * amertume douce
 * Quoi acheter ?
   * Fiore (Auval)
-  * n'importe quoi de Messorem
+  * n'importe laquelle de Messorem
   * Herman Pils (Dunham)
 
 ## Euro Pale Lager
@@ -115,7 +115,8 @@ Ce style est brassé comme une Ale
 * Histoire
   * Lager blonde forte en alcool inspirée des bières historiquement brassées en Bavière pour célébrer l'arrivée du printemps
 * Description
-  * intense goût sucré de malt et de sucre d'orge, céréales et bananes
+  * intense goût sucré de malt et de sucre d'orge
+  * goût de céréales et bananes
   * léger goût de miel avec un soupçon épices, peut-être du clou de girofle ?
   * amertume douce
 * Quoi acheter ?
@@ -144,7 +145,7 @@ Ce style est brassé comme une Ale
 ## Tripel/Triple Belge 🇧🇪
 
 * Description
-  * goût de banane, de sucre et de levures belges
+  * goût de banane, de sucre et de [levures belges](decrire.md)
   * bière douce
 * Quoi acheter ?
   * Triple Karmeliet (Bosteels)
@@ -163,7 +164,7 @@ Ce style est brassé comme une Ale
 Si la bière est *strong*, c'est le goût intense et le taux d'alcool qui changera
 
 * Description
-  * goût de levures belges
+  * goût de [levures belges](decrire.md)
   * arômes de poire et de bananes
   * bière intense, mais douce
 * Quoi acheter ?
@@ -178,7 +179,7 @@ Peut aussi être [brune](brunes.md)
 * Description
   * léger goût de céréales et de maïs
   * peut avoir un goût de café, de malts grillés et de caramel
-  * légère, crémeuse et mouthfeel doux
+  * légère, crémeuse et *[mouthfeel](decrire.md)* doux
   * amertume faible
 * Quoi acheter ?
   * Cream Ale Traditionnelle (La Knowlton Co.)

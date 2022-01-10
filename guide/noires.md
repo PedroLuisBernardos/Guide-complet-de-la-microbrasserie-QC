@@ -13,13 +13,13 @@ Plusieurs bières sont difficiles à trouver parce que les brasseries font des S
 * Description
   * goût de malt rôti, de chocolat, de cacao et de noix
   * des arômes de torréfaction, de fumée, de piment fort, de fruits, de café, etc. peuvent être plus ou moins présents dépendamment des bières
-  * finale dark
+  * finale [dark](decrire.md)
   * texture mi-crémeuse
-  * amertume modérée à élévée
+  * amertume modérée à forte
 * Quoi acheter ?
   * Péché Mortel (Dieu du Ciel)
-    * ça pourrait être intéressant de goûter les différentes variantes de cette bière, ils en ont au Jameson, au Bourbon, aux fruits, etc.
-  * n'importe quoi de Beauregard
+    * ça pourrait être intéressant de goûter les différentes variantes de cette bière, ils en ont au Jameson, une au Bourbon, une aux fruits, etc.
+  * n'importe laquelle de Beauregard
     * ça pourrait être intéressant d'explorer plusieurs de leurs bières: ils se spécialisent en bières noires et le font très bien !
   * Imperial Stout (Simple Malt)
   * Nocturna Affogato (MonsRegius)
@@ -33,8 +33,8 @@ Plusieurs bières sont difficiles à trouver parce que les brasseries font des S
   * texture très crémeuse et mousse épaisse: c'est du Nutella liquide
   * amertume modérée
 * Quoi acheter ?
-  * n'importe quoi de Beauregard
-  * n'importe quoi de Brewskey
+  * n'importe laquelle de Beauregard
+  * n'importe laquelle de Brewskey
   * Déliquescence (8e Péché)
 
 ## Porter
@@ -45,7 +45,7 @@ Une Porter est comme une Imperial Stout moins intense. On peut les comparer aux 
   * goût de chocolat, de cacao, d'amandes grillées et de vanille
   * des arômes de cigare, de fumée et de café peuvent être plus ou moins présents dépendamment des bières
   * texture mi-crémeuse
-  * amertume modérée à élévée
+  * amertume modérée à forte
 * Quoi acheter ?
   * Porter Baltique (LTM)
   * La Gaspésienne #13 (Pit Caribou)
@@ -54,12 +54,12 @@ Une Porter est comme une Imperial Stout moins intense. On peut les comparer aux 
 
 ## White Stout ☕
 
-Je considère que cette bière blonde a plus de ressemblances aux Stout que les bières [crisp and clean](). Voilà pourquoi elle est dans cette catégorie.
+Je considère que cette bière blonde a plus de ressemblances aux bières noires qu'au bières [blondes](blondes.md). Voilà pourquoi elle est dans cette catégorie.
 
 * Description
   * goût de café, de vanille, de lait et de chocolat au lait
   * texture légère
-  * amertume modérée à élévée
+  * amertume modérée à forte
 * Quoi acheter ?
   * Stout Blanc (Oshlag)
 
@@ -70,14 +70,14 @@ Je considère que cette bière blonde a plus de ressemblances aux Stout que les 
   * texture variable
   * amertume variable
 * Quoi acheter ?
-  * n'importe quoi qui est disponible haha, c'est rare ce type de bières, mais c'est siii bon !
+  * n'importe laquelle qui est disponible haha, c'est rare ce type de bières, mais c'est siii bon !
 
 ## Foreign/Exported Stout 🛬
 
 * Description
   * goût de malts rôtis, de chocolat noir, de café amer et de caramel brûlé
   * notes fumées
-  * amertume élévée
+  * amertume forte
 * Quoi acheter ?
   * FES (Siboire)
   * Duplessis (La Fabrique)
@@ -86,9 +86,9 @@ Je considère que cette bière blonde a plus de ressemblances aux Stout que les 
 
 * Description
   * goût de chocolat noir et de café
-  * finale très sèche et dark
+  * finale [très sèche et dark](decrire.md)
   * texture crémeuse
-  * amertume modérée à élévée
+  * amertume modérée à forte
 * Quoi acheter ?
   * Guiness
 
@@ -97,8 +97,8 @@ Je considère que cette bière blonde a plus de ressemblances aux Stout que les 
 * Description
   * goût de malt rôti, de caramel et de pain grillé
   * notes de chocolat de café
-  * finale sèche et dark
-  * amertume modérée à élévée
+  * finale [sèche et dark](decrire.md)
+  * amertume modérée à forte
 * Quoi acheter ?
   * Nuit de Prague (Vrooden)
 
@@ -106,7 +106,7 @@ Je considère que cette bière blonde a plus de ressemblances aux Stout que les 
 
 * Description
   * goût de malts rôtis, de sucre d'orge et de mélasse
-  * finale extra dark
-  * amertume élévée
+  * finale extra [dark](decrire.md)
+  * amertume forte
 * Quoi acheter ?
   * Doppelbock (LTM)

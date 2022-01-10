@@ -8,7 +8,7 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
 
 * Auval
   * C'est la meilleure brasserie du Québec ! Tous leurs produits sont exceptionnels et leur Espinnay est très très populaire dans les [échanges](echanges.md).
-* 3 Fonteinen, Tilquin et Cantillon
+* Guezerie Tilquin, 3 Fonteinen et Cantillon
   * D'excellentes brasseries européennes qui ont des fois des produits à la SAQ ou chez de gros détaillants. Ces produits sont si rares qu'il y a des concours pour gagner la chance de les acheter !
 * Small Pony Barrel Works
   * Une brasserie ontarienne qui se spécialise dans des bières **très acides**. Leurs produits sont extraordinaires si vous pouvez supporter l'acidité !
@@ -35,11 +35,11 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
   * texture entre celle des Lager commerciales (par exemple) et celle des Smoothie Beer
   * amertume très faible
 * Quoi acheter ?
-  * n'importe quoi de Auval
-  * n'importe quoi de Bas-Canada
+  * n'importe laquelle de Auval
+  * n'importe laquelle de Bas-Canada
   * Gigafruits Raptor (La Barberie)
   * Megafruits Raptor (La Barberie)
-  * n'importe quoi d'Emporium
+  * n'importe laquelle d'Emporium
   * Fructus (Le Castor)
     * assez funky, ne pas juste boire celle-ci
   * Mango Jelly (OverHop)
@@ -54,7 +54,7 @@ Plusieurs bières sont difficiles à trouver parce que soi les brasseries ne ven
   * légère et rafraîchissante
   * amertume très faible
 * Quoi acheter ?
-  * n'importe quoi de Pit Caribou
+  * n'importe laquelle de Pit Caribou
   * Solstice d'été (Dieu du Ciel)
   * Camerise (Menaud) 
   * Limoilou Beach (La Souche)
@@ -74,7 +74,7 @@ Il y a énormément de différences entre les bières sûres: leur texture, leur
 * Description
   * goût de griottes et de canneberges
   * sûre
-  * [brettée]() et boisée
+  * [brettée](decrire.md) et boisée
 * Quoi acheter ?
   * Saison Brett (LTM)
 
@@ -87,9 +87,8 @@ Il y a énormément de différences entre les bières sûres: leur texture, leur
 * Quoi acheter ?
   * Ceci n'est pas une Gueuze (LTM)
   * Gueuze (3 Fonteinen)
-  * n'importe laquelle de Cantillon
     * il y a des bouteilles de 375mL à 18$ et des 750mL à 56$, je vous conseille d'essayer d'autres Gueuzes avant de boire celles-ci ! Celle de LTM est très bien faite par exemple !
-
+  * n'importe laquelle de Cantillon
 ## Flander's Red Ale 🍷
 
 Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
@@ -121,7 +120,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 
 * Description
   * goût de cerises
-  * acide et sèche
+  * acide et [sèche](decrire.md)
 * Quoi acheter ?
   * Oude Kriek (3 Fonteinen)
 
@@ -139,7 +138,7 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
 
 * Description
   * goût fruité
-  * acide, légère et sèche
+  * acide, légère et [sèche](decrire.md)
   * si la bière est jeune elle goûtera plus le houblon, plus elle vieillit, plus elle goûtera boisé
 * Quoi acheter ?
   * L'Exorciste (Dieu du Ciel)
@@ -216,9 +215,9 @@ Excellente bière pour initier les amateurs de vin rouge à la microbrasserie
   * goût de sarrasin et de bois
   * bière légère
 * Quoi acheter ?
-  * n'importe quoi de Robin
-  * n'importe quoi de Auval
-  * n'importe quoi de Dunham
+  * n'importe laquelle de Robin
+  * n'importe laquelle de Auval
+  * n'importe laquelle de Dunham
   * Saison de Table (LTM)
 
 ## Flanders Oud Bruin

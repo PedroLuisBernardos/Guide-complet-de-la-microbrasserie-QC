@@ -10,7 +10,7 @@ Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgia
   * goût de noisettes, de pain, de céréales et de caramel
   * notes de chocolat, de cendres, de café et de cassonade
   * texture mi-crémeuse
-  * amertume modérée à élévée
+  * amertume modérée à forte
 * Quoi acheter ?
   * Double Hazel (Vox Populi)
     * difficile à trouver
@@ -23,64 +23,20 @@ Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgia
 
 * Description
   * goût de céréales rôties, de caramel et d'alcool fort
-  * finale dark
-  * amertume élévée
+  * finale [dark](decrire.md)
+  * amertume forte
 * Quoi acheter ?
   * Solstice d'hiver (Dieu du Ciel)
   * Barleywine Américain (Pit Caribou)
   * Monarque - Vin d'orge obscur (8e Péché)
     * a un goût de chocolat et de cacao plus prononcé
 
-## Weizenbock
-
-* Description
-  * goût de caramel, de céréales rôties, d'alcool fort et de banane
-  * finale douce et dark
-  * amertume élévée
-* Quoi acheter ?
-  * Weizenbock (LTM)
-
-## Old Ale
-
-* Description
-  * goût de malt rôti, de caramel, de sucre d'orge et d'alcool fort intense
-  * sèche
-  * amertume élévée
-* Quoi acheter ?
-  * Old Ale (Le Castor)
-
-## Belgian Dubbel 🍌🇧🇪
-
-* Description
-  * goûts de banane, de caramel et de malts grillés
-  * réglisse noire et petits fruits séchés, sucre d'orge et  épices
-  * notes de noix, d'anis étoilé et de biscuit
-  * levures belges bien présentes
-  * douce et crémeuse
-  * finale dark
-  * amertume modérée à élévée
-* Quoi acheter ?
-  * Dominus  Vobiscum Double (Charlevoix)
-  * Maudite (Unibroue)
-
-## Quadruple belge
-
-* Description
-  * goût de malt rôti, de caramel et d'alcool fort
-  * bière riche aux goûts de levures belges bien prononcés
-  * finale dark
-  * amertume élévée
-* Quoi acheter ?
-  * Rigor Mortis (Dieu du Ciel)
-  * Abt 12 (St. Bernardus)
-    * SAQ
-
 ## Scotch Ale/Wee Heavy
 
 * Description
   * goût de caramel, de fruits confits et d'alcool fort
   * tourbée
-  * amertume élévée
+  * amertume forte
 * Quoi acheter ?
   * Scotch Ale Reserve (Simple Malt)
   * Mackroken Flower Grande Réserve (Le Bilboquet)
@@ -96,3 +52,47 @@ Plusieurs versions sont disponibles: Brittish, American, Imperial Double, Belgia
   * amertume élevée
 * Quoi acheter ?
   * Raftman (Unibroue)
+
+## Weizenbock
+
+* Description
+  * goût de caramel, de céréales rôties, d'alcool fort et de banane
+  * finale douce et [dark](decrire.md)
+  * amertume forte
+* Quoi acheter ?
+  * Weizenbock (LTM)
+
+## Belgian Dubbel 🍌🇧🇪
+
+* Description
+  * goûts de banane, de caramel et de malts grillés
+  * réglisse noire et petits fruits séchés, sucre d'orge et  épices
+  * notes de noix, d'anis étoilé et de biscuit
+  * [levures belges](decrire.md) bien présentes
+  * douce et crémeuse
+  * finale [dark](decrire.md)
+  * amertume modérée à forte
+* Quoi acheter ?
+  * Dominus  Vobiscum Double (Charlevoix)
+  * Maudite (Unibroue)
+
+## Quadruple belge
+
+* Description
+  * goût de malt rôti, de caramel et d'alcool fort
+  * bière riche aux goûts de [levures belges](decrire.md) bien prononcés
+  * finale [dark](decrire.md)
+  * amertume forte
+* Quoi acheter ?
+  * Rigor Mortis (Dieu du Ciel)
+  * Abt 12 (St. Bernardus)
+    * SAQ
+
+## Old Ale
+
+* Description
+  * goût de malt rôti, de caramel, de sucre d'orge et d'alcool fort intense
+  * [sèche](decrire.md)
+  * amertume forte
+* Quoi acheter ?
+  * Old Ale (Le Castor)
