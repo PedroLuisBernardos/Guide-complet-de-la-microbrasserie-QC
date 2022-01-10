@@ -303,6 +303,8 @@ Et de façon optionnelle:
     * So42- 39ppm
     * HCO3- 62 ppm
 
+8L d'eau pour le mash, et 4L pour le rinçage
+
 60min de houblonnage
 
 21 jours de fermentation avec 1/3 du sachet (mettez 1/2 si vous ne faites pas de starter)
