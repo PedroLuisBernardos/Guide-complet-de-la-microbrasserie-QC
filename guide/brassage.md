@@ -26,12 +26,13 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 
 ### D'autres outils importants
 
-* une marmite de 14L au minimum (j'ignore le prix, mes parents m'ont donné la leur)
+* une marmite de 15L au minimum ([45$](https://www.canadiantire.ca/fr/pdp/marmite-h2k-en-acier-inoxydable-18-10-allant-au-lave-vaisselle-et-au-four-0423620p.html#srp))
 * un push-push
-* une balance numérique
+* une balance numérique (max 30$ sur Amazon)
 * irish moss (200g c'est 1$)
 * un fourquet (une cuillère en bois de brassage, mais une régulière marche aussi)
-* une passoire
+* un tamis
+* un grosentonoir
 
 ### Matériel optionnel
 
@@ -61,7 +62,13 @@ Ne pas utiliser l'eau du robinet directement sauf si vous utilisez un filtre (Br
 
 ### Profil d'eau
 
-Le profil d'eau est #TODO
+Le profil d'eau décrit la chimie de l'eau nécessaire pour la brassée : son pH et ses components.
+
+Normalement, quand vous achetez une bouteille d'eau vous avez une étiquette du genre:
+
+*note: assurez vous d'avoir le pH, c'est pas toujours indiqué. Si c'est vôtre cas, vous devrez contacter la compagnie d'eau.*
+
+Pour faire une recette de bière, vous devez utiliser un profil d'eau selon le style de bière que vous faites (faites une recherche sur Internet ou demandez dans des forums spécialisés). Une fois vous avez votre profil d'eau visé, et votre profil d'eau initial, vous devez utiliser un calculateur pour voir quelles composantes il faut ajouter à votre eau. J'en ai essayé plusieurs sur Internet, mais celui qui m'a semblé le plus facile est [BrewFather]().
 
 ### Étape 1: empâtage 🌾
 
