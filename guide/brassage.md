@@ -147,13 +147,13 @@ Vous pouvez avoir un coton de fromage pour vos houblons, mais personnellement: *
 
 Ne mettez pas le couvercle et surtout: surveiller la quantité d'eau.
 
-### Whirlpool 🌪️
+#### Whirlpool 🌪️
 
 Certaines recettes demandent un *whirlpool*. Si c'est votre cas, à la fin de l'ébullition, fermez le feu et baissez la température à 60°C (140°F). Avec une cuillère en bois désinfectée, tournez énergiquement le moût durant 2 minutes. Laissez-le tourner durant 10 minutes.
 
 Transvaser le moût dans un autre récipient à l'aide d'un autosiphon ou le robinet du chaudron. Ne pas toucher le centre du tourbillon!
 
-### Refroidissement 🥶
+### Étape 3: refroidissement 🥶
 
 Vous devez le faire le plus rapidement possible ! Atteindre la température d'activation de la levure (écrite sur le sachet). En général, pour une fermentation basse c'est entre 23°C et 27°C et pour une fermentation haute entre 27°C et 30°C.
 
@@ -163,7 +163,7 @@ Personnellement, je bouche mon évier, je place de la neige (que je prends dehor
 
 Placez une passoire au-dessus de votre fermenteur et transvidez le contenu de la marmite: attention de ne pas prendre les résidus dans le fond ! N'ayez pas peur d'oxygéner votre bière: les levures veulent avoir de l'O2 !
 
-### Levurage
+### Étape 4: levurage
 
 Mesurer la densité avant le levurage avec un densimètre: personnellement je ne me casse jamais la tête et je ne le fais pas haha.
 
@@ -177,15 +177,15 @@ Si la levure est liquide, il faudra l'activer (vu qu'il y a moins de micro-organ
 
 Pour ne pas causer de choc thermique avec les levures: mettre les levures à température pièce avant de la mettre (sortez-la du frigo au début du brassage) dans le fermenteur.
 
-### Réhydratation
+#### Réhydratation
 
 Bien lire les instructions dans le sachet des levures. Certains sacs vous diront de faire une réhydratation. Pour le faire, faites bouillir 10x le volume des levures durant 15 minutes et versez-les dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau jusqu'à la bonne température: fermentation basse entre 21°C et 25°C, fermentation haute entre 25°C et 29°C. Ensuite, diluer 10x le volume des levures dans de l'eau, bien remuer, la laisser fondre pendant 30 minutes.
 
-### Levain/Starter
+#### Levain/Starter
 
 À faire le matin ou la veille du brassage. Placez 2 doses d'eau (ou un ancien moût) pour une demi-dose de sucre ou de malt. Ensuite, mettez vos levures dedans pour qu'elles soient prêtes pour le travail !
 
-### Fermentation
+### Étape 5: frmentation
 
 #### Primaire
 
@@ -203,7 +203,7 @@ Il est préférable de transvaser le moût dans une seconde cuvée (éviter de r
 
 Lorsque le barboteur ne bouge plus, faire un test de densité. 24h après, en refaire un autre. Si la densité est stable, passer au *cold crash* ou à l'embouteillage. Vu que je n'utilise pas de densimètre, je laisse la bière fermenter comme 3 à 5 jours de plus pour être sûr que la fermentation est finie. Ça m'est déjà arrivé de la laisse plus qu'une semaine et le résultat était tout aussi bon !
 
-### Dry hop ou ajout de fruits/épices/...
+#### Dry hop ou ajout de fruits/épices/...
 
 À mettre pendant la fermentation active. Donc, pendant le high kraüsen (grosse mousse brunâtre, environ 2" d'épaisseur).
 
@@ -211,11 +211,11 @@ Stériliser les ajouts qu'on fait: avec du Star San (1.6mL par 1L), à l'eau bou
 
 Laisser de 5 à 14 jours selon la recette. Idéalement, ne mettez pas ces ajouts dans un coton de fromage: évitons les bactéries.
 
-### Cold Crash / Mise à froid du houblon
+#### Cold Crash / Mise à froid du houblon
 
 Cette étape est optionnelle. Afin de clarifier la bière, mettre le fermenteur dans la pièce la plus froide possible sans le geler pendant 12h à 48h.
 
-### Sucrage
+#### Sucrage
 
 Vous devez ajouter du sucre pour déclencher la deuxième fermentation: celle-ci ajoutera les bulles à votre bière. Sinon, elle sera flatte.
 
@@ -223,7 +223,7 @@ Les quantités sont à peu près 5g à 8g de dextrose (ou de sucre blanc) par li
 
 Délayer le sucre dans un bol d'eau bouillante, le mettre dans le fermenteur et brasser très lentement pour éviter d'oxygéner la bière.
 
-### Embouteillage
+### Étape 6: Embouteillage
 
 **Tout laver et tout stériliser !**
 
@@ -231,13 +231,13 @@ Transvidez le contenu du fermenteur dans vos bouteilles sans trop oxygéner la b
 
 *conseil: mettez le fermenteur au-dessus des bouteilles pour faire couler la bière par gravité.*
 
-### Température ambiante / Prise de mousse
+#### Température ambiante / Prise de mousse
 
 Gardez vos bières debout, à température ambiante (autour de 21°C) durant 14 à 21 jours dans une pièce sombre.
 
 Goûtez à une bière après deux semaines, et attendez une semaine de plus pour que vous voyiez à quel point ce sera meilleur ! Après 3 semaines ça devrait être prêt à être bu !
 
-### Conservation
+#### Conservation
 
 Les pils et les bières légères se gardent au plus 6 mois.
 
@@ -255,7 +255,7 @@ Nettoyez avec du PBW à l'eau chaude. Rincer à l'eau froide. Ensuite, mettre le
 
 Si jamais vos grains, vos houblons ou vos levures ne sont pas en stock, demandez à votre magasin de brassage par quoi les remplacer (ou faites une recherche rapide sur Internet).
 
-## Vôtre première brassée
+## Vôtre première brassée 🍺
 
 *Merci à Samuel Moreau pour la recette !*
 
@@ -274,7 +274,7 @@ Vous allez avoir besoin de:
 Et de façon optionnelle:
 
 * 1 cuillère de thé de irish moss (10min)
-* Les ingrédients nécessaires pour la qualité de l'eau
+* Et pour la qualité de l'eau:
     * pH 5.2
     * Ca2+ 15ppm
     * Mg2+ 17ppm
