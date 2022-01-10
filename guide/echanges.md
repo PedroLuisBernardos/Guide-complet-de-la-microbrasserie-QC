@@ -6,7 +6,7 @@ Plusieurs produits sont rares lorsque vous les cherchez à l'extérieur de certa
 
 Moi j'habite à Montréal et je n’ai pas d'auto haha donc je ne sais pas exactement qu'est-ce qui se vend ailleurs.
 
-Je vous conseille aussi de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés ! Le groupe <a href="www.facebook.com/groups/258612807916349" target="_blank">Actualités du milieu brassicole Qc</a> a beaucoup d'info ! Vous allez être à jour et saurez quelles nouvelles bières seront en magasin bientôt !
+Je vous conseille aussi de suivre les nouvelles de vos détaillants de bière (les magasins), de vos brasseries préférées et de la SAQ pour savoir des nouveautés ! Le groupe <a href="https://www.facebook.com/groups/258612807916349" target="_blank">Actualités du milieu brassicole Qc</a> a beaucoup d'info ! Vous allez être à jour et saurez quelles nouvelles bières seront en magasin bientôt !
 
 ## Bières importées
 
