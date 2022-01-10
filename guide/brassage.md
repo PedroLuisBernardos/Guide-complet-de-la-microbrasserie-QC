@@ -311,7 +311,7 @@ Et de façon optionnelle:
     * So42- 39ppm
     * HCO3- 62 ppm
 
-7.5L d'eau pour le mash, et 2.5L pour le rinçage
+7.5L d'eau pour le mash, et 2.5L pour le rinçage (ou 10L pour le mash uniquement)
 
 60min de houblonnage
 
