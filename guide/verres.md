@@ -6,7 +6,7 @@ Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vou
 
 ## Où les acheter ?
 
-Normalement les verres se vendent entre 8\$ et 20\$ chez les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple <a href="https://vinumdesign.com" target="_blank">Vinum</a>, ou <a href="https://www.tzanet.com/" target="_blank">Tzanet</a>. Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là ! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux ! Il y a aussi des groupes de trade sur Facebook:
+Normalement les verres se vendent entre 8\$ et 20\$ chez les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple <a href="https://vinumdesign.com" target="_blank">Vinum</a> ou <a href="https://www.tzanet.com/" target="_blank">Tzanet</a>. Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là ! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux ! Il y a aussi des groupes de trade sur Facebook:
 * <a href="https://www.facebook.com/groups/1696716747102786" target="_blank">Collectionneurs De Verres De Bière Du Québec</a>
 * <a href="https://www.facebook.com/groups/1598609583741693" target="_blank">Echange Verre de Bière du Québec</a>
 
