@@ -71,6 +71,6 @@ Une bière peut être amère, sucrée, épicée, fruitée, houblonnée, crisp, l
 
 ### Crédits:
 
-* [winning-homebrew](https://winning-homebrew.com/beer-flavor-descriptors.html)
-* [vinepair](https://vinepair.com/articles/flavors-aromas-craft-beer-hops-ipa/)
-* [dummies](https://www.dummies.com/food-drink/drinks/beer/beer-for-dummies-cheat-sheet/)
+* <a href="https://winning-homebrew.com/beer-flavor-descriptors.html" target="_blank">winning-homebrew</a>
+* <a href="https://vinepair.com/articles/flavors-aromas-craft-beer-hops-ipa/" target="_blank">vinepair</a>
+* <a href="https://www.dummies.com/food-drink/drinks/beer/beer-for-dummies-cheat-sheet/" target="_blank">dummies</a>

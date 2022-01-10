@@ -57,13 +57,13 @@ Je vous conseille d'installer ces deux applications dans votre téléphone.
 
 Pour trouver les profils de goûts et le *rating* de pas mal toutes les bières au monde ! Ça vous permet aussi de vous faire des listes avec les bières: wishlist, my best list, etc.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.untappdllc.app), [Appstore](https://apps.apple.com/ca/app/untappd-discover-beer/id449141888)
+<a href="https://play.google.com/store/apps/details?id=com.untappdllc.app" target="_blank">Google Play</a>, <a href="https://apps.apple.com/ca/app/untappd-discover-beer/id449141888" target="_blank">Appstore</a>
 
 #### Birre & Co.
 
 Pour gagner de l'argent en buvant ! À peu près, à chaque 200\$ vous gagnez 20\$.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.birreco), [Appstore](https://apps.apple.com/ca/app/birre-co-the-beer-app/id1245788713)
+<a href="https://play.google.com/store/apps/details?id=com.birreco" target="_blank">Google Play</a>, <a href="https://apps.apple.com/ca/app/birre-co-the-beer-app/id1245788713" target="_blank">Appstore</a>
 
 ### Pourquoi j'ai séparé les bières par couleur ?
 
@@ -74,7 +74,7 @@ Vous avez différents choix: du moins amer au plus amer, de la plus pâle à la 
 
 ### Comment servir ?
 
-Je vous recommande de regarder [des vidéos](https://www.youtube.com/results?search_query=comment+verser+de+la+biere), c'est la meilleure façon d'apprendre !
+Je vous recommande de regarder <a href="https://www.youtube.com/results?search_query=comment+verser+de+la+biere" target="_blank">des vidéos</a>, c'est la meilleure façon d'apprendre !
 
 ### Conservation et garde
 
@@ -82,5 +82,5 @@ D'habitude vous conservez vos bières au frigo à la verticale. Idéalement vous
 
 ## Contact
 
-[![Facebook](/assets/img/facebook.png)](https://www.facebook.com/pedro2163/)
-[![Untappd](/assets/img/untappd.png)](https://untappd.com/user/Pedro2163)
+<a href="https://www.facebook.com/pedro2163/" target="_blank"><img src="assets/img/facebook.png" alt="Facebook"/></a>
+<a href="https://untappd.com/user/Pedro2163" target="_blank"><img src="assets/img/untappd.png" alt="Untappd"/></a>

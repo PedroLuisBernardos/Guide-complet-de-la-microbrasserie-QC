@@ -199,6 +199,6 @@ Peut aussi être [brune](brunes.md)
 
 ### Crédits
 
-* [Justbeerapp - Crisp and Clean](https://justbeerapp.com/article/beer-profiles-crisp-and-clean)
-* [Untappd - Maibock](https://untappd.com/b/les-trois-mousquetaires-maibock/32554)
-* [Untappd - Kellerbier](https://untappd.com/b/brasserie-harricana-16-kellerbier/1823808)
+* <a href="https://justbeerapp.com/article/beer-profiles-crisp-and-clean" target="_blank">Justbeerapp - Crisp and Clean</a>
+* <a href="https://untappd.com/b/les-trois-mousquetaires-maibock/32554" target="_blank">Untappd - Maibock</a>
+* <a href="https://untappd.com/b/brasserie-harricana-16-kellerbier/1823808" target="_blank">Untappd - Kellerbier</a>

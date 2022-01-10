@@ -2,13 +2,13 @@
 
 # Verres
 
-Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur [ce guide-ci](https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass), je le trouve excellent !
+Pour les meilleurs verres à utiliser pour chaque style je vous conseille de vous baser sur <a href="https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass" target="_blank">ce guide-ci</a>, je le trouve excellent !
 
 ## Où les acheter ?
 
-Normalement les verres se vendent entre 8\$ et 20\$ chez les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple [Vinum](https://vinumdesign.com), ou [Tzanet](https://www.tzanet.com/). Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là ! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux ! Il y a aussi des groupes de trade sur Facebook: 
-* [Collectionneurs De Verres De Bière Du Québec](https://www.facebook.com/groups/1696716747102786)
-* [Echange Verre de Bière du Québec](https://www.facebook.com/groups/1598609583741693).
+Normalement les verres se vendent entre 8\$ et 20\$ chez les détaillants de bière ou les brasseries. Il y a aussi des magasins qui en vendent, par exemple <a href="https://vinumdesign.com" target="_blank">Vinum</a>, ou <a href="https://www.tzanet.com/" target="_blank">Tzanet</a>. Personnellement, je suis allé chez *Renaissance* et j'ai tout acheté là ! C'est 0.50$ le verre à peu près, et vous pourriez trouver des petits bijoux ! Il y a aussi des groupes de trade sur Facebook:
+* <a href="https://www.facebook.com/groups/1696716747102786" target="_blank">Collectionneurs De Verres De Bière Du Québec</a>
+* <a href="https://www.facebook.com/groups/1598609583741693" target="_blank">Echange Verre de Bière du Québec</a>
 
 ## Quel verre avoir ?
 
@@ -35,7 +35,7 @@ Si vous voulez y aller un petit peu plus loin, voici les 4 verres à avoir à mo
 
 ### 💰💰💰 gros budget
 
-Si vous voulez avoir pas mal tous les verres [basez-vous sur ce guide-ci](https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass) pour savoir lequel utiliser:
+Si vous voulez avoir pas mal tous les verres <a href="https://justbeerapp.com/article/glassware-guide-which-beer-styles-should-be-served-in-what-glass" target="_blank">basez-vous sur ce guide-ci</a> pour savoir lequel utiliser:
 
 <img src="../assets/img/verres.png" alt="Liste de verres" width="75%">
 

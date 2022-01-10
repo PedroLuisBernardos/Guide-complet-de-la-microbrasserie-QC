@@ -187,5 +187,5 @@ Mélange entre les blanches Belges et les IPA Américaines.
 
 ### Crédits
 
-* [Untappd](https://untp.beer/vmMQ8)
-* [Untappd](https://untp.beer/bc0e055632)
+* <a href="https://untp.beer/vmMQ8" target="_blank">Untappd - IPA Brut</a>
+* <a href="https://untp.beer/bc0e055632" target="_blank">Untappd - IPA Brut</a>

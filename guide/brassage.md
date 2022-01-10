@@ -6,7 +6,7 @@
 
 Je vous propose ci-dessous une liste de matériel de base pour que vous ne dépensiez pas plus que 200$ ! Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place, ou en achetant des bonus comme par exemple un refroidisseur en cuivre, mais mon but est de vous montrer comment je le fais chez moi.
 
-Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/) c'est où le magasin de brassage le plus proche d'où vous êtes. Ensuite, mettez-vous en contact avec ce magasin et demandez-leur de vous sortir le matériel qu'il vous manque dans cette liste:
+Je vous recommande de demander dans <a href="https://github.com/orderedlist" target="_blank"></a> [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/) c'est où le magasin de brassage le plus proche d'où vous êtes. Ensuite, mettez-vous en contact avec ce magasin et demandez-leur de vous sortir le matériel qu'il vous manque dans cette liste:
 
 ### Chez votre magasin de brassage
 
@@ -26,7 +26,7 @@ Je vous recommande de demander dans [Nanobrasseur](https://www.facebook.com/grou
 
 ### D'autres outils importants
 
-* une marmite de 15L au minimum ([45$](https://www.canadiantire.ca/fr/pdp/marmite-h2k-en-acier-inoxydable-18-10-allant-au-lave-vaisselle-et-au-four-0423620p.html#srp))
+* une marmite de 15L au minimum ([45$](https://www.canadiantire.ca/fr/pdp/marmite-h2k-en-acier-inoxydable-18-10-allant-au-lave-vaisselle-et-au-four-0423620p.html#srp) <a href="https://github.com/orderedlist" target="_blank"></a>)
 * un push-push
 * une balance numérique (max 30$ sur Amazon)
 * irish moss (200g c'est 1$)
@@ -291,6 +291,6 @@ Et de façon optionnelle:
 
 ## Sources d'information
 
-* [Nanobrasseur](https://www.facebook.com/groups/nanobrasseur/){:target="_blank"}
-* [Bazar du brasseur](https://www.facebook.com/groups/808588615953404/){:target="_blank"}
-* [Le Brasseur](https://www.youtube.com/channel/UCmpJeQfzcD2A5HyEmBG-tbg){:target="_blank"}
+* <a href="https://www.facebook.com/groups/nanobrasseur/" target="_blank">Nanobrasseur</a>
+* <a href="https://www.facebook.com/groups/808588615953404/" target="_blank">Bazar du brasseur</a>
+* <a href="https://www.youtube.com/channel/UCmpJeQfzcD2A5HyEmBG-tbg" target="_blank">Le Brasseur</a>
