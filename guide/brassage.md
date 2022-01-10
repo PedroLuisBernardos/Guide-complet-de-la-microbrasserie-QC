@@ -4,7 +4,7 @@
 
 ## Matériel
 
-Je vous propose ci-dessous une liste de matériel de base pour que vous ne dépensiez pas plus que **200$** pour votre première brassée ! Vous avez peut-être même déjà du matériel chez vous, qui sait :) Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place comme le Grainfather, ou en achetant des bonus comme par exemple un refroidisseur, mais mon but est de vous initier à ce domaine sans que ça vous coûte trop cher.
+Je vous propose ci-dessous une liste de matériel de base pour que vous ne dépensiez pas plus que **200$** pour votre première brassée ! Vous avez peut-être même déjà du matériel chez vous, qui sait :) Vous pouvez certainement augmenter votre budget en achetant des machines qui font tout à votre place comme le Grainfather, ou en achetant des bonus comme un refroidisseur, mais mon but est de vous initier à ce domaine sans que ça vous coûte trop cher.
 
 Je vous recommande de demander dans <a href="https://www.facebook.com/groups/nanobrasseur/" target="_blank">Nanobrasseur</a> c'est où le magasin de brassage le plus proche de chez vous. Ensuite, mettez-vous en contact avec ce magasin et demandez-leur de vous sortir le matériel qu'il vous manque dans cette liste:
 
@@ -36,8 +36,8 @@ Tous mes prix sont basés sur <a href="https://www.moutinternational.com" target
 * un tamis
 * un fourquet
   * une cuillère en bois de brassage, mais une régulière marche aussi
-* un gros entonoir solide
-  * moi j'en ai pas, j'utilise le petit que j'ai dans ma cuisine mais il faudrait que je m'en achete un plus gros, et en plastique haha
+* un gros entonnoir solide
+  * moi je n’en ai pas, j'utilise le petit que j'ai dans ma cuisine, mais il faudrait que je m'en achète un plus gros, et en plastique haha
 * des bouteilles de bière qui marchent avec vos capsules
 
 ### Matériel optionnel
@@ -66,7 +66,7 @@ Tous mes prix sont basés sur <a href="https://www.moutinternational.com" target
 
 ### Matériel bonus
 
-Je n'ai pas ce matériel mais ça pourraît être un bel ajout:
+Je n'ai pas ce matériel, mais ça pourrait être un bel ajout:
 
 * un refroidisseur
   * demandez sur Nanobrasseur pour voir si vous pouvez l'acheter usagé !
@@ -74,17 +74,17 @@ Je n'ai pas ce matériel mais ça pourraît être un bel ajout:
 
 ## Commençons...
 
-Je ne vais pas m'approfondir dans la théorie; je ne cherche pas à vous faire perdre votre temps. Mon but est que vous puissiez faire votre première brassée ASAP, et si vous avez eu vôtre piqure que vous recherchiez plus d'informations par la suite. Je vais principalement aborder les grosses lignes et vous donner plusieurs trucs.
+Je ne vais pas m'approfondir dans la théorie; je ne cherche pas à vous faire perdre votre temps. Mon but est que vous puissiez faire votre première brassée ASAP, et si vous avez eu votre piqure que vous recherchiez plus d'informations par la suite. Je vais principalement aborder les grosses lignes et vous donner plusieurs trucs.
 
 ### Étape 0: calculer le profil d'eau
 
-Le profil d'eau décrit la chimie de l'eau nécessaire pour la brassée: son pH et ses components.
+Le profil d'eau décrit la chimie de l'eau nécessaire pour la brassée: son pH et ses composants.
 
-Normalement, quand vous achetez une bouteille d'eau vous avez une étiquette du genre:
+Normalement, quand vous achetez une bouteille d'eau, vous avez une étiquette du genre:
 
-*note: assurez vous d'avoir le pH, c'est pas toujours indiqué. Si c'est vôtre cas, vous devrez contacter la compagnie d'eau.*
+*note: assurez-vous d'avoir le pH, ce n’est pas toujours indiqué. Si c'est votre cas, vous devrez contacter la compagnie d'eau.*
 
-Pour faire une recette de bière, vous devez utiliser un profil d'eau selon le style de bière que vous faites (faites une recherche sur Internet ou demandez dans des forums spécialisés pour savoir quel profil d'eau utiliser). Une fois vous avez votre profil d'eau visé, et votre profil d'eau initial, vous devez utiliser un calculateur pour voir quelles composantes vous devez ajouter à vôtre eau. J'en ai essayé plusieurs sur Internet, mais celui qui m'a semblé le plus facile est <a href="https://brewfather.app/" target="_blank">Brewfather</a> (aussi disponible chez <a href="https://play.google.com/store/apps/details?id=com.warpkode.brewfather&hl=en_US&gl=US" target="_blank">Google Play</a> et <a href="https://apps.apple.com/us/app/brewfather/id1488585822" target="_blank">Appstore</a>).
+Pour faire une recette de bière, vous devez utiliser un profil d'eau selon le style de bière que vous faites (faites une recherche sur Internet ou demandez dans des forums spécialisés pour savoir quel profil d'eau utiliser). Une fois vous avez votre profil d'eau visé, et votre profil d'eau initial, vous devez utiliser un calculateur pour voir quelles composantes vous devez ajouter à votre eau. J'en ai essayé plusieurs sur Internet, mais celui qui m'a semblé le plus facile est <a href="https://brewfather.app/" target="_blank">Brewfather</a> (aussi disponible chez <a href="https://play.google.com/store/apps/details?id=com.warpkode.brewfather&hl=en_US&gl=US" target="_blank">Google Play</a> et <a href="https://apps.apple.com/us/app/brewfather/id1488585822" target="_blank">Appstore</a>).
 
 #### Eau 💧
 
@@ -117,13 +117,13 @@ Cette étape peut se faire de plusieurs façons, je vais vous en proposer deux:
     Mash-out:
         Chauffer jusqu'à 77°C ou 78°C, maintenir durant 10min.
 
-Premièrement, vous remplissez deux chaudrons d'eau selon les quantités nécessaires: l'un pour le mash et lautre pour le rinçage. *Optionnellement*, vous ajustez le profil de l'eau des deux chaudrons.
+Premièrement, vous remplissez deux chaudrons d'eau selon les quantités nécessaires: l'un pour le mash et l’autre pour le rinçage. *Optionnellement*, vous ajustez le profil de l'eau des deux chaudrons.
 
 Vous suivez ensuite l'une de deux *façons* proposées ci-haut.
 
 *Optionnellement*, avant le mash out, faites un test d'iode (expliqué ci-dessous) pour vérifier que le mash a terminé.
 
-Je vous conseille d'utiliser le **feu bas** en tout temps ! Utilisez le couvercle pour maintenir la température, et au besoin, tassez, remettez, retassez... du feu... Si la température diminue, placez la marmite sur le feu, puis allumez le rond autour d'une minute, ensuite ôtez la.
+Je vous conseille d'utiliser le **feu bas** en tout temps ! Utilisez le couvercle pour maintenir la température, et au besoin, tassez, remettez, retassez... du feu... Si la température diminue, placez la marmite sur le feu, puis allumez le rond autour d'une minute, ensuite ôtez-la.
 
 Brassez du bas vers le haut avec une cuillère de brassage stérilisée (une cuillère de bois fait l'affaire).
 
@@ -133,11 +133,11 @@ Essayez de garder une température toujours **constante** lors des étapes !
 
 #### Test d'iode
 
-**Avant le mash out**, prennez une cuillère du maische (l'eau qui a reçu les sucres des grains) et ajoutez deux ou trois goûtes d'iode. Si ça tourne rouge/orange c'est parce que l'empâtage est terminé. Si c'est violet/bleu c'est parce qu'il faut donner encore quelques minutes au mash in. Personnellement, j'oublie souvent de le faire ahaha.
+**Avant le mash out**, prenez une cuillère du maische (l'eau qui a reçu les sucres des grains) et ajoutez deux ou trois goûtes d'iode. Si ça tourne rouge/orange c'est parce que l'empâtage est terminé. Si c'est violet/bleu c'est parce qu'il faut donner encore quelques minutes au mash in. Personnellement, j'oublie souvent de le faire ahaha.
 
 #### Ratio eau/grains
 
-Je n'ai pas vraiment de formule magique à vous donner mais mettons, si jamais vous brassez pour 1kg de grains, et que le houblonnage dure 60min, je mettrais 7.5L d'eau pendants le mash et 2.5L pour le rinçage.
+Je n'ai pas vraiment de formule magique à vous donner, mais, mettons, si jamais vous brassez pour 1kg de grains, et que le houblonnage dure 60min, je mettrais 7.5L d'eau pendants le mash et 2.5L pour le rinçage.
 
 Vous allez voir que c'est dur de trouver des calculateurs simples sur le web. Je vous conseille d'y aller au pif et d'apprendre de vos erreurs: notez toutes les quantités après chaque brassée (et ajoutez des commentaires) ! Surveillez aussi la quantité d'eau qu'il vous reste après le mash, si vous n'avez pas assez mis d'eau, essayez de ne pas mettre à feu trop fort votre houblonnage, ou faites 45min au lieu de 60min par exemple.
 
@@ -147,11 +147,11 @@ On ne le fait pas vu qu'on fait du BIAB.
 
 #### Filtration et rinçage 🚿
 
-Chauffer environ 1/3 d'eau du volume total à 78°C dans une casserole appart. Par exemple, si vous avez 7.5L d'eau pour le mash, vous devez chauffer 2.5L d'eau pour le rinçage.
+Chauffer environ 1/3 d'eau du volume total à 78°C dans une autre casserole. Par exemple, si vous avez 7.5L d'eau pour le mash, vous devez chauffer 2.5L d'eau pour le rinçage.
 
-Sortez le sac de brassage de la grosse marmite et le tennez la au-dessus de la cuvée.
+Sortez le sac de brassage de la grosse marmite et le tenez la au-dessus de la cuvée.
 
-Rincez le sac avec l'eau de rinçae que vous avez chauffée (ne pas rincer trop vite).
+Rincez le sac avec l'eau de rinçage que vous avez chauffée (ne pas rincer trop vite).
 
 Vous **ne devez surtout pas** compresser les grains (ceci donnera un mauvais goût à la bière: ça ajoutera des tannins, ce goût astringent, présent dans le vin, qui touche l'intérieur des joues.)
 
@@ -159,7 +159,7 @@ Vous **ne devez surtout pas** compresser les grains (ceci donnera un mauvais go�
 
 Portez le maische à ébullition pendant le temps que dit la recette: normalement, entre 60min et 120min.
 
-Ajoutez les houblons comme le dit la recette. Par exemple, supposant que l'étape dure 60min, et qu'on doit ajouter le houblon A à 60min et le houblon B à 10min, ceci signifie qu'on ajoute A quand il restent 60min de temps et B quand il restent 10min au houblonnage.
+Ajoutez les houblons comme le dit la recette. Par exemple, supposant que l'étape dure 60min, et qu'on doit ajouter le houblon A à 60min et le houblon B à 10min, ceci signifie qu'on ajoute A quand il reste 60min de temps et B quand il reste 10min au houblonnage.
 
 *Optionnellement*, vous pouvez ajouter 1 c.c de Irish Moss à 10min.
 
@@ -183,7 +183,7 @@ Personnellement, je bouche mon évier et j'y place de la neige (que je prends de
 
 *optionnel: remplis 1L du moût pour le levain (serviront à activer de futures levures de futures brassées. Le but est d'habituer les levures à l'environnement où elles devront travailler), se conserve quelques jours au frais ou se congèle.*
 
-Placez une passoire au-dessus de votre fermenteur et transvidez le contenu de la marmite (vous pouvez mettre un entonoire sous la passoire pour vous aider): attention de ne pas prendre les résidus dans le fond ! N'ayez pas peur d'oxygéner votre bière: les levures veulent avoir de l'O2 pour survivre !
+Placez une passoire au-dessus de votre fermenteur et transvidez le contenu de la marmite (vous pouvez mettre un entonnoir sous la passoire pour vous aider): attention de ne pas prendre les résidus dans le fond ! N'ayez pas peur d'oxygéner votre bière: les levures veulent avoir de l'O2 pour survivre !
 
 Remplissez la moitié du barboteur d'un mélange d'eau et de Star San ou de Vodka.
 
@@ -203,13 +203,13 @@ Pour ne pas causer de choc thermique avec les levures: mettez les levures à tem
 
 #### Réhydratation
 
-Bien lire les instructions dans le sachet des levures. Certains sacs vous diront de faire une réhydratation. Pour le faire, faites bouillir 10x le volume des levures d'eau durant 15 minutes et versez-le dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau jusqu'à la bonne température: fermentation basse entre 21°C et 25°C, fermentation haute entre 26°C et 30°C. Ensuite, diluez les levures dans ce mélange, remuez bien, et laissez les se dissoudre pendant 30 minutes.
+Bien lire les instructions dans le sachet des levures. Certains sacs vous diront de faire une réhydratation. Pour le faire, faites bouillir 10x le volume des levures d'eau durant 15 minutes et versez-le dans un récipient (souvent un erlenmeyer) stérilisé. Laisser refroidir l'eau jusqu'à la bonne température: fermentation basse entre 21°C et 25°C, fermentation haute entre 26°C et 30°C. Ensuite, diluez les levures dans ce mélange, remuez bien, et laissez-les se dissoudre pendant 30 minutes.
 
 #### Levain/Starter
 
 À faire le matin ou la veille du brassage. Placez 2 doses d'eau (ou un ancien moût) pour une demi-dose de sucre ou de malt. Ensuite, mettez vos levures dedans pour qu'elles soient prêtes pour le travail !
 
-### Étape 5: frmentation
+### Étape 5: fermentation
 
 #### Primaire
 
@@ -217,7 +217,7 @@ Placez le fermenteur dans un endroit sombre entre 18°C et 25°C pour une ale (f
 
 #### Kraüsen
 
-N'ouvrez le fermenteur pendant le kraüsen (mousse brunâtre) sauf s'il y a des ajouts à faire. Cette étape dure de 5 à 7 jours.
+N'ouvrez pas le fermenteur pendant le kraüsen (mousse brunâtre) sauf s'il y a des ajouts à faire. Cette étape dure de 5 à 7 jours.
 
 #### Comment savoir si la fermentation fonctionne ?
 
@@ -235,9 +235,9 @@ Lorsque le barboteur ne bouge plus, faites un test de densité. 24h après, en r
 
 À mettre pendant la fermentation active. Donc, pendant le high kraüsen (grosse mousse brunâtre, environ 2" d'épaisseur).
 
-Stérilisez tous les ajouts avec vôtre push-push de Star San (1.6mL par 1L) ou avec de l'eau bouillante ou avec de la Vodka. Vous n'avez pas besoin de stériliser les houblons.
+Stérilisez tous les ajouts avec votre push-push de Star San (1.6mL par 1L) ou avec de l'eau bouillante ou avec de la Vodka. Vous n'avez pas besoin de stériliser les houblons.
 
-Laissez les de 5 à 14 jours selon la recette. Idéalement, ne mettez pas ces ajouts dans un coton de fromage: évitons les bactéries.
+Laissez-les de 5 à 14 jours selon la recette. Idéalement, ne mettez pas ces ajouts dans un coton de fromage: évitons les bactéries.
 
 #### Cold Crash / Mise à froid du houblon
 
@@ -249,7 +249,7 @@ Vous devez ajouter du sucre pour déclencher la deuxième fermentation: celle-ci
 
 Les quantités sont à peu près de 5g à 8g de dextrose (ou de sucre blanc) par litre.
 
-Délayez le sucre dans un bol d'eau bouillante, mettez le dans le fermenteur. Finalement, brassez très lentement pour éviter d'oxygéner la bière. Personnelement, je filtre le contenu de mon fermenteur dans ma marmite de brassage. Ensuite, je dépose le sucre dans la marmite, je brasse lentement, et finalement j'utilise mon autosiphon pour remplir mes bouteilles.
+Délayez le sucre dans un bol d'eau bouillante, mettez-le dans le fermenteur. Finalement, brassez très lentement pour éviter d'oxygéner la bière. Personnellement, je filtre le contenu de mon fermenteur dans ma marmite de brassage. Ensuite, je dépose le sucre dans la marmite, je brasse lentement, et finalement j'utilise mon autosiphon pour remplir mes bouteilles.
 
 ### Étape 6: Embouteillage
 
@@ -275,7 +275,7 @@ Les bières spéciales de type trappiste se gardent plusieurs décennies.
 
 ### Comment nettoyer
 
-Nettoyez avec du PBW à l'eau chaude. Rincez à l'eau froide. Ensuite, mettez le Star San, ajoutez de l'eau froide et frottez. Finalement, vous n'avez qu'à égoutter vôtre matériel (**ne le rincez pas**).
+Nettoyez avec du PBW à l'eau chaude. Rincez à l'eau froide. Ensuite, mettez le Star San, ajoutez de l'eau froide et frottez. Finalement, vous n'avez qu'à égoutter votre matériel (**ne le rincez pas**).
 
 *astuce: ayez un push-push avec du Star San dilué avec de l'eau. C'est super pratique !*
 
@@ -283,7 +283,7 @@ Nettoyez avec du PBW à l'eau chaude. Rincez à l'eau froide. Ensuite, mettez le
 
 Si jamais vos grains, vos houblons ou vos levures ne sont pas en stock, demandez à votre magasin de brassage par quoi les remplacer (ou faites une recherche rapide sur Internet).
 
-## Vôtre première brassée 🍺
+## Votre première brassée 🍺
 
 *Merci à Samuel Moreau pour la recette !*
 
@@ -301,7 +301,7 @@ Vous allez avoir besoin de:
 
 Et de façon optionnelle:
 
-* 1 cuillère de thé de irish moss (10min)
+* 1 c.c d’irish moss (10min)
 * Et pour la qualité de l'eau:
     * pH 5.2
     * Ca2+ 15ppm
