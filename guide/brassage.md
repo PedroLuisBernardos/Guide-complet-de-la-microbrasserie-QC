@@ -108,6 +108,8 @@ Cette étape peut se faire de plusieurs façons, je vais vous en proposer deux:
 
 #### Façon 2
 
+Pour plus d'information <a href="https://www.facebook.com/groups/nanobrasseur/permalink/2512529778879231/" target="_blank">voir ce lien-ci</a>
+
     Mash-in:
         Chauffer l'eau jusqu'à 50°C.
         Ajouter les grains.
@@ -116,6 +118,7 @@ Cette étape peut se faire de plusieurs façons, je vais vous en proposer deux:
 
     Mash-out:
         Chauffer jusqu'à 77°C ou 78°C, maintenir durant 10min.
+        
 
 Premièrement, vous remplissez deux chaudrons d'eau selon les quantités nécessaires: l'un pour le mash et l’autre pour le rinçage. *Optionnellement*, vous ajustez le profil de l'eau des deux chaudrons.
 
