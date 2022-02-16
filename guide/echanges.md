@@ -70,3 +70,11 @@ Si jamais vous cherchez du Auval vous avez: <a href="https://www.facebook.com/gr
 Il doit y en avoir d'autres, mais je ne les connais pas !
 
 Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous ne saviez pas si le ratio est le bon): <a href="https://www.facebook.com/groups/301037520961589" target="_blank">VSBQ</a>.
+
+## Proxy
+
+Un **proxy** est lorsqu'une personne ramasse la commande de quelqu'un d'autre. Vous allez souvent voir, lors de *releases* de brasseries, qu'ils mentionnent: **proxys acceptés** ou **proxys interdits**.
+
+## Thank u beer
+
+Vous allez souvent lire *FT: thank you beer* ou bien *ISO: thank you beer*. Ceci veut juste dire *une bière pour remercier le service rendu*. Par exemple, vous êtes le proxy à quelqu'un d'autre, en échange de votre temps et votre déplacement il pourrait vous donner une *thank u beer*.
