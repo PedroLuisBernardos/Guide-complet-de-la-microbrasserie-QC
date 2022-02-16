@@ -61,8 +61,6 @@ Ces produits se vendent principalement à la SAQ ou **très rarement** chez des 
 
 Il y a plusieurs groupes où vous pouvez échanger vos bières. Ils changent tout le temps donc il faut se faire inviter parce qu'ils sont privés. Je vous invite à demander quels sont les groupes du moment dans le groupe général <a href="https://www.facebook.com/groups/257481717787230" target="_blank">Les Trippeux De Bière De Microbrasserie</a>.
 
-*note: FT veut dire For Trade, ISO veut dire In Search Of, IP veut dire In Person*
-
 Si vous ne pouvez pas aller chez Messorem (ou vous ne voulez pas acheter leur 4-pack, vous avez ce groupe-ci: <a href="https://www.facebook.com/groups/583611702281464/" target="_blank">Messorem Bracitorium Enthusiasts</a>.
 
 Si jamais vous cherchez du Auval vous avez: <a href="https://www.facebook.com/groups/2126136684156698/" target="_blank">Spotted Auval</a>.
@@ -71,10 +69,41 @@ Il doit y en avoir d'autres, mais je ne les connais pas !
 
 Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous ne saviez pas si le ratio est le bon): <a href="https://www.facebook.com/groups/301037520961589" target="_blank">VSBQ</a>.
 
-## Proxy
+## Vocabulaire
+
+### FT, ISO, IP
+
+* **FT** veut dire *for trade*, donc les produits que vous échangez.
+* **ISO** veut dire *in search of*, donc les produits que vous cherchez.
+* **IP** veut dire *in person*, donc où vous voulez faire l'échange.
+
+### Proxy
 
 Un **proxy** est lorsqu'une personne ramasse la commande de quelqu'un d'autre. Vous allez souvent voir, lors de *releases* de brasseries, qu'ils mentionnent: **proxys acceptés** ou **proxys interdits**.
 
-## Thank u beer
+### Thank you beer
 
-Vous allez souvent lire *FT: thank you beer* ou bien *ISO: thank you beer*. Ceci veut juste dire *une bière pour remercier le service rendu*. Par exemple, vous êtes le proxy à quelqu'un d'autre, en échange de votre temps et votre déplacement il pourrait vous donner une *thank u beer*.
+Vous allez souvent lire *FT: thank you beer* ou bien *ISO: TYB* par exemple. Ceci veut juste dire *une bière pour remercier le service rendu*. Par exemple, vous êtes le proxy à quelqu'un d'autre, en échange de votre temps et votre déplacement il pourrait vous donner une *thank u beer*.
+
+### Beer mail
+
+Certaines personnes font des *beer mail*, mais je n'ai jamais expérimenté ceci. Je vous conseille de demander dans <a href="https://www.facebook.com/groups/257481717787230" target="_blank">Les Trippeux De Bière De Microbrasserie</a> pour voir comment faire !
+
+### Ratios
+
+Si la qualité, le prix ou la rareté des bières à échanger ne sont pas pareilles, vous pourriez proposer des rations différentes de x:x, où *x* est le nombre de produits. Par exemple, vous pourriez faire 6:4 pour 6 bières de Mellön contre 4 hops de Messorem par exemple.
+
+## Exemples de publication
+
+```
+FT: Proxy BBC
+ISO: thank you beer
+IP: Rimouski
+```
+
+```
+FT: Tilquin Riesling
+ISO: Auval Côte + Espinay
+1:2
+IP: Nord de Montréal
+```
