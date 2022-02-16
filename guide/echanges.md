@@ -61,11 +61,9 @@ Ces produits se vendent principalement à la SAQ ou **très rarement** chez des 
 
 Il y a plusieurs groupes où vous pouvez échanger vos bières. Ils changent tout le temps donc il faut se faire inviter parce qu'ils sont privés. Je vous invite à demander quels sont les groupes du moment dans le groupe général <a href="https://www.facebook.com/groups/257481717787230" target="_blank">Les Trippeux De Bière De Microbrasserie</a>.
 
-Si vous ne pouvez pas aller chez Messorem (ou vous ne voulez pas acheter leur 4-pack, vous avez ce groupe-ci: <a href="https://www.facebook.com/groups/583611702281464/" target="_blank">Messorem Bracitorium Enthusiasts</a>.
+Il y a aussi des groupes spécifiques à une brasserie, par exemple <a href="https://www.facebook.com/groups/583611702281464/" target="_blank">Messorem Bracitorium Enthusiasts</a>, <a href="https://www.facebook.com/groups/266379815043788/" target="_blank">Brewskey Enthusiasts</a>, etc.
 
-Si jamais vous cherchez du Auval vous avez: <a href="https://www.facebook.com/groups/2126136684156698/" target="_blank">Spotted Auval</a>.
-
-Il doit y en avoir d'autres, mais je ne les connais pas !
+Si jamais vous cherchez de la Auval vous avez ce merveilleux groupe: <a href="https://www.facebook.com/groups/2126136684156698/" target="_blank">Spotted Auval</a>.
 
 Voici un groupe pour connaître la valeur secondaire de vos bières (dans le cas où vous vouliez les échanger et vous ne saviez pas si le ratio est le bon): <a href="https://www.facebook.com/groups/301037520961589" target="_blank">VSBQ</a>.
 
