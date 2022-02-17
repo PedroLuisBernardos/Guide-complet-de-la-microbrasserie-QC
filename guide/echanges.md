@@ -12,7 +12,7 @@ Je vous conseille aussi de suivre les nouvelles de vos détaillants de bière (l
 
 La SAQ a beaucoup de bières importées. Suivez les nouveaux arrivages de près, des fois vous pouvez trouver des Gueuzes et Lambic de France ou Belgique de grandes brasseries (comme Cantillon, 3 Fonteinen, de Ranke, etc.).
 
-Il y a d'autres places où trouver des bières importées (sachez que ça coûte assez cher !), entre autres: <a href="https://www.facebook.com/importationpivot" target="_blank">Importation Pivo</a>, <a href="https://www.isledegarde.com/bieres-importees" target="_blank">Isle de Garde</a>, <a href="https://bit.ly/Pub-Pit-Caribou-MTL-Boutique" target="_blank">Pit Caribou</a>, etc.
+Il y a d'autres places où trouver des bières importées (sachez que ça coûte assez cher !), entre autres: <a href="https://www.facebook.com/importationpivot" target="_blank">Importation Pivo</a>, <a href="https://www.isledegarde.com/vin-et-bieresbouteilles" target="_blank">Isle de Garde</a>, <a href="https://bit.ly/Pub-Pit-Caribou-MTL-Boutique" target="_blank">Pit Caribou</a>, etc.
 
 ## Quels styles sont rares ? Quelles brasseries sont rares/échangeables ?
 
