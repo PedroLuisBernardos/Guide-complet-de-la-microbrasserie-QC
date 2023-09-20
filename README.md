@@ -6,9 +6,13 @@
 
 ¡ Hola, Soy Pedro !
 
-Je suis un jeune amateur de bière. J'ai eu ma piqure au début de 2020 et depuis je me suis amusé à essayer pas mal de styles/goûts. Je me suis aussi beaucoup renseigné sur les verres, l'histoire, etc. Je tenais à partager mes expériences, qui ne sont pas énormes, mais qui pourraient être une bonne source d'information pour certains 😁
+Je suis un jeune amateur de bière. J'ai eu ma piqure au début de 2020 et depuis je me suis amusé à essayer pas mal de styles/goûts. Je me suis aussi beaucoup renseigné sur les verres, l'histoire, etc. Je tenais à partager mes expériences, qui ne sont pas énormes, mais qui pourraient être une bonne source d'information pour certains 🍻
 
 Je n’ai pas goûté à *Toutes* les brasseries du Québec. Dans ce guide j'essaie de vous présenter assez de bonnes bières que j'ai goûtées (selon moi) pour que vous puissiez les trouver facilement. Sachez que j'habite à Montréal, donc peut-être les bières *faciles à trouver* pour moi, sont *difficiles à trouver* pour vous !
+
+## Support
+
+☕ Si vous voulez me supporter: https://www.buymeacoffee.com/pedroluisbernardos
 
 ### Quelques infos
 
